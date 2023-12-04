@@ -33,6 +33,16 @@
     </item>
     
     <item>
+      <title>Expressing differences in morphology</title>
+      <link>https://masa10223.github.io/project/example/</link>
+      <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://masa10223.github.io/project/example/</guid>
+      <description>&lt;p&gt;Shape measurement is critical to evolutionary and developmental biology, but it is difficult to objectively and automatically quantify arbitrary shapes. Traditional approaches are based on anatomically salient landmarks and require manual annotation by experts.&lt;/p&gt;
+&lt;p&gt;Therefore, I developed an image-based deep learning framework, Morphological regulated variational AutoEncoder (Morpho-VAE). This is a machine learning approach for landmark-free shape analysis. The proposed architecture combines unsupervised and supervised learning models and reduces dimensionality by focusing on morphological features that distinguish data with different labels. We applied this approach to primate mandible image data. Despite the lack of correlation between the extracted morphological features and phylogenetic distance, the extracted morphological features reflected the characteristics of the family to which the organism belonged. Furthermore, it was shown that the missing parts can be recovered from incomplete images. The proposed method provides a flexible and promising analysis tool for various image data of biological shapes, even for image data containing missing segments.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An example preprint / working paper</title>
       <link>https://masa10223.github.io/publication/preprint/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
@@ -243,7 +253,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-213794586&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-527143689&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -253,7 +263,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-213794586&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-527143689&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -714,16 +724,6 @@ $$&lt;/p&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Expressing differences in morphology</title>
-      <link>https://masa10223.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://masa10223.github.io/project/example/</guid>
-      <description>&lt;p&gt;Shape measurement is critical to evolutionary and developmental biology, but it is difficult to objectively and automatically quantify arbitrary shapes. Traditional approaches are based on anatomically salient landmarks and require manual annotation by experts.&lt;/p&gt;
-&lt;p&gt;Therefore, I developed an image-based deep learning framework, Morphological regulated variational AutoEncoder (Morpho-VAE). This is a machine learning approach for landmark-free shape analysis. The proposed architecture combines unsupervised and supervised learning models and reduces dimensionality by focusing on morphological features that distinguish data with different labels. We applied this approach to primate mandible image data. Despite the lack of correlation between the extracted morphological features and phylogenetic distance, the extracted morphological features reflected the characteristics of the family to which the organism belonged. Furthermore, it was shown that the missing parts can be recovered from incomplete images. The proposed method provides a flexible and promising analysis tool for various image data of biological shapes, even for image data containing missing segments.&lt;/p&gt;
 </description>
     </item>
     
