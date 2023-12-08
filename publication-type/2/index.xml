@@ -14,21 +14,10 @@
     
     <item>
       <title>A deep learning approach for morphological feature extraction based on variational auto-encoder: an application to mandible shape</title>
-      <link>https://masa10223.github.io/publication/journal-article/</link>
+      <link>https://masa10223.github.io/publication/morphovae2023/</link>
       <pubDate>Thu, 06 Jul 2023 17:38:12 +0900</pubDate>
-      <guid>https://masa10223.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>https://masa10223.github.io/publication/morphovae2023/</guid>
+      <description></description>
     </item>
     
   </channel>
