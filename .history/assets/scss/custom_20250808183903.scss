@@ -1,0 +1,71 @@
+/* --- Hero 粒子背景（#hero セクションに重ねる） --- */
+section#hero {
+    position: relative;
+    overflow: hidden;
+  }
+  
+  /* 粒子のレイヤ（純CSSで軽く動くドット模様） */
+section#hero::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    opacity: .25;
+    background-image:
+      radial-gradient(circle at 20% 30%, rgba(255,255,255,.12) 0 2px, transparent 2px),
+      radial-gradient(circle at 70% 60%, rgba(255,255,255,.10) 0 2px, transparent 2px),
+      radial-gradient(circle at 40% 80%, rgba(255,255,255,.08) 0 2px, transparent 2px);
+    background-size: 300px 300px, 400px 400px, 500px 500px;
+    animation: hb-float 45s linear infinite;
+    mix-blend-mode: screen;
+    /* ダーク時に少しだけ明るさアップ */
+  }
+  .dark section#hero::before { opacity: .30; }
+  
+  @keyframes hb-float {
+    0%   { background-position: 0 0, 0 0, 0 0; }
+    100% { background-position: 300px -300px, -400px 400px, 500px -500px; }
+  }
+  
+/* --- Publications をタイムライン風に --- */
+section#publications {
+    position: relative;
+    padding-left: 1.25rem;
+  }
+  section#publications .section-heading { margin-bottom: 1rem; }
+  
+  /* 左の縦線 */
+  section#publications::before {
+    content: "";
+    position: absolute;
+    left: .25rem;
+    top: .5rem;
+    bottom: .5rem;
+    width: 2px;
+    background: linear-gradient(to bottom, rgba(255,255,255,.35), rgba(255,255,255,.1));
+  }
+  .dark section#publications::before {
+    background: linear-gradient(to bottom, rgba(255,255,255,.25), rgba(255,255,255,.05));
+  }
+  
+  /* 各アイテムのドット */
+  section#publications [class*="item"],   /* hb の各行に広く刺さる汎用セレクタ */
+  section#publications li,
+  section#publications article {
+    position: relative;
+    margin-left: .75rem;
+  }
+  section#publications [class*="item"]::before,
+  section#publications li::before,
+  section#publications article::before {
+    content: "";
+    position: absolute;
+    left: -1rem;
+    top: .35rem;
+    width: .55rem;
+    height: .55rem;
+    border-radius: 50%;
+    background: #74a3ff;           /* 青系ドット */
+    box-shadow: 0 0 0 3px rgba(116,163,255,.18);
+  }
+  
