@@ -1,0 +1,45 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f093fb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f5576c;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="300" height="200" fill="url(#bg)"/>
+  
+  <!-- Brain Icon -->
+  <g transform="translate(150, 100)">
+    <!-- Brain outline -->
+    <path d="M-40,-20 Q-50,-30 -40,-40 Q-30,-50 -20,-40 Q-10,-50 0,-40 Q10,-50 20,-40 Q30,-50 40,-40 Q50,-30 40,-20 Q50,-10 40,0 Q50,10 40,20 Q30,30 20,20 Q10,30 0,20 Q-10,30 -20,20 Q-30,30 -40,20 Q-50,10 -40,0 Q-50,-10 -40,-20" 
+          fill="none" stroke="#fff" stroke-width="3"/>
+    
+    <!-- Brain folds -->
+    <path d="M-30,-15 Q-35,-25 -30,-35" fill="none" stroke="#fff" stroke-width="2" opacity="0.8"/>
+    <path d="M-15,-20 Q-20,-30 -15,-40" fill="none" stroke="#fff" stroke-width="2" opacity="0.8"/>
+    <path d="M0,-25 Q5,-35 0,-45" fill="none" stroke="#fff" stroke-width="2" opacity="0.8"/>
+    <path d="M15,-20 Q20,-30 15,-40" fill="none" stroke="#fff" stroke-width="2" opacity="0.8"/>
+    <path d="M30,-15 Q35,-25 30,-35" fill="none" stroke="#fff" stroke-width="2" opacity="0.8"/>
+    
+    <path d="M-30,15 Q-35,25 -30,35" fill="none" stroke="#fff" stroke-width="2" opacity="0.8"/>
+    <path d="M-15,20 Q-20,30 -15,40" fill="none" stroke="#fff" stroke-width="2" opacity="0.8"/>
+    <path d="M0,25 Q5,35 0,45" fill="none" stroke="#fff" stroke-width="2" opacity="0.8"/>
+    <path d="M15,20 Q20,30 15,40" fill="none" stroke="#fff" stroke-width="2" opacity="0.8"/>
+    <path d="M30,15 Q35,25 30,35" fill="none" stroke="#fff" stroke-width="2" opacity="0.8"/>
+  </g>
+  
+  <!-- Stress waves -->
+  <g opacity="0.6">
+    <circle cx="50" cy="50" r="3" fill="#fff"/>
+    <circle cx="60" cy="45" r="2" fill="#fff"/>
+    <circle cx="70" cy="40" r="1.5" fill="#fff"/>
+    
+    <circle cx="250" cy="50" r="3" fill="#fff"/>
+    <circle cx="240" cy="45" r="2" fill="#fff"/>
+    <circle cx="230" cy="40" r="1.5" fill="#fff"/>
+  </g>
+  
+  <!-- Title -->
+  <text x="150" y="190" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="16" font-weight="bold">KANADE</text>
+</svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>堤 真人 | Masato Tsutsumi</title>
+    <link>http://localhost:1315/ja/ja/</link>
+      <atom:link href="http://localhost:1315/ja/ja/index.xml" rel="self" type="application/rss+xml" />
+    <description>堤 真人</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language>
+    <image>
+      <url>http://localhost:1315/media/icon_hu_43cf117bf1a42c34.png</url>
+      <title>堤 真人</title>
+      <link>http://localhost:1315/ja/ja/</link>
+    </image>
+    
+    <item>
+      <title>ホーム</title>
+      <link>http://localhost:1315/ja/ja/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/ja/ja/home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>プロジェクト</title>
+      <link>http://localhost:1315/ja/ja/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/ja/ja/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>研究業績</title>
+      <link>http://localhost:1315/ja/ja/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/ja/ja/publication/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

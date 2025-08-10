@@ -1,0 +1,23 @@
+baseURL = "https://masa10223.github.io/"
+title = "Masato Tsutsumi"
+# Keep English at root ("/") and Japanese at "/ja/"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+paginate = 10
+
+# Speed up Hugo Blox image processing in GitHub Actions
+[caches]
+  [caches.images]
+    dir = ":cacheDir/images"
+
+#[module]
+#  [[module.imports]]
+#    path = "github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5"
+
+[params]
+  description = "Postdoctoral researcher at Hiroshima University. Deep learning for morphology and social stress modeling."
+  dateFormat = "2025-08-08"
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true

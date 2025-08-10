@@ -1,0 +1,25 @@
+[[main]]
+name   = "ホーム"
+pageRef = "home"        # ← 言語プレフィックスも / も不要
+weight = 1
+
+[[main]]
+name   = "プロジェクト"
+url    = "project"     # セクション名だけ
+weight = 20
+
+[[main]]
+name   = "研究業績"
+url    = "publication"
+weight = 30
+
+[[main]]
+name   = "CV"
+url    = "/ja/home/#cv"
+weight = 40
+
+# 連絡先は Home ページ内のウィジェットに飛ばしたいならアンカーを使う
+[[main]]
+name   = "連絡先"
+url    = "/ja/home/#contact"  # ← ここは明示URLでOK（アンカー）
+weight = 50

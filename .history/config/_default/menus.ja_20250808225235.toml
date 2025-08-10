@@ -1,0 +1,24 @@
+[[main]]
+  name = "ホーム"
+  pageRef = "ja/home/"     # ← これ！
+  weight = 1
+
+[[main]]
+  name   = "プロジェクト"
+  pageRef = "ja/project/"  # セクションに飛ぶ
+  weight = 20
+
+[[main]]
+  name   = "研究業績"
+  pageRef = "ja/publication/"
+  weight = 30
+
+[[main]]
+  name   = "CV"
+  pageRef = "ja/cv"
+  weight = 40
+
+[[main]]
+  name   = "連絡先"
+  pageRef = "home/contact"  # ホーム配下のウィジェットにもOK
+  weight = 50

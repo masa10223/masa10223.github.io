@@ -1,0 +1,8 @@
+---
+title: "プロジェクト"
+# 好みで説明や並び順を設定
+summary: "研究プロジェクト一覧"
+type: "widget_page"
+sort_by: "date"
+sort_order: "desc"
+---
