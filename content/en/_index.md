@@ -1,5 +1,0 @@
----
-title: "Masato TSUTSUMI"
-type: widget_page
-url: "/en/home/"
----

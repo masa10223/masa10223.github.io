@@ -1,0 +1,65 @@
+---
+# Basic profile used by the About widget
+name: "Masato TSUTSUMI"
+role: "Designated Assistant Professor"
+organizations:
+  - name: "Nagoya University"
+    url: "https://www.hiroshima-u.ac.jp/"
+avatar: "/uploads/profile.jpg"
+interests:
+  - Deep Learning
+  - Quantification of Morphology
+  - Social Stress Modeling
+education:
+  courses:
+    - course: Ph.D. (Physics)
+      institution: The University of Tokyo
+      year: 2023
+    - course: M.S. (Physics)
+      institution: The University of Tokyo
+      year: 2020
+    - course: B.S. (Physics)
+      institution: The University of Tokyo
+      year: 2018
+social:
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/masa10223
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:tsutsumi.masato.s1@f.mail.nagoya-u.ac.jp
+
+skills:
+  - name: Core
+    items:
+      - name: Variational Autoencoders (VAE)
+        percent: 100
+        icon: project-diagram
+        icon_pack: fas
+      - name: Representation learning
+        percent: 100
+        icon: cubes
+        icon_pack: fas
+      - name: Morphometrics
+        percent: 100
+        icon: dna
+        icon_pack: fas
+  - name: Tooling
+    items:
+      - name: PyTorch
+        percent: 100
+        icon: python
+        icon_pack: fab
+      - name: TensorFlow
+        percent: 80
+        icon: cube
+        icon_pack: fas
+      - name: Tracking (DeepSORT)
+        percent: 90
+        icon: shoe-prints
+        icon_pack: fas
+
+
+---
+
+Short bio: My research develops deep-learning-based morphometrics  and quantitative models of psychological strain under social stress.

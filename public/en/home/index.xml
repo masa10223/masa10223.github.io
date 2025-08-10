@@ -166,6 +166,37 @@
     </item>
     
     <item>
+      <title>CV</title>
+      <link>http://localhost:1313/ja/en/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/en/cv/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Postdoctoral researcher at Hiroshima University. Working on deep learning for morphology and mathematical modeling of social stress.&lt;/p&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ph.D. in Science&lt;/strong&gt;, University of Tokyo (2023)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;M.S. in Science&lt;/strong&gt;, University of Tokyo (2020)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;B.S. in Science&lt;/strong&gt;, University of Tokyo (2018)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Postdoctoral Researcher&lt;/strong&gt;, Hiroshima University (2024– )&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;key-publications&#34;&gt;Key Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Morpho‑VAE… &lt;em&gt;npj Systems Biology and Applications&lt;/em&gt; (2023)&lt;/li&gt;
+&lt;li&gt;Developmental stability… &lt;em&gt;Evolution &amp;amp; Development&lt;/em&gt; (2024)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;grants--awards&#34;&gt;Grants &amp;amp; Awards&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Takeda Science Foundation Medical Research Grant (2025)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;p&gt;Deep Learning, PyTorch/TensorFlow, VAE, Tracking (DeepSORT), Statistical Analysis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Publications</title>
       <link>http://localhost:1313/ja/en/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

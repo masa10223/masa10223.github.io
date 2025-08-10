@@ -10646,3 +10646,12 @@ section[id] {
         color: #fff; }
   [data-theme="dark"] .publications-container hr {
     background: #4a5568; }
+
+/* Disable brand link clicks (text/logo in navbar) */
+.navbar .navbar-brand {
+  pointer-events: none;
+  cursor: default; }
+
+/* Hide auto dates for home widget stream */
+.page-body .media.stream-item .article-metadata .article-date {
+  display: none !important; }

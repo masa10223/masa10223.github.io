@@ -2,41 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ja/en/home/</loc>
+    <loc>http://localhost:1313/en/home/</loc>
   </url><url>
-    <loc>http://localhost:1313/ja/ja/home/</loc>
+    <loc>http://localhost:1313/ja/home/</loc>
   </url><url>
-    <loc>http://localhost:1313/ja/en/hero/</loc>
+    <loc>http://localhost:1313/en/hero/</loc>
   </url><url>
-    <loc>http://localhost:1313/ja/ja/hero/</loc>
+    <loc>http://localhost:1313/ja/hero/</loc>
   </url><url>
-    <loc>http://localhost:1313/ja/en/about/</loc>
+    <loc>http://localhost:1313/en/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/ja/ja/about/</loc>
+    <loc>http://localhost:1313/ja/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/ja/en/skills/</loc>
+    <loc>http://localhost:1313/en/skills/</loc>
   </url><url>
-    <loc>http://localhost:1313/ja/ja/skills/</loc>
+    <loc>http://localhost:1313/en/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/ja/en/projects/</loc>
+    <loc>http://localhost:1313/ja/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/ja/ja/projects/</loc>
+    <loc>http://localhost:1313/en/cv/</loc>
   </url><url>
-    <loc>http://localhost:1313/ja/ja/cv/</loc>
+    <loc>http://localhost:1313/en/publications/</loc>
   </url><url>
-    <loc>http://localhost:1313/ja/en/publications/</loc>
+    <loc>http://localhost:1313/ja/publications/</loc>
   </url><url>
-    <loc>http://localhost:1313/ja/ja/publications/</loc>
+    <loc>http://localhost:1313/en/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/ja/en/contact/</loc>
+    <loc>http://localhost:1313/ja/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/ja/ja/contact/</loc>
+    <loc>http://localhost:1313/authors/admin/</loc>
   </url><url>
-    <loc>http://localhost:1313/ja/authors/admin/</loc>
+    <loc>http://localhost:1313/authors/</loc>
   </url><url>
-    <loc>http://localhost:1313/ja/authors/</loc>
-  </url><url>
-    <loc>http://localhost:1313/ja/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -45,12 +43,14 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ja/en/cv/</loc>
+    <loc>http://localhost:1313/en/</loc>
   </url><url>
     <loc>http://localhost:1313/ja/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -59,16 +59,14 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/home/</loc>
+    <loc>http://localhost:1313/en/project/</loc>
   </url><url>
-    <loc>http://localhost:1313/ja/en/project/</loc>
+    <loc>http://localhost:1313/en/publication/</loc>
   </url><url>
-    <loc>http://localhost:1313/ja/en/publication/</loc>
-  </url><url>
-    <loc>http://localhost:1313/ja/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -77,13 +75,13 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ja/ja/project/</loc>
+    <loc>http://localhost:1313/ja/cv/</loc>
   </url><url>
-    <loc>http://localhost:1313/ja/ja/publication/</loc>
+    <loc>http://localhost:1313/ja/project/</loc>
   </url><url>
-    <loc>http://localhost:1313/ja/home/</loc>
+    <loc>http://localhost:1313/ja/publication/</loc>
   </url>
 </urlset>
