@@ -8,17 +8,17 @@ author: admin
 
 <div id="about"></div>
 
-I am a postdoctoral researcher at the Laboratory of Data-driven Biology at Hiroshima University, working on deep learning for morphology and social stress modeling.
+広島大学データ駆動生物学研究室でポスドク研究者として活動しています。形態の深層学習と社会的ストレスの数理モデルに取り組んでいます。
 
-**Research Topics:**
-- Development of deep learning methods for expressing biological morphological differences
-- Mathematical modeling and analysis of social stress effects
-- Proposal of landmark-free morphological analysis methods
+**研究テーマ:**
+- 生物の形態差を深層学習で表現する手法の開発
+- 社会的ストレスの影響を数理モデルで解析
+- ランドマーク不要の形態解析手法の提案
 
-**Education:**
-- Ph.D. in Science, University of Tokyo (2023)
-- M.S. in Science, University of Tokyo (2020)
-- B.S. in Science, University of Tokyo (2018)
+**学歴:**
+- 博士（理学）, 東京大学 (2023)
+- 修士（理学）, 東京大学 (2020)
+- 学士（理学）, 東京大学 (2018)
 
-**Experience:**
-- Postdoctoral Researcher, Hiroshima University (2024– )
+**職歴:**
+- ポスドク研究者, 広島大学 (2024– )

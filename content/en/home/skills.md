@@ -2,30 +2,30 @@
 widget: features
 headless: true
 weight: 30
-title: Research Areas & Skills
+title: Skills & Research Areas
 feature:
   - icon: brain
     icon_pack: fas
     name: Deep Learning
-    description: PyTorch, TensorFlow, VAE, Tracking (DeepSORT)
+    description: PyTorch, TensorFlow, VAE, 追跡（DeepSORT）
   - icon: dna
     icon_pack: fas
     name: Morphometrics
-    description: Morphometrics, Landmark Analysis
+    description: 形態測定学, ランドマーク解析
   - icon: chart-line
     icon_pack: fas
     name: Data Analysis
-    description: Statistical Analysis, Data Visualization
+    description: 統計解析, データ可視化
   - icon: flask
     icon_pack: fas
     name: Developmental Biology
-    description: Developmental Biology, Evolutionary Biology
+    description: 発生生物学, 進化生物学
 ---
 
 <div id="skills"></div>
 
-## Technical Skills
-- **Programming Languages**: Python, R, MATLAB
-- **Machine Learning**: PyTorch, TensorFlow, Scikit-learn
-- **Databases**: SQL, MongoDB
-- **Others**: Git, Docker, LaTeX
+## 技術スキル
+- **プログラミング言語**: Python, R, MATLAB
+- **機械学習**: PyTorch, TensorFlow, Scikit-learn
+- **データベース**: SQL, MongoDB
+- **その他**: Git, Docker, LaTeX

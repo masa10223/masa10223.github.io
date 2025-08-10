@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Masato Tsutsumi</title>
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <description>Masato Tsutsumi</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_43cf117bf1a42c34.png</url>
+      <title>Masato Tsutsumi</title>
+      <link>http://localhost:1313/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/en/home/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/home/cv/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/ja/cv/&#34;&gt;CV&lt;/a&gt;{.btn .btn-primary}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/home/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/cv/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/ja/cv/&#34;&gt;CVを見る&lt;/a&gt;{.btn .btn-primary}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/ja/home/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/home/cv/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/ja/cv/&#34;&gt;CVを見る&lt;/a&gt;{.btn .btn-primary}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/en/home/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/home/contact/</guid>
+      <description>&lt;div id=&#34;contact&#34;&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: tsutsumi.masato.s1[at]f.mail.nagoya-u.ac.jp&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Address&lt;/strong&gt;: 65 Tsurumai-cho, Showa-ku, Nagoya, Aichi, Japan&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Research&lt;/strong&gt;: Postdoctoral Researcher at Hiroshima University&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>連絡先</title>
+      <link>http://localhost:1313/home/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/contact/</guid>
+      <description>&lt;div id=&#34;contact&#34;&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: tsutsumi.masato.s1[at]f.mail.nagoya-u.ac.jp&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Address&lt;/strong&gt;: 愛知県名古屋市昭和区鶴舞町65番地　医系研究棟2号館5階&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Research&lt;/strong&gt;: 広島大学・ポスドク研究者&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>連絡先</title>
+      <link>http://localhost:1313/ja/home/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/home/contact/</guid>
+      <description>&lt;div id=&#34;contact&#34;&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: tsutsumi.masato.s1[at]f.mail.nagoya-u.ac.jp&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Address&lt;/strong&gt;: 愛知県名古屋市昭和区鶴舞町65番地　医系研究棟2号館5階&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Research&lt;/strong&gt;: 広島大学・ポスドク研究者&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/en/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/project/</guid>
+      <description>&lt;h1 id=&#34;research-projects&#34;&gt;Research Projects&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-morpho-vae-morphological-difference-representation-learning&#34;&gt;🧬 Morpho-VAE: Morphological Difference Representation Learning&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/projects/morpho-vae.jpg&#34; alt=&#34;Morpho-VAE&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;Morphology is a phenotype acquired over a long period of time. There are as many morphologies as there are organisms in the world, and even the same organism has slightly different morphologies. &lt;strong&gt;Morpho-VAE&lt;/strong&gt; is an innovative model that represents these differences using deep learning.&lt;/p&gt;
+&lt;h3 id=&#34;key-features&#34;&gt;Key Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Landmark-free&lt;/strong&gt;: Unlike conventional methods, no specific point designation is required&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Robust to missing data&lt;/strong&gt;: Analysis possible even with incomplete data&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Application to mandible shape&lt;/strong&gt;: Effectiveness demonstrated in primate mandible morphology analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;technical-details&#34;&gt;Technical Details&lt;/h3&gt;
+&lt;p&gt;Using a deep learning architecture based on Variational Autoencoder (VAE), high-dimensional morphological data is efficiently mapped to low-dimensional latent space. Successfully extracts features that distinguish species/families.&lt;/p&gt;
+&lt;h3 id=&#34;applications&#34;&gt;Applications&lt;/h3&gt;
+&lt;p&gt;Wide-ranging applications expected in evolutionary biology, morphology, medical image analysis, archaeology, and other fields.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1038/s41540-023-00293-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📄 Paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/masa10223&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;💻 Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-kanade-batch-effect-removal-technology&#34;&gt;🔬 KANADE: Batch Effect Removal Technology&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/projects/kanade.png&#34; alt=&#34;KANADE&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;background&#34;&gt;Background&lt;/h3&gt;
+&lt;p&gt;In single-cell transcriptomics, &lt;strong&gt;batch effects&lt;/strong&gt; due to differences in experimental conditions are a major obstacle to analysis. Conventional methods have the problem of simultaneously removing biological signals.&lt;/p&gt;
+&lt;h3 id=&#34;kanades-innovation&#34;&gt;KANADE&amp;rsquo;s Innovation&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;KANADE&lt;/strong&gt; is a new method that cleverly distinguishes between biological signals and batch effects by applying Morpho-VAE. Using deep learning, it removes only technical variation while preserving the essential biological patterns in the data.&lt;/p&gt;
+&lt;h3 id=&#34;key-features-1&#34;&gt;Key Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Variational Autoencoder&lt;/strong&gt;: Efficient representation learning through deep learning&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Selective batch effect removal&lt;/strong&gt;: Preserves biological signals, removes only technical variation&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scalability&lt;/strong&gt;: Handles large-scale datasets&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Versatility&lt;/strong&gt;: Applicable to various single-cell analyses&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;practicality&#34;&gt;Practicality&lt;/h3&gt;
+&lt;p&gt;Demonstrates power in integrative analysis, meta-analysis, and database construction from multiple experimental batches.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.biorxiv.org/content/biorxiv/early/2025/04/16/2025.04.10.648296.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📄 Paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/masa10223&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;💻 Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-mathematical-model-of-social-stress&#34;&gt;🧠 Mathematical Model of Social Stress&lt;/h2&gt;
+&lt;div style=&#34;width: 100%; height: 300px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 1rem 0;&#34;&gt;
+  &lt;div style=&#34;text-align: center; color: white;&#34;&gt;
+    &lt;div style=&#34;font-size: 4rem; margin-bottom: 1rem;&#34;&gt;🧠&lt;/div&gt;
+    &lt;div style=&#34;font-size: 1.2rem; font-weight: bold;&#34;&gt;Mathematical Model of Social Stress&lt;/div&gt;
+    &lt;div style=&#34;font-size: 0.9rem; opacity: 0.8;&#34;&gt;社会的ストレスの数理モデル&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;research-objective&#34;&gt;Research Objective&lt;/h3&gt;
+&lt;p&gt;Aims to quantitatively analyze the effects of social stress on individual behavior and physiology using &lt;strong&gt;mathematical models&lt;/strong&gt; and clarify the basic principles of stress response.&lt;/p&gt;
+&lt;h3 id=&#34;approach-methods&#34;&gt;Approach Methods&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Energy landscape analysis&lt;/strong&gt;: Physically represents transitions in psychological states&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bayesian inference&lt;/strong&gt;: Probabilistic modeling of ruminative thinking in the brain&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Free energy principle&lt;/strong&gt;: Analysis based on unified theory of cognitive processes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DOLO (Drosophila tracking with YOLO)&lt;/strong&gt;: Automated behavior tracking using deep learning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;research-achievements&#34;&gt;Research Achievements&lt;/h3&gt;
+&lt;p&gt;Achieves results through multi-layered approaches including psychological state changes during emergency declarations, mouse behavior under social defeat stress, and Drosophila larva behavior analysis.&lt;/p&gt;
+&lt;h3 id=&#34;future-prospects&#34;&gt;Future Prospects&lt;/h3&gt;
+&lt;p&gt;Aims to contribute to understanding and treatment development of stress-related disorders through applications in psychiatry, behavioral science, and social science.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/en/publication/&#34;&gt;📄 Related Papers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/en/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/publication/</guid>
+      <description>&lt;div class=&#34;publications-container&#34;&gt;
+&lt;h2 id=&#34;-peer-reviewed-papers&#34;&gt;📚 Peer-reviewed Papers&lt;/h2&gt;
+&lt;h3 id=&#34;machine-learning--morphological-analysis&#34;&gt;Machine Learning &amp;amp; Morphological Analysis&lt;/h3&gt;
+&lt;div class=&#34;publication-list&#34;&gt;
+&lt;p&gt;&lt;strong&gt;2025&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome&lt;br&gt;
+&lt;em&gt;Shunta Sakaguchi, &lt;strong&gt;Masato Tsutsumi&lt;/strong&gt;, Kentaro Nishi, Honda Naoki&lt;/em&gt;&lt;br&gt;
+bioRxiv (April 16, 2025) &lt;a href=&#34;https://www.biorxiv.org/content/biorxiv/early/2025/04/16/2025.04.10.648296.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2024&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Deciphering the origin of developmental stability: The role of intracellular expression variability in evolutionary conservation&lt;br&gt;
+&lt;em&gt;Yui Uchida, &lt;strong&gt;Masato Tsutsumi&lt;/strong&gt;, Shunsuke Ichii, Naoki Irie, Chikara Furusawa&lt;/em&gt;&lt;br&gt;
+Evolution &amp;amp; Development (March 2024) &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/pdf/10.1111/ede.12473&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt; | &lt;a href=&#34;https://github.com/masa10223/symmetry_analysis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2023&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A deep learning approach for morphological feature extraction based on variational auto-encoder: an application to mandible shape&lt;br&gt;
+&lt;em&gt;&lt;strong&gt;Masato Tsutsumi&lt;/strong&gt;, Nen Saito, Daisuke Koyabu, Chikara Furusawa&lt;/em&gt;&lt;br&gt;
+npj Systems Biology and Applications (July 6, 2023) &lt;a href=&#34;https://doi.org/10.1038/s41540-023-00293-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt; | &lt;a href=&#34;https://github.com/masa10223&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2022&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A method for morphological feature extraction based on variational auto-encoder : an application to mandible shape&lt;br&gt;
+&lt;em&gt;&lt;strong&gt;Masato Tsutsumi&lt;/strong&gt;, Nen Saito, Daisuke Koyabu, Chikara Furusawa&lt;/em&gt;&lt;br&gt;
+Preprint (May 19, 2022)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-invited-talks&#34;&gt;🎤 Invited Talks&lt;/h2&gt;
+&lt;div class=&#34;talk-list&#34;&gt;
+&lt;p&gt;&lt;strong&gt;2024&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Development of quantitative analysis methods for biological morphology using deep learning&lt;br&gt;
+&lt;em&gt;Japan Society for Industrial and Applied Mathematics Annual Meeting 2024&lt;/em&gt; (September 16, 2024)&lt;/li&gt;
+&lt;li&gt;Development of quantitative analysis methods for biological morphology using deep learning&lt;br&gt;
+&lt;em&gt;Online Seminar Series &amp;ldquo;Future of Evolutionary Biology with AI&amp;rdquo;&lt;/em&gt; (March 9, 2024)&lt;/li&gt;
+&lt;li&gt;Development of quantitative analysis methods for biological morphology using deep learning&lt;br&gt;
+&lt;em&gt;8th Theoretical Immunology Workshop&lt;/em&gt; (February 14, 2024)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2022&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quantification of various biological morphologies using machine learning&lt;br&gt;
+&lt;em&gt;Hiroshima University Mathematical Life Sciences Program Seminar&lt;/em&gt; (November 10, 2022)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2021&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quantification and application of biological morphology using machine learning: Focusing on primate mandibles&lt;br&gt;
+&lt;em&gt;National Institute for Basic Biology Departmental Seminar&lt;/em&gt; (October 2021)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conference-presentations&#34;&gt;🗣️ Conference Presentations&lt;/h2&gt;
+&lt;div class=&#34;presentation-list&#34;&gt;
+&lt;p&gt;&lt;strong&gt;2025&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Behavioral analysis of double mutant Drosophila larvae using DOLO (Drosophila tracking with YOLO)&lt;br&gt;
+&lt;em&gt;1st Systems Behavioral Science Workshop&lt;/em&gt; (May 30, 2025)&lt;/li&gt;
+&lt;li&gt;Estimation of psychological state transitions during/after emergency declarations using energy landscape analysis&lt;br&gt;
+&lt;em&gt;SSTB2025 - Spring School for Theoretical Biology 2025-&lt;/em&gt; (February 20, 2025)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2024&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Proposal of morphological quantitative analysis methods using deep learning&lt;br&gt;
+&lt;em&gt;Annual Meeting of the Japanese Society for Mathematical Biology 2024&lt;/em&gt; (September 12, 2024)&lt;/li&gt;
+&lt;li&gt;Quantification of mouse behavior under social defeat stress using mathematical models&lt;br&gt;
+&lt;em&gt;CPSY TOKYO 2024&lt;/em&gt; (March 28, 2024)&lt;/li&gt;
+&lt;li&gt;Mathematical model of rumination in the brain using Bayesian inference&lt;br&gt;
+&lt;em&gt;Spring School for Theoretical Biology 2024&lt;/em&gt; (February 20, 2024)&lt;/li&gt;
+&lt;li&gt;Mathematical model of rumination in the brain using free energy principle&lt;br&gt;
+&lt;em&gt;11th Annual Meeting of the Quantitative Biology Society&lt;/em&gt; (January 6, 2024)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2023&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Unveiling the enigmatic Middle Devonian vertebrate, Palaeospondylus&lt;br&gt;
+&lt;em&gt;The 3rd Asia Evo Conference Symposium&lt;/em&gt; (December 16, 2023)&lt;br&gt;
+Co-authors: Tatsuya Hirasawa, &lt;strong&gt;Masato Tsutsumi&lt;/strong&gt;, Shunsuke Ichii, Shigeru Kuratani&lt;/li&gt;
+&lt;li&gt;Development of a quantitative analysis method for biological morphology using deep learning&lt;br&gt;
+&lt;em&gt;Statphys28 Satellite meeting Statistical Physics and Information-Processing in Living Systems&lt;/em&gt; (August 8, 2023)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2022&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Morphological feature extraction of primate mandibles using variational autoencoders&lt;br&gt;
+&lt;em&gt;10th Annual Meeting of the Quantitative Biology Society&lt;/em&gt; (December 15, 2022)&lt;/li&gt;
+&lt;li&gt;A method for morphological feature extraction based on variational auto-encoder&lt;br&gt;
+&lt;em&gt;60th Annual Meeting of the Biophysical Society of Japan&lt;/em&gt; (September 30, 2022)&lt;/li&gt;
+&lt;li&gt;A Deep learning approach for the shape analysis of the primates mandible&lt;br&gt;
+&lt;em&gt;Euro Evo Devo 2022&lt;/em&gt; (June 1, 2022)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-other-achievements&#34;&gt;📝 Other Achievements&lt;/h2&gt;
+&lt;div class=&#34;misc-list&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Reviews &amp;amp; Commentary&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quantification of biological morphology using machine learning&lt;br&gt;
+&lt;em&gt;Proceedings of the Physical Society of Japan&lt;/em&gt; 75.1 2878-2878 (2020)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Medical AI Related&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Verification of classification methods for 2D OCT images using two-stage networks&lt;br&gt;
+&lt;em&gt;2nd Japanese Society for Medical AI Academic Conference&lt;/em&gt; (January 31, 2020)&lt;br&gt;
+Co-authors: Masahiko Takemura, &lt;strong&gt;Masato Tsutsumi&lt;/strong&gt;, Hiroki Kawai, Kazumi Hakamata, Hideyoshi Fuji&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>研究プロジェクト</title>
+      <link>http://localhost:1313/ja/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/project/</guid>
+      <description>&lt;h1 id=&#34;研究プロジェクト詳細&#34;&gt;研究プロジェクト詳細&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-morpho-vae-形態差の表現学習&#34;&gt;🧬 Morpho-VAE: 形態差の表現学習&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/projects/morpho-vae.jpg&#34; alt=&#34;Morpho-VAE&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;概要&#34;&gt;概要&lt;/h3&gt;
+&lt;p&gt;形態は長い時間をかけて獲得される表現型です。世界には生物の数だけ形態があり、同じ生物でもわずかに異なる形態を持っています。&lt;strong&gt;Morpho-VAE&lt;/strong&gt;は、これらの違いを深層学習で表現する革新的なモデルです。&lt;/p&gt;
+&lt;h3 id=&#34;主な特徴&#34;&gt;主な特徴&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ランドマーク不要&lt;/strong&gt;: 従来手法と異なり、特定点の指定が不要&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;欠損データに頑健&lt;/strong&gt;: 不完全なデータでも解析可能&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;下顎形状への応用&lt;/strong&gt;: 霊長目の下顎形態解析で有効性を実証&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;技術的詳細&#34;&gt;技術的詳細&lt;/h3&gt;
+&lt;p&gt;変分オートエンコーダ（VAE）を基盤とした深層学習アーキテクチャにより、高次元の形態データを低次元の潜在空間に効率的にマッピング。種/科を区別する特徴の自動抽出に成功しています。&lt;/p&gt;
+&lt;h3 id=&#34;応用分野&#34;&gt;応用分野&lt;/h3&gt;
+&lt;p&gt;進化生物学、形態学、医学画像解析、考古学など幅広い分野での応用が期待されます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;関連リンク:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1038/s41540-023-00293-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📄 論文&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/masa10223&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;💻 コード&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-kanade-バッチ効果除去技術&#34;&gt;🔬 KANADE: バッチ効果除去技術&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/projects/kanade.png&#34; alt=&#34;KANADE&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;背景&#34;&gt;背景&lt;/h3&gt;
+&lt;p&gt;単一細胞トランスクリプトミクスでは、実験条件の違いによる&lt;strong&gt;バッチ効果&lt;/strong&gt;が解析の大きな障害となっています。従来手法では生物学的信号も同時に除去してしまう問題がありました。&lt;/p&gt;
+&lt;h3 id=&#34;kanade-の革新性&#34;&gt;KANADE の革新性&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;KANADE&lt;/strong&gt;は、Morpho-VAEを応用し、生物学的信号とバッチ効果を巧みに区別する新しい手法です。深層学習により、データの本質的な生物学的パターンを保持しながら技術的変動のみを除去します。&lt;/p&gt;
+&lt;h3 id=&#34;主な特徴-1&#34;&gt;主な特徴&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;変分オートエンコーダ&lt;/strong&gt;: 深層学習による効率的な表現学習&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;選択的バッチ効果除去&lt;/strong&gt;: 生物学的信号は保持、技術的変動のみ除去&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;スケーラビリティ&lt;/strong&gt;: 大規模データセットにも対応&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;汎用性&lt;/strong&gt;: 様々な単一細胞解析に適用可能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;実用性&#34;&gt;実用性&lt;/h3&gt;
+&lt;p&gt;複数の実験バッチからなるデータの統合解析、メタ解析、データベース構築に威力を発揮します。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;関連リンク:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.biorxiv.org/content/biorxiv/early/2025/04/16/2025.04.10.648296.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📄 論文&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/masa10223&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;💻 コード&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-社会的ストレスの数理モデル&#34;&gt;🧠 社会的ストレスの数理モデル&lt;/h2&gt;
+&lt;div style=&#34;width: 100%; height: 300px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 1rem 0;&#34;&gt;
+  &lt;div style=&#34;text-align: center; color: white;&#34;&gt;
+    &lt;div style=&#34;font-size: 4rem; margin-bottom: 1rem;&#34;&gt;🧠&lt;/div&gt;
+    &lt;div style=&#34;font-size: 1.2rem; font-weight: bold;&#34;&gt;社会的ストレス数理モデル&lt;/div&gt;
+    &lt;div style=&#34;font-size: 0.9rem; opacity: 0.8;&#34;&gt;Mathematical Modeling of Social Stress&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;研究目的&#34;&gt;研究目的&lt;/h3&gt;
+&lt;p&gt;社会的ストレスが個体の行動や生理に与える影響を&lt;strong&gt;数理モデル&lt;/strong&gt;を用いて定量的に解析し、ストレス応答の基本原理を明らかにすることを目指しています。&lt;/p&gt;
+&lt;h3 id=&#34;アプローチ手法&#34;&gt;アプローチ手法&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;エネルギーランドスケープ解析&lt;/strong&gt;: 心理状態の遷移を物理学的に表現&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ベイズ推論&lt;/strong&gt;: 脳内反芻思考の確率的モデリング&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;自由エネルギー原理&lt;/strong&gt;: 認知過程の統一理論に基づく解析&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DOLO（Drosophila tracking with YOLO）&lt;/strong&gt;: 深層学習による行動自動追跡&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;研究成果&#34;&gt;研究成果&lt;/h3&gt;
+&lt;p&gt;緊急事態宣言中の心理状態変化、社会的敗北ストレス下でのマウス行動、ドロソフィラ幼虫の行動解析など、多層的なアプローチで成果を上げています。&lt;/p&gt;
+&lt;h3 id=&#34;将来展望&#34;&gt;将来展望&lt;/h3&gt;
+&lt;p&gt;精神医学、行動科学、社会科学への応用を通じて、ストレス関連疾患の理解と治療法開発に貢献することを目指しています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;関連リンク:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/ja/publication/&#34;&gt;📄 関連論文&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>研究プロジェクト</title>
+      <link>http://localhost:1313/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/</guid>
+      <description>&lt;h1 id=&#34;研究プロジェクト詳細&#34;&gt;研究プロジェクト詳細&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-morpho-vae-形態差の表現学習&#34;&gt;🧬 Morpho-VAE: 形態差の表現学習&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/projects/morpho-vae.jpg&#34; alt=&#34;Morpho-VAE&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;概要&#34;&gt;概要&lt;/h3&gt;
+&lt;p&gt;形態は長い時間をかけて獲得される表現型です。世界には生物の数だけ形態があり、同じ生物でもわずかに異なる形態を持っています。&lt;strong&gt;Morpho-VAE&lt;/strong&gt;は、これらの違いを深層学習で表現する革新的なモデルです。&lt;/p&gt;
+&lt;h3 id=&#34;主な特徴&#34;&gt;主な特徴&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ランドマーク不要&lt;/strong&gt;: 従来手法と異なり、特定点の指定が不要&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;欠損データに頑健&lt;/strong&gt;: 不完全なデータでも解析可能&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;下顎形状への応用&lt;/strong&gt;: 霊長目の下顎形態解析で有効性を実証&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;技術的詳細&#34;&gt;技術的詳細&lt;/h3&gt;
+&lt;p&gt;変分オートエンコーダ（VAE）を基盤とした深層学習アーキテクチャにより、高次元の形態データを低次元の潜在空間に効率的にマッピング。種/科を区別する特徴の自動抽出に成功しています。&lt;/p&gt;
+&lt;h3 id=&#34;応用分野&#34;&gt;応用分野&lt;/h3&gt;
+&lt;p&gt;進化生物学、形態学、医学画像解析、考古学など幅広い分野での応用が期待されます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;関連リンク:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1038/s41540-023-00293-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📄 論文&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/masa10223&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;💻 コード&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-kanade-バッチ効果除去技術&#34;&gt;🔬 KANADE: バッチ効果除去技術&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/images/projects/kanade.png&#34; alt=&#34;KANADE&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;背景&#34;&gt;背景&lt;/h3&gt;
+&lt;p&gt;単一細胞トランスクリプトミクスでは、実験条件の違いによる&lt;strong&gt;バッチ効果&lt;/strong&gt;が解析の大きな障害となっています。従来手法では生物学的信号も同時に除去してしまう問題がありました。&lt;/p&gt;
+&lt;h3 id=&#34;kanade-の革新性&#34;&gt;KANADE の革新性&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;KANADE&lt;/strong&gt;は、Morpho-VAEを応用し、生物学的信号とバッチ効果を巧みに区別する新しい手法です。深層学習により、データの本質的な生物学的パターンを保持しながら技術的変動のみを除去します。&lt;/p&gt;
+&lt;h3 id=&#34;主な特徴-1&#34;&gt;主な特徴&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;変分オートエンコーダ&lt;/strong&gt;: 深層学習による効率的な表現学習&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;選択的バッチ効果除去&lt;/strong&gt;: 生物学的信号は保持、技術的変動のみ除去&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;スケーラビリティ&lt;/strong&gt;: 大規模データセットにも対応&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;汎用性&lt;/strong&gt;: 様々な単一細胞解析に適用可能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;実用性&#34;&gt;実用性&lt;/h3&gt;
+&lt;p&gt;複数の実験バッチからなるデータの統合解析、メタ解析、データベース構築に威力を発揮します。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;関連リンク:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.biorxiv.org/content/biorxiv/early/2025/04/16/2025.04.10.648296.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📄 論文&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/masa10223&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;💻 コード&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-社会的ストレスの数理モデル&#34;&gt;🧠 社会的ストレスの数理モデル&lt;/h2&gt;
+&lt;div style=&#34;width: 100%; height: 300px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 1rem 0;&#34;&gt;
+  &lt;div style=&#34;text-align: center; color: white;&#34;&gt;
+    &lt;div style=&#34;font-size: 4rem; margin-bottom: 1rem;&#34;&gt;🧠&lt;/div&gt;
+    &lt;div style=&#34;font-size: 1.2rem; font-weight: bold;&#34;&gt;社会的ストレス数理モデル&lt;/div&gt;
+    &lt;div style=&#34;font-size: 0.9rem; opacity: 0.8;&#34;&gt;Mathematical Modeling of Social Stress&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;研究目的&#34;&gt;研究目的&lt;/h3&gt;
+&lt;p&gt;社会的ストレスが個体の行動や生理に与える影響を&lt;strong&gt;数理モデル&lt;/strong&gt;を用いて定量的に解析し、ストレス応答の基本原理を明らかにすることを目指しています。&lt;/p&gt;
+&lt;h3 id=&#34;アプローチ手法&#34;&gt;アプローチ手法&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;エネルギーランドスケープ解析&lt;/strong&gt;: 心理状態の遷移を物理学的に表現&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ベイズ推論&lt;/strong&gt;: 脳内反芻思考の確率的モデリング&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;自由エネルギー原理&lt;/strong&gt;: 認知過程の統一理論に基づく解析&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DOLO（Drosophila tracking with YOLO）&lt;/strong&gt;: 深層学習による行動自動追跡&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;研究成果&#34;&gt;研究成果&lt;/h3&gt;
+&lt;p&gt;緊急事態宣言中の心理状態変化、社会的敗北ストレス下でのマウス行動、ドロソフィラ幼虫の行動解析など、多層的なアプローチで成果を上げています。&lt;/p&gt;
+&lt;h3 id=&#34;将来展望&#34;&gt;将来展望&lt;/h3&gt;
+&lt;p&gt;精神医学、行動科学、社会科学への応用を通じて、ストレス関連疾患の理解と治療法開発に貢献することを目指しています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;関連リンク:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/ja/publication/&#34;&gt;📄 関連論文&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>研究業績</title>
+      <link>http://localhost:1313/ja/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/publication/</guid>
+      <description>&lt;div class=&#34;publications-container&#34;&gt;
+&lt;h2 id=&#34;-査読付き論文&#34;&gt;📚 査読付き論文&lt;/h2&gt;
+&lt;h3 id=&#34;機械学習形態解析&#34;&gt;機械学習・形態解析&lt;/h3&gt;
+&lt;div class=&#34;publication-list&#34;&gt;
+&lt;p&gt;&lt;strong&gt;2025&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome&lt;br&gt;
+&lt;em&gt;Shunta Sakaguchi, &lt;strong&gt;Masato Tsutsumi&lt;/strong&gt;, Kentaro Nishi, Honda Naoki&lt;/em&gt;&lt;br&gt;
+bioRxiv (2025年4月16日) &lt;a href=&#34;https://www.biorxiv.org/content/biorxiv/early/2025/04/16/2025.04.10.648296.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2024&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Deciphering the origin of developmental stability: The role of intracellular expression variability in evolutionary conservation&lt;br&gt;
+&lt;em&gt;Yui Uchida, &lt;strong&gt;Masato Tsutsumi&lt;/strong&gt;, Shunsuke Ichii, Naoki Irie, Chikara Furusawa&lt;/em&gt;&lt;br&gt;
+Evolution &amp;amp; Development (2024年3月) &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/pdf/10.1111/ede.12473&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt; | &lt;a href=&#34;https://github.com/masa10223/symmetry_analysis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2023&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A deep learning approach for morphological feature extraction based on variational auto-encoder: an application to mandible shape&lt;br&gt;
+&lt;em&gt;&lt;strong&gt;Masato Tsutsumi&lt;/strong&gt;, Nen Saito, Daisuke Koyabu, Chikara Furusawa&lt;/em&gt;&lt;br&gt;
+npj Systems Biology and Applications (2023年7月6日) &lt;a href=&#34;https://doi.org/10.1038/s41540-023-00293-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt; | &lt;a href=&#34;https://github.com/masa10223&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2022&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A method for morphological feature extraction based on variational auto-encoder : an application to mandible shape&lt;br&gt;
+&lt;em&gt;&lt;strong&gt;Masato Tsutsumi&lt;/strong&gt;, Nen Saito, Daisuke Koyabu, Chikara Furusawa&lt;/em&gt;&lt;br&gt;
+プリプリント (2022年5月19日)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-招待講演&#34;&gt;🎤 招待講演&lt;/h2&gt;
+&lt;div class=&#34;talk-list&#34;&gt;
+&lt;p&gt;&lt;strong&gt;2024&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;深層学習による生物形態定量解析手法の開発&lt;br&gt;
+&lt;em&gt;日本応用数理学会2024年度 年会&lt;/em&gt; (2024年9月16日)&lt;/li&gt;
+&lt;li&gt;深層学習を用いた生物形態の定量解析手法の開発&lt;br&gt;
+&lt;em&gt;シリーズオンラインセミナー「AIが切り開く進化生物学の未来」&lt;/em&gt; (2024年3月9日)&lt;/li&gt;
+&lt;li&gt;深層学習を用いた生物形態の定量解析手法の開発&lt;br&gt;
+&lt;em&gt;第8回理論免疫学ワークショップ&lt;/em&gt; (2024年2月14日)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2022&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;機械学習を用いた様々な生物形態の定量化&lt;br&gt;
+&lt;em&gt;広島大学数理生命科学プログラムセミナー&lt;/em&gt; (2022年11月10日)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2021&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;機械学習を用いた生物形態の定量化とその応用について 霊長目の下顎骨を対象として&lt;br&gt;
+&lt;em&gt;基礎生物学研究所部門セミナー&lt;/em&gt; (2021年10月)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-学会発表&#34;&gt;🗣️ 学会発表&lt;/h2&gt;
+&lt;div class=&#34;presentation-list&#34;&gt;
+&lt;p&gt;&lt;strong&gt;2025&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;DOLO(Drosophila tracking with YOLO)による2重変異体ハエ幼虫の行動解析&lt;br&gt;
+&lt;em&gt;第一回システム行動学研究会&lt;/em&gt; (2025年5月30日)&lt;/li&gt;
+&lt;li&gt;エネルギーランドスケープ解析による緊急事態宣言中/後における心理状態遷移の推定&lt;br&gt;
+&lt;em&gt;SSTB2025 -Spring School for Theoretical Biology 2025-&lt;/em&gt; (2025年2月20日)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2024&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;深層学習による形態定量解析手法の提案&lt;br&gt;
+&lt;em&gt;2024年度日本数理生物学会年会&lt;/em&gt; (2024年9月12日)&lt;/li&gt;
+&lt;li&gt;数理モデルを用いた社会的敗北ストレス下でのマウス行動の定量化&lt;br&gt;
+&lt;em&gt;CPSY TOKYO 2024&lt;/em&gt; (2024年3月28日)&lt;/li&gt;
+&lt;li&gt;ベイズ推論を用いた脳内反芻思考の数理モデル&lt;br&gt;
+&lt;em&gt;理論生物学スプリングスクール2024&lt;/em&gt; (2024年2月20日)&lt;/li&gt;
+&lt;li&gt;自由エネルギー原理を用いた脳内反芻思考の数理モデル&lt;br&gt;
+&lt;em&gt;定量生物学の会 第十一回年会&lt;/em&gt; (2024年1月6日)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2023&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Unveiling the enigmatic Middle Devonian vertebrate, Palaeospondylus&lt;br&gt;
+&lt;em&gt;The 3rd Asia Evo Conference Symposium&lt;/em&gt; (2023年12月16日)&lt;br&gt;
+共著: Tatsuya Hirasawa, &lt;strong&gt;Masato Tsutsumi&lt;/strong&gt;, Shunsuke Ichii, Shigeru Kuratani&lt;/li&gt;
+&lt;li&gt;Development of a quantitative analysis method for biological morphology using deep learning&lt;br&gt;
+&lt;em&gt;Statphys28 Satellite meeting Statistical Physics and Information-Processing in Living Systems&lt;/em&gt; (2023年8月8日)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2022&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;変分オートエンコーダを用いた霊長目の下顎形態特徴量抽出&lt;br&gt;
+&lt;em&gt;定量生物学の会第十回年会&lt;/em&gt; (2022年12月15日)&lt;/li&gt;
+&lt;li&gt;A method for morphological feature extraction based on variational auto-encoder&lt;br&gt;
+&lt;em&gt;第60回日本生物物理学会年会&lt;/em&gt; (2022年9月30日)&lt;/li&gt;
+&lt;li&gt;A Deep learning approach for the shape analysis of the primates mandible&lt;br&gt;
+&lt;em&gt;Euro Evo Devo 2022&lt;/em&gt; (2022年6月1日)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-その他の業績&#34;&gt;📝 その他の業績&lt;/h2&gt;
+&lt;div class=&#34;misc-list&#34;&gt;
+&lt;p&gt;&lt;strong&gt;解説・総説&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;機械学習を用いた生物形態の定量化&lt;br&gt;
+&lt;em&gt;日本物理学会講演概要集&lt;/em&gt; 75.1 2878-2878 (2020年)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;医療AI関連&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;２段階ネットワークを用いた２次元OCT画像の分類手法の検証&lt;br&gt;
+&lt;em&gt;第二回 日本メディカルAI学会 学術集会&lt;/em&gt; (2020年1月31日)&lt;br&gt;
+共著: 竹村昌彦, &lt;strong&gt;堤真人&lt;/strong&gt;, 河合宏紀, 袴田和巳, 藤秀義&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>研究業績</title>
+      <link>http://localhost:1313/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/</guid>
+      <description>&lt;div class=&#34;publications-container&#34;&gt;
+&lt;h2 id=&#34;-査読付き論文&#34;&gt;📚 査読付き論文&lt;/h2&gt;
+&lt;h3 id=&#34;機械学習形態解析&#34;&gt;機械学習・形態解析&lt;/h3&gt;
+&lt;div class=&#34;publication-list&#34;&gt;
+&lt;p&gt;&lt;strong&gt;2025&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome&lt;br&gt;
+&lt;em&gt;Shunta Sakaguchi, &lt;strong&gt;Masato Tsutsumi&lt;/strong&gt;, Kentaro Nishi, Honda Naoki&lt;/em&gt;&lt;br&gt;
+bioRxiv (2025年4月16日) &lt;a href=&#34;https://www.biorxiv.org/content/biorxiv/early/2025/04/16/2025.04.10.648296.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2024&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Deciphering the origin of developmental stability: The role of intracellular expression variability in evolutionary conservation&lt;br&gt;
+&lt;em&gt;Yui Uchida, &lt;strong&gt;Masato Tsutsumi&lt;/strong&gt;, Shunsuke Ichii, Naoki Irie, Chikara Furusawa&lt;/em&gt;&lt;br&gt;
+Evolution &amp;amp; Development (2024年3月) &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/pdf/10.1111/ede.12473&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt; | &lt;a href=&#34;https://github.com/masa10223/symmetry_analysis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2023&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A deep learning approach for morphological feature extraction based on variational auto-encoder: an application to mandible shape&lt;br&gt;
+&lt;em&gt;&lt;strong&gt;Masato Tsutsumi&lt;/strong&gt;, Nen Saito, Daisuke Koyabu, Chikara Furusawa&lt;/em&gt;&lt;br&gt;
+npj Systems Biology and Applications (2023年7月6日) &lt;a href=&#34;https://doi.org/10.1038/s41540-023-00293-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt; | &lt;a href=&#34;https://github.com/masa10223&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2022&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A method for morphological feature extraction based on variational auto-encoder : an application to mandible shape&lt;br&gt;
+&lt;em&gt;&lt;strong&gt;Masato Tsutsumi&lt;/strong&gt;, Nen Saito, Daisuke Koyabu, Chikara Furusawa&lt;/em&gt;&lt;br&gt;
+プリプリント (2022年5月19日)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-招待講演&#34;&gt;🎤 招待講演&lt;/h2&gt;
+&lt;div class=&#34;talk-list&#34;&gt;
+&lt;p&gt;&lt;strong&gt;2024&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;深層学習による生物形態定量解析手法の開発&lt;br&gt;
+&lt;em&gt;日本応用数理学会2024年度 年会&lt;/em&gt; (2024年9月16日)&lt;/li&gt;
+&lt;li&gt;深層学習を用いた生物形態の定量解析手法の開発&lt;br&gt;
+&lt;em&gt;シリーズオンラインセミナー「AIが切り開く進化生物学の未来」&lt;/em&gt; (2024年3月9日)&lt;/li&gt;
+&lt;li&gt;深層学習を用いた生物形態の定量解析手法の開発&lt;br&gt;
+&lt;em&gt;第8回理論免疫学ワークショップ&lt;/em&gt; (2024年2月14日)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2022&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;機械学習を用いた様々な生物形態の定量化&lt;br&gt;
+&lt;em&gt;広島大学数理生命科学プログラムセミナー&lt;/em&gt; (2022年11月10日)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2021&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;機械学習を用いた生物形態の定量化とその応用について 霊長目の下顎骨を対象として&lt;br&gt;
+&lt;em&gt;基礎生物学研究所部門セミナー&lt;/em&gt; (2021年10月)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-学会発表&#34;&gt;🗣️ 学会発表&lt;/h2&gt;
+&lt;div class=&#34;presentation-list&#34;&gt;
+&lt;p&gt;&lt;strong&gt;2025&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;DOLO(Drosophila tracking with YOLO)による2重変異体ハエ幼虫の行動解析&lt;br&gt;
+&lt;em&gt;第一回システム行動学研究会&lt;/em&gt; (2025年5月30日)&lt;/li&gt;
+&lt;li&gt;エネルギーランドスケープ解析による緊急事態宣言中/後における心理状態遷移の推定&lt;br&gt;
+&lt;em&gt;SSTB2025 -Spring School for Theoretical Biology 2025-&lt;/em&gt; (2025年2月20日)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2024&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;深層学習による形態定量解析手法の提案&lt;br&gt;
+&lt;em&gt;2024年度日本数理生物学会年会&lt;/em&gt; (2024年9月12日)&lt;/li&gt;
+&lt;li&gt;数理モデルを用いた社会的敗北ストレス下でのマウス行動の定量化&lt;br&gt;
+&lt;em&gt;CPSY TOKYO 2024&lt;/em&gt; (2024年3月28日)&lt;/li&gt;
+&lt;li&gt;ベイズ推論を用いた脳内反芻思考の数理モデル&lt;br&gt;
+&lt;em&gt;理論生物学スプリングスクール2024&lt;/em&gt; (2024年2月20日)&lt;/li&gt;
+&lt;li&gt;自由エネルギー原理を用いた脳内反芻思考の数理モデル&lt;br&gt;
+&lt;em&gt;定量生物学の会 第十一回年会&lt;/em&gt; (2024年1月6日)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2023&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Unveiling the enigmatic Middle Devonian vertebrate, Palaeospondylus&lt;br&gt;
+&lt;em&gt;The 3rd Asia Evo Conference Symposium&lt;/em&gt; (2023年12月16日)&lt;br&gt;
+共著: Tatsuya Hirasawa, &lt;strong&gt;Masato Tsutsumi&lt;/strong&gt;, Shunsuke Ichii, Shigeru Kuratani&lt;/li&gt;
+&lt;li&gt;Development of a quantitative analysis method for biological morphology using deep learning&lt;br&gt;
+&lt;em&gt;Statphys28 Satellite meeting Statistical Physics and Information-Processing in Living Systems&lt;/em&gt; (2023年8月8日)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2022&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;変分オートエンコーダを用いた霊長目の下顎形態特徴量抽出&lt;br&gt;
+&lt;em&gt;定量生物学の会第十回年会&lt;/em&gt; (2022年12月15日)&lt;/li&gt;
+&lt;li&gt;A method for morphological feature extraction based on variational auto-encoder&lt;br&gt;
+&lt;em&gt;第60回日本生物物理学会年会&lt;/em&gt; (2022年9月30日)&lt;/li&gt;
+&lt;li&gt;A Deep learning approach for the shape analysis of the primates mandible&lt;br&gt;
+&lt;em&gt;Euro Evo Devo 2022&lt;/em&gt; (2022年6月1日)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-その他の業績&#34;&gt;📝 その他の業績&lt;/h2&gt;
+&lt;div class=&#34;misc-list&#34;&gt;
+&lt;p&gt;&lt;strong&gt;解説・総説&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;機械学習を用いた生物形態の定量化&lt;br&gt;
+&lt;em&gt;日本物理学会講演概要集&lt;/em&gt; 75.1 2878-2878 (2020年)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;医療AI関連&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;２段階ネットワークを用いた２次元OCT画像の分類手法の検証&lt;br&gt;
+&lt;em&gt;第二回 日本メディカルAI学会 学術集会&lt;/em&gt; (2020年1月31日)&lt;br&gt;
+共著: 竹村昌彦, &lt;strong&gt;堤真人&lt;/strong&gt;, 河合宏紀, 袴田和巳, 藤秀義&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

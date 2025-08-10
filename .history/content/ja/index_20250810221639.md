@@ -1,0 +1,4 @@
+---
+title: "ホーム"
+type: widget_page
+---

@@ -1,0 +1,24 @@
+[[main]]
+  name = "Home"
+  url = "/en/"
+  weight = 1
+
+[[main]]
+  name   = "Projects"
+  url = "/en/project/"
+  weight = 20
+
+[[main]]
+  name   = "Publications"
+  url = "/en/publication/"
+  weight = 30
+
+[[main]]
+  name   = "CV"
+  url = "/en/cv/"
+  weight = 40
+
+[[main]]
+  name   = "Contact"
+  url = "/en/#contact"
+  weight = 50

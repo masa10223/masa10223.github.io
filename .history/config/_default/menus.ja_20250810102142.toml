@@ -1,0 +1,25 @@
+[[main]]
+name   = "ホーム"
+url = "/home/"
+weight = 1
+
+[[main]]
+name   = "プロジェクト"
+url = "/project/"
+weight = 20
+
+[[main]]
+name   = "研究業績"
+url = "/publication/"
+weight = 30
+
+[[main]]
+name   = "CV"
+url = "/cv/"
+weight = 40
+
+# 連絡先は Home ページ内のウィジェットに飛ばしたいならアンカーを使う
+[[main]]
+name   = "連絡先"
+url = "/#contact"
+weight = 50
