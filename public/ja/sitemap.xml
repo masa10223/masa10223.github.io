@@ -20,6 +20,8 @@
   </url><url>
     <loc>http://localhost:1313/ja/projects/</loc>
   </url><url>
+    <loc>http://localhost:1313/en/cv/</loc>
+  </url><url>
     <loc>http://localhost:1313/en/publications/</loc>
   </url><url>
     <loc>http://localhost:1313/ja/publications/</loc>
@@ -43,8 +45,6 @@
                 hreflang="ja"
                 href="http://localhost:1313/categories/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/en/cv/</loc>
   </url><url>
     <loc>http://localhost:1313/en/</loc>
   </url><url>
