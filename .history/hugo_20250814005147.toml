@@ -21,17 +21,9 @@ defaultContentLanguageInSubdir = false
   description = "Postdoctoral researcher at Hiroshima University. Deep learning for morphology and social stress modeling."
   dateFormat = "2025-08-08"
   
-  # Analytics Options
+  # Google Analytics 4
   [params.analytics]
-    # Google Analytics 4
-    google_analytics = "G-DZZ827DJLF"  # あなたの測定IDに置き換えてください
-    
-    # Plausible Analytics (プライバシー重視)
-    # plausible_domain = "masa10223.github.io"
-    # plausible_script = "https://plausible.io/js/script.js"
-  
-  # UI Options
-  show_visitor_counter = false  # 訪問者カウンターを表示するかどうか
+    google_analytics = "G-XXXXXXXXXX"  # あなたの測定IDに置き換えてください
 
 [markup]
   [markup.goldmark.renderer]

@@ -24,7 +24,7 @@ defaultContentLanguageInSubdir = false
   # Analytics Options
   [params.analytics]
     # Google Analytics 4
-    google_analytics = "G-DZZ827DJLF"  # あなたの測定IDに置き換えてください
+    google_analytics = "G-XXXXXXXXXX"  # あなたの測定IDに置き換えてください
     
     # Plausible Analytics (プライバシー重視)
     # plausible_domain = "masa10223.github.io"

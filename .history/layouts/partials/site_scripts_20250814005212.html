@@ -1,0 +1,44 @@
+{{/* Custom tracking scripts */}}
+
+{{/* Google Analytics 4 */}}
+{{ if site.Params.analytics.google_analytics }}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.Params.analytics.google_analytics }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ site.Params.analytics.google_analytics }}');
+</script>
+{{ end }}
+
+{{/* Plausible Analytics */}}
+{{ if site.Params.analytics.plausible_domain }}
+<script defer data-domain="{{ site.Params.analytics.plausible_domain }}" src="{{ site.Params.analytics.plausible_script | default "https://plausible.io/js/script.js" }}"></script>
+{{ end }}
+
+{{/* Custom tracking code can be added here */}}
+<script>
+// カスタムイベントトラッキング例
+document.addEventListener('DOMContentLoaded', function() {
+  // ページビューイベント
+  if (typeof gtag !== 'undefined') {
+    gtag('event', 'page_view', {
+      page_title: document.title,
+      page_location: window.location.href
+    });
+  }
+  
+  // 外部リンククリック追跡
+  document.querySelectorAll('a[href^="http"]').forEach(function(link) {
+    link.addEventListener('click', function() {
+      if (typeof gtag !== 'undefined') {
+        gtag('event', 'click_external_link', {
+          link_url: this.href,
+          link_text: this.textContent
+        });
+      }
+    });
+  });
+});
+</script>
