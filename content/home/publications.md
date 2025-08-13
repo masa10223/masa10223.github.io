@@ -45,7 +45,7 @@ build:
 <div class="links">
 <a href="https://doi.org/10.1038/s41540-023-00293-6">PDF</a>
 <a href="https://github.com/masa10223">Code</a>
-<a href="/ja/publication/">詳細はこちら</a>
+<a href="/publication/">詳細はこちら</a>
 </div>
 </div>
 
@@ -65,7 +65,7 @@ build:
 <div class="links">
 <a href="https://onlinelibrary.wiley.com/doi/pdf/10.1111/ede.12473">PDF</a>
 <a href="https://github.com/masa10223/symmetry_analysis">Code</a>
-<a href="/ja/publication/">詳細はこちら</a>
+<a href="/publication/">詳細はこちら</a>
 </div>
 </div>
 
@@ -84,7 +84,7 @@ build:
 <div class="title">Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome</div>
 <div class="links">
 <a href="https://www.biorxiv.org/content/biorxiv/early/2025/04/16/2025.04.10.648296.full.pdf">PDF</a>
-<a href="/ja/publication/">詳細はこちら</a>
+<a href="/publication/">詳細はこちら</a>
 </div>
 </div>
 

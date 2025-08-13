@@ -1,17 +1,17 @@
 ---
 widget: hero
 headless: true
-active: false
+active: true
 weight: 10
 hero:
   title: "堤 真人"
   subtitle: "広島大学・ポスドク研究者"
   cta:
     label: "CVを見る"
-    url: "/ja/cv/"
+    url: "/cv/"
   cta_alt:
     label: "研究業績"
-    url: "/ja/publication/"
+    url: "/publication/"
   image: "uploads/profile.png"
 ---
 

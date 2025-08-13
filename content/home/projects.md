@@ -14,7 +14,7 @@ build:
 
 <div class="home-project-gallery">
 
-<div class="home-project-item" onclick="window.location.href='/ja/project/#morphovae-detail'">
+<div class="home-project-item" onclick="window.location.href='/project/#morphovae-detail'">
   <div class="home-project-image">
     <img src="/images/projects/morpho-vae.jpg" alt="Morpho-VAE">
   </div>
@@ -29,7 +29,7 @@ build:
   </div>
 </div>
 
-<div class="home-project-item" onclick="window.location.href='/ja/project/#kanade-detail'">
+<div class="home-project-item" onclick="window.location.href='/project/#kanade-detail'">
   <div class="home-project-image">
     <img src="/images/projects/kanade.png" alt="KANADE">
   </div>
@@ -44,7 +44,7 @@ build:
   </div>
 </div>
 
-<div class="home-project-item" onclick="window.location.href='/ja/project/#stress-detail'">
+<div class="home-project-item" onclick="window.location.href='/project/#stress-detail'">
   <div class="home-project-image">
     <div class="placeholder-image">
       <div class="icon">🧠</div>
@@ -62,7 +62,7 @@ build:
 </div>
 
 
-<div class="home-project-item" onclick="window.location.href='/ja/project/#dolo-detail'">
+<div class="home-project-item" onclick="window.location.href='/project/#dolo-detail'">
   <div class="home-project-image">
     <div class="placeholder-image">
       <div class="icon">🪰</div>
@@ -82,5 +82,5 @@ build:
 </div>
 
 <div class="view-all-projects">
-  <a href="/ja/project/">すべてのプロジェクトを見る →</a>
+  <a href="/project/">すべてのプロジェクトを見る →</a>
 </div>
