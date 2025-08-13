@@ -1,0 +1,17 @@
+---
+widget: collection
+headless: true
+active: true
+weight: 10
+title: Information
+content:
+  filters:
+    folders:
+      - post        # ← postsを情報源にする（後述の「news」に変えることも可）
+    count: 12       # 表示件数
+  sort_by: "date"
+  sort_ascending: false
+design:
+  view: compact     # タイトル＋日付の簡易リスト
+  columns: "1"
+---

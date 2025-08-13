@@ -1,0 +1,9 @@
+---
+title: "ホームページを公開しました。"
+date: 2025-08-12T00:00:00+09:00
+summary: "ホームページを公開しました。"
+draft: false
+---
+本ページを公開しました。　英語版はまだ未着手です。徐々に更新しいていければと思います。
+
+I opened my site, however, english version is under construction. 
