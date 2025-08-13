@@ -16,6 +16,6 @@ content:
   excerpt:
     enable: false   # 抜粋表示を無効化
 design:
-  view: citation    # タイトルと日付のみの最小表示
+  view: compact     # コンパクト表示で日付とタイトル
   columns: "1"
 ---
