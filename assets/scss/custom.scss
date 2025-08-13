@@ -1290,13 +1290,44 @@ section[id] {
   margin-top: 0.5rem !important;
 }
 
-/* Remove blue dots from publication items */
+/* Remove blue dots from publication items and research section */
 .publication-item::before,
-.publication-item::after {
+.publication-item::after,
+.research-stats::before,
+.research-stats::after,
+#publications::before,
+#publications::after,
+.publications-section::before,
+.publications-section::after {
   display: none !important;
 }
 
 .publication-item {
+  list-style: none !important;
+}
+
+/* Remove blue dots from section titles and Hugo Blox elements */
+h1::before,
+h1::after,
+h2::before,
+h2::after,
+h3::before,
+h3::after,
+.widget::before,
+.widget::after,
+.section::before,
+.section::after,
+.container::before,
+.container::after {
+  display: none !important;
+}
+
+/* Remove bullet points from specific elements */
+.publication-item,
+.research-stats,
+#publications,
+.widget,
+.section {
   list-style: none !important;
 }
 
