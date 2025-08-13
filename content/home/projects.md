@@ -3,8 +3,8 @@ widget: blank
 headless: true
 active: true
 weight: 40
-title: プロジェクト
-subtitle: "研究プロジェクト"
+title: プロジェクト一覧
+
 build:
   render: never
   list: never

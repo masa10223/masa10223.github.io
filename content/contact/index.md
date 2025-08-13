@@ -1,9 +1,7 @@
 ---
-widget: contact
-id: contact
-weight: 60
-title: 連絡先
-# Simple contact block — direct email listed below
+title: "連絡先"
+type: "page"
+layout: "single"
 ---
 
 <div id="contact"></div>

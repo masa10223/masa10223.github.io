@@ -7,6 +7,7 @@ layout: "single"
 ---
 
 ## 🧬 Morpho-VAE: 形態差の表現学習
+<div id="morphovae-detail">
 
 ![Morpho-VAE](/images/projects/morpho-vae.jpg)
 
@@ -29,9 +30,11 @@ layout: "single"
 - [📄 論文](https://doi.org/10.1038/s41540-023-00293-6)
 - [💻 コード](https://github.com/masa10223)
 
+</div>
 ---
 
 ## 🔬 KANADE: バッチ効果除去技術
+<div id="kanade-detail">
 
 ![KANADE](/images/projects/kanade.png)
 
@@ -42,7 +45,7 @@ layout: "single"
 **KANADE**は、Morpho-VAEを応用し、生物学的信号とバッチ効果を巧みに区別する新しい手法です。深層学習により、データの本質的な生物学的パターンを保持しながら技術的変動のみを除去します。
 
 ### 主な特徴
-- **変文オートエンコーダー(VAE)**: 深層学習による効率的な表現学習
+- **変分オートエンコーダー(VAE)**: 深層学習による効率的な表現学習
 - **選択的バッチ効果除去**: 生物学的信号は保持、技術的変動のみ除去
 - **スケーラビリティ**: 大規模データセットにも対応
 - **汎用性**: さまざまな単一細胞解析に適用可能
@@ -54,10 +57,11 @@ layout: "single"
 - [📄 論文](https://www.biorxiv.org/content/biorxiv/early/2025/04/16/2025.04.10.648296.full.pdf)
 - [💻 コード](https://github.com/masa10223)
 
+</div>
 ---
 
 ## 🧠 社会的ストレスの数理モデル
-
+<div id="stress-detail">
 <div style="width: 100%; height: 300px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 1rem 0;">
   <div style="text-align: center; color: white;">
     <div style="font-size: 4rem; margin-bottom: 1rem;">🧠</div>
@@ -83,11 +87,11 @@ layout: "single"
 **関連リンク:**
 - [📄 関連論文](/ja/publication/)
 
-
+</div>
 ---
 
 ## 🪰 Drosophila Tracking with YOLO (DOLO)
-
+<div id="dolo-detail">
 <div style="width: 100%; height: 300px; background: linear-gradient(135deg,rgb(102, 234, 142) 0%,rgb(59, 78, 224) 100%); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 1rem 0;">
   <div style="text-align: center; color: white;">
     <div style="font-size: 4rem; margin-bottom: 1rem;">🪰</div>
@@ -112,3 +116,5 @@ layout: "single"
 
 **関連リンク:**
 - [📄 関連論文](/ja/publication/)
+
+</div>
