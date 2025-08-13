@@ -48,25 +48,17 @@ background: linear-gradient(to bottom, rgba(255,255,255,.35), rgba(255,255,255,.
 background: linear-gradient(to bottom, rgba(255,255,255,.25), rgba(255,255,255,.05));
 }
 
-/* 各アイテムのドット */
+/* 各アイテムのドット - 無効化 */
 section#publications [class*="item"], /* hb の各行に広く刺さる汎用セレクタ */
 section#publications li,
 section#publications article {
 position: relative;
-margin-left: .75rem;
+margin-left: 0; /* ドット用のマージンを削除 */
 }
 section#publications [class*="item"]::before,
 section#publications li::before,
 section#publications article::before {
-content: "";
-position: absolute;
-left: -1rem;
-top: .35rem;
-width: .55rem;
-height: .55rem;
-border-radius: 50%;
-background: #74a3ff; /* 青系ドット */
-box-shadow: 0 0 0 3px rgba(116,163,255,.18);
+display: none !important; /* 青色のドットを完全に無効化 */
 }
 
 /* --- Skills をバッジ（チップ）表示に --- */
