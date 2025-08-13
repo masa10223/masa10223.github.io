@@ -18,7 +18,4 @@
   url = "/en/cv/"
   weight = 40
 
-[[main]]
-  name   = "Contact"
-  url = "/en/home/#contact"
-  weight = 50
+

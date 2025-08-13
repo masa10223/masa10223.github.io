@@ -10,6 +10,7 @@ layout: "single"
 ---
 
 ## 🧬 Morpho-VAE: Morphological Difference Representation Learning
+<div id="morphovae"></div>
 
 ![Morpho-VAE](/images/projects/morpho-vae.jpg)
 
@@ -34,6 +35,7 @@ Wide-ranging applications expected in evolutionary biology, morphology, medical 
 ---
 
 ## 🔬 KANADE: Batch Effect Removal Technology
+<div id="kanade"></div>
 
 ![KANADE](/images/projects/kanade.png)
 
@@ -59,6 +61,7 @@ Demonstrates power in integrative analysis, meta-analysis, and database construc
 ---
 
 ## 🧠 Mathematical Model of Social Stress
+<div id="stress"></div>
 
 <div style="width: 100%; height: 300px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 1rem 0;">
   <div style="text-align: center; color: white;">
