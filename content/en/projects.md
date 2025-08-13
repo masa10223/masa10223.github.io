@@ -8,61 +8,59 @@ subtitle: "Research Projects"
 
 <div id="projects"></div>
 
-## 研究プロジェクト
-
-私の研究は**深層学習**と**生物学**の融合を核として、新しい解析手法の開発と生物現象の理解を目指しています。
-
+My research focuses on the integration of deep learning and biology, with the aim of developing new analytical methods and understanding biological phenomena.
 <div class="home-project-gallery">
-
-<div class="home-project-item" onclick="window.location.href='/ja/project/#morphovae-detail'">
+<div class="home-project-item" onclick="window.location.href=‘/en/project/#morphovae-detail’">
   <div class="home-project-image">
     <img src="/images/projects/morpho-vae.jpg" alt="Morpho-VAE">
-  </div>
+  
+</div>
   <div class="home-project-content">
     <h3>MORPHO-VAE</h3>
-    <p>深層学習による形態特徴抽出手法。ランドマーク不要で欠損データにも頑健な革新的アプローチ。</p>
+    <p>A method for extracting morphological features using deep learning. An innovative approach that does not require landmarks and is robust even with missing data. </p>
     <div class="project-tags">
-      <span class="tag">深層学習</span>
-      <span class="tag">形態解析</span>
+      <span class="tag">Deep learning</span>
+      
+<span class="tag">Morphological analysis</span>
       <span class="tag">VAE</span>
-    </div>
-  </div>
 </div>
-
-<div class="home-project-item" onclick="window.location.href='/ja/project/#kanade-detail'">
-  <div class="home-project-image">
-    <img src="/images/projects/kanade.png" alt="KANADE">
+</div>
+</div>
+<div class="home-project-item" onclick="window.location.href=‘/en/project/#kanade-detail’">
+<div class="home-project-image">
+    
+<img src="/images/projects/kanade.png" alt="KANADE">
   </div>
-  <div class="home-project-content">
+<div class="home-project-content">
     <h3>KANADE</h3>
-    <p>単一細胞トランスクリプトミクスのバッチ効果除去技術。生物学的信号を保持しながら技術的変動を効果的に除去。</p>
-    <div class="project-tags">
-      <span class="tag">シングルセル</span>
-      <span class="tag">バッチ補正</span>
-      <span class="tag">オミクス</span>
+    <p>Batch effect removal technology for single-cell transcriptomics. Effectively removes technical variations while preserving biological signals. </p>
+    
+<div class="project-tags">
+      <span class="tag">Single cell</span>
+      <span class="tag">Batch correction</span>
+      <span class="tag">Omics</span>
     </div>
   </div>
 </div>
-
-<div class="home-project-item" onclick="window.location.href='/ja/project/#stress-detail'">
-  <div class="home-project-image">
-    <div class="placeholder-image">
-      <div class="icon">🧠</div>
-    </div>
-  </div>
-  <div class="home-project-content">
-    <h3>社会的ストレス研究</h3>
-    <p>数理モデルによる社会的ストレスの定量化。エネルギーランドスケープ解析とベイズ推論を用いた革新的手法。</p>
-    <div class="project-tags">
-      <span class="tag">数理モデル</span>
-      <span class="tag">ストレス解析</span>
-      <span class="tag">行動科学</span>
-    </div>
-  </div>
+<div class="home-project-item" onclick="window.location.href=‘/en/project/#stress-detail’">
+<div class="home-project-image">
+<div class="placeholder-image">
+<div class="icon">🧠</div>
 </div>
-
 </div>
-
+  
+<div class="home-project-content">
+    <h3>Social Stress Research</h3>
+<p>Quantification of social stress using mathematical models. Innovative methods using energy landscape analysis and Bayesian inference. </p>
+<div class="project-tags">
+<span class="tag">Mathematical Models</span>
+      
+<span class="tag">Stress Analysis</span>
+      <span class="tag">Behavioral Science</span>
+</div>
+</div>
+</div>
+</div>
 <div class="view-all-projects">
-  <a href="/ja/project/">すべてのプロジェクトを見る →</a>
+  <a href='{{< relref "project/_index.md" >}}'>See all projects →</a>
 </div>

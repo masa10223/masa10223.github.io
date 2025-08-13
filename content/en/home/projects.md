@@ -10,7 +10,7 @@ subtitle: "Research Projects"
 
 <div class="home-project-gallery">
 
-<div class="home-project-item" onclick="window.location.href='/en/project/#morphovae'">
+<a class="home-project-item" href='{{< relref "project/_index.md" >}}#morphovae'>
   <div class="home-project-image">
     <img src="/images/projects/morpho-vae.jpg" alt="Morpho-VAE">
   </div>
@@ -23,9 +23,9 @@ subtitle: "Research Projects"
       <span class="tag">VAE</span>
     </div>
   </div>
-</div>
+</a>
 
-<div class="home-project-item" onclick="window.location.href='/en/project/#kanade'">
+<a class="home-project-item" href='{{< relref "project/_index.md" >}}#kanade'>
   <div class="home-project-image">
     <img src="/images/projects/kanade.png" alt="KANADE">
   </div>
@@ -38,9 +38,9 @@ subtitle: "Research Projects"
       <span class="tag">Omics</span>
     </div>
   </div>
-</div>
+</a>
 
-<div class="home-project-item" onclick="window.location.href='/en/project/#stress'">
+<a class="home-project-item" href='{{< relref "project/_index.md" >}}#stress'>
   <div class="home-project-image">
     <div class="placeholder-image">
       <div class="icon">🧠</div>
@@ -55,10 +55,10 @@ subtitle: "Research Projects"
       <span class="tag">Behavior</span>
     </div>
   </div>
-</div>
+</a>
 
 </div>
 
 <div class="view-all-projects">
-  <a href="/en/project/">View all projects →</a>
+  <a href='{{< relref "project/_index.md" >}}'>View all projects →</a>
 </div>

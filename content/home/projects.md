@@ -14,7 +14,7 @@ build:
 
 <div class="home-project-gallery">
 
-<div class="home-project-item" onclick="window.location.href='/project/#morphovae-detail'">
+<a class="home-project-item" href='{{< relref "project/_index.md" >}}#morphovae'>
   <div class="home-project-image">
     <img src="/images/projects/morpho-vae.jpg" alt="Morpho-VAE">
   </div>
@@ -27,9 +27,9 @@ build:
       <span class="tag">VAE</span>
     </div>
   </div>
-</div>
+</a>
 
-<div class="home-project-item" onclick="window.location.href='/project/#kanade-detail'">
+<a class="home-project-item" href='{{< relref "project/_index.md" >}}#kanade'>
   <div class="home-project-image">
     <img src="/images/projects/kanade.png" alt="KANADE">
   </div>
@@ -42,9 +42,9 @@ build:
       <span class="tag">オミクス</span>
     </div>
   </div>
-</div>
+</a>
 
-<div class="home-project-item" onclick="window.location.href='/project/#stress-detail'">
+<a class="home-project-item" href='{{< relref "project/_index.md" >}}#stress'>
   <div class="home-project-image">
     <div class="placeholder-image">
       <div class="icon">🧠</div>
@@ -59,10 +59,9 @@ build:
       <span class="tag">行動科学</span>
     </div>
   </div>
-</div>
+</a>
 
-
-<div class="home-project-item" onclick="window.location.href='/project/#dolo-detail'">
+<a class="home-project-item" href='{{< relref "project/_index.md" >}}#dolo'>
   <div class="home-project-image">
     <div class="placeholder-image">
       <div class="icon">🪰</div>
@@ -77,10 +76,10 @@ build:
       <span class="tag">行動科学</span>
     </div>
   </div>
-</div>
+</a>
 
 </div>
 
 <div class="view-all-projects">
-  <a href="/project/">すべてのプロジェクトを見る →</a>
+  <a href='{{< relref "project/_index.md" >}}'>すべてのプロジェクトを見る →</a>
 </div>
