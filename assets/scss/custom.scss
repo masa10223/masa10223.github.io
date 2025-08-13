@@ -1313,13 +1313,24 @@ h2::before,
 h2::after,
 h3::before,
 h3::after,
+h4::before,
+h4::after,
+h5::before,
+h5::after,
+h6::before,
+h6::after,
 .widget::before,
 .widget::after,
 .section::before,
 .section::after,
 .container::before,
-.container::after {
+.container::after,
+.heading::before,
+.heading::after,
+.title::before,
+.title::after {
   display: none !important;
+  content: none !important;
 }
 
 /* Remove bullet points from specific elements */
@@ -1327,8 +1338,41 @@ h3::after,
 .research-stats,
 #publications,
 .widget,
-.section {
+.section,
+#research-achievements,
+.research-achievements,
+.publications-section {
   list-style: none !important;
+}
+
+/* Force remove any pseudo-elements from research section */
+#research-achievements *::before,
+#research-achievements *::after,
+.research-achievements *::before,
+.research-achievements *::after,
+.widget-blank *::before,
+.widget-blank *::after,
+[data-widget="blank"] *::before,
+[data-widget="blank"] *::after {
+  display: none !important;
+  content: none !important;
+}
+
+/* Remove blue dots from all heading elements in the page */
+h1, h2, h3, h4, h5, h6 {
+  position: relative;
+}
+
+h1::before, h1::after,
+h2::before, h2::after,
+h3::before, h3::after,
+h4::before, h4::after,
+h5::before, h5::after,
+h6::before, h6::after {
+  display: none !important;
+  content: none !important;
+  background: none !important;
+  border: none !important;
 }
 
 .publication-item .publication-icon {
