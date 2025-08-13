@@ -1276,3 +1276,54 @@ section[id] {
 .information-section .article-title:hover {
   text-decoration: underline;
 }
+
+/* Research stats styling */
+.research-stats .stat-number {
+  font-size: 2.5rem !important;
+  font-weight: bold !important;
+  color: white !important;
+}
+
+.research-stats .stat-label {
+  font-size: 1.1rem !important;
+  color: #e0e0e0 !important;
+  margin-top: 0.5rem !important;
+}
+
+/* Remove blue dots from publication items */
+.publication-item::before,
+.publication-item::after {
+  display: none !important;
+}
+
+.publication-item {
+  list-style: none !important;
+}
+
+.publication-item .publication-icon {
+  font-size: 1.5rem;
+  margin-right: 1rem;
+}
+
+.publication-item .publication-content {
+  flex: 1;
+}
+
+.publication-item .authors {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.publication-item .title {
+  margin-bottom: 0.5rem;
+}
+
+.publication-item .links a {
+  color: #007bff;
+  text-decoration: none;
+  margin-right: 1rem;
+}
+
+.publication-item .links a:hover {
+  text-decoration: underline;
+}
