@@ -1,0 +1,24 @@
+---
+widget: features
+headless: true
+active: true
+weight: 30
+title: 研究分野・関心分野
+build:
+  render: never
+  list: never
+feature:
+  - icon: brain
+    icon_pack: fas
+    name: Deep Learning
+    description:  VAE, YOLO
+  - icon: dna
+    icon_pack: fas
+    name: Morphometrics
+    description: 幾何学的形態計測
+  - icon: flask
+    icon_pack: fas
+    name: Biology
+    description: 定量生物学, EvoDevo
+---
+
