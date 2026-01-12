@@ -3,8 +3,8 @@
 name: "Masato TSUTSUMI"
 role: "Masato TSUTSUMI, Ph.D."
 organizations:
-  - name: "データ駆動生物学研究室"
-    url: "https://sites.google.com/view/data-driven-biology/"
+  - name: "数理生命動態研究プロジェクト"
+    url: "https://sites.google.com/view/saito-lab/%E3%83%9B%E3%83%BC%E3%83%A0?authuser=0"
 avatar: "avatar.jpg"
 interests:
   - 深層学習を用いた定量化
