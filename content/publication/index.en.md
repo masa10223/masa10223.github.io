@@ -3,10 +3,6 @@ title: "Publications"
 summary: "Publications and Presentations"
 type: "page"
 layout: "single"
-draft: true
-build:
-  render: never
-  list: never
 ---
 
 <div class="publications-container">

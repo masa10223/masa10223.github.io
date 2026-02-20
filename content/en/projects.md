@@ -1,6 +1,10 @@
 ---
 title: Projects
 type: widget_page
+draft: true
+build:
+  render: never
+  list: never
 ---
 
 <div id="projects"></div>

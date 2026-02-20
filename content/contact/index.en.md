@@ -1,13 +1,7 @@
 ---
-widget: contact
-id: contact
-weight: 60
 title: Contact
-draft: true
-build:
-  render: never
-  list: never
-# Simple contact block — direct email listed below
+type: "page"
+layout: "single"
 ---
 
 <div id="contact"></div>

@@ -1,15 +1,12 @@
 ---
-widget: markdown
 title: "CV"
-active: true
-weight: 50
-draft: true
-build:
-  render: never
-  list: never
+type: "page"
+layout: "single"
+toc: false
 ---
+
 ## Overview
-Postdoctoral researcher at Hiroshima University. Working on deep learning for morphology and mathematical modeling of social stress.
+Postdoctoral researcher at Hiroshima University. Working on deep learning for morphology and social stress modeling.
 
 ## Education
 - **Ph.D. in Science**, University of Tokyo (2023)
@@ -28,3 +25,5 @@ Postdoctoral researcher at Hiroshima University. Working on deep learning for mo
 
 ## Skills
 Deep Learning, PyTorch/TensorFlow, VAE, Tracking (DeepSORT), Statistical Analysis.
+
+*See "Publications" page for details.*

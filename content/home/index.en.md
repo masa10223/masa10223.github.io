@@ -2,8 +2,6 @@
 title: "Masato TSUTSUMI"
 type: widget_page
 headless: false
-draft: true
-build:
-  render: never
-  list: never
+active: true
+weight: 1
 ---

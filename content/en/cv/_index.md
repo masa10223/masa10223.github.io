@@ -1,6 +1,10 @@
 ---
 title: "CV"
 toc: false
+draft: true
+build:
+  render: never
+  list: never
 ---
 
 ## Overview

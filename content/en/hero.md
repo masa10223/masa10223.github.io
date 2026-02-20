@@ -3,6 +3,10 @@ widget: hero
 headless: false
 active: true
 weight: 10
+draft: true
+build:
+  render: never
+  list: never
 hero:
   title: "堤 真人"
   subtitle: "広島大学・ポスドク研究者"

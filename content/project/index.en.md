@@ -3,10 +3,6 @@ title: "Projects"
 summary: "List of research projects"
 type: "page"
 layout: "single"
-draft: true
-build:
-  render: never
-  list: never
 ---
 
 # Research Projects

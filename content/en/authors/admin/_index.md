@@ -2,6 +2,10 @@
 # Basic profile used by the About widget
 name: "Masato TSUTSUMI"
 role: "Masato TSUTSUMI, Ph.D."
+draft: true
+build:
+  render: never
+  list: never
 organizations:
   - name: "Data-Driven Biology Laboratory"
     url: "https://sites.google.com/view/data-driven-biology/"
@@ -42,5 +46,4 @@ social:
 Hello, I am Masato Tsutsumi.
 I am currently working as a research associate at the Data-Driven Biology Laboratory, Department of Cellular Information Integration and Analysis, Center for Molecular Medicine of Neurological and Oncological Diseases, Graduate School of Medicine, Nagoya University.
 My research focuses on **Deep learning of morphology** and **mathematical models of social stress**.
-
 

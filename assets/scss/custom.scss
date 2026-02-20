@@ -499,6 +499,51 @@ section[id] {
   }
 }
 
+/* Navbar language tabs (JA/EN) */
+.nav-icons .i18n-dropdown {
+  margin-left: 0.4rem;
+}
+
+.nav-icons .i18n-dropdown > .nav-link {
+  display: none;
+}
+
+.nav-icons .i18n-dropdown .dropdown-menu {
+  position: static;
+  display: inline-flex !important;
+  min-width: auto;
+  margin: 0;
+  padding: 0.18rem;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  background: rgba(255, 255, 255, 0.1);
+  box-shadow: none;
+}
+
+.nav-icons .i18n-dropdown .dropdown-item,
+.nav-icons .i18n-dropdown .dropdown-item-active {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.24rem 0.66rem;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  line-height: 1;
+  color: inherit;
+  text-decoration: none;
+}
+
+.nav-icons .i18n-dropdown .dropdown-item-active {
+  background: #2d6cdf;
+  color: #fff;
+  cursor: default;
+}
+
+.nav-icons .i18n-dropdown .dropdown-item:hover {
+  background: rgba(255, 255, 255, 0.2);
+  color: inherit;
+}
+
 // Publications page styles - ネイビー背景に合わせて改善
 .publications-container {
   max-width: 3200px;
