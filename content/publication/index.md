@@ -14,6 +14,9 @@ layout: "single"
 <div class="publication-list">
 
 
+**2026**
+- （更新予定）
+
 **2024**
 - Deciphering the origin of developmental stability: The role of intracellular expression variability in evolutionary conservation  
   Yui Uchida, ○Masato Tsutsumi, Shunsuke Ichii, Naoki Irie, Chikara Furusawa  
@@ -33,10 +36,18 @@ layout: "single"
 ## 📃 プレプリント
 <div class="preprint-list">
 
+**2026**
+- （更新予定）
+
 **2025**
 - Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome  
-  Shunta Sakaguchi, ○Masato Tsutsumi, Kentaro Nishi, Honda Naoki  
+  Shunta Sakaguchi, ○Masato Tsutsumi, Kentaro Nishi, Naoki Honda  
   bioRxiv (2025年4月16日) [PDF](https://www.biorxiv.org/content/biorxiv/early/2025/04/16/2025.04.10.648296.full.pdf)
+
+**2022**
+- A method for morphological feature extraction based on variational auto-encoder : an application to mandible shape  
+  ○Masato Tsutsumi, Nen Saito, Daisuke Koyabu, Chikara Furusawa  
+  Preprint (2022年5月19日)
 
 
 </div>
@@ -46,6 +57,9 @@ layout: "single"
 ## 🎤 招待講演
 
 <div class="talk-list">
+
+**2026**
+- （更新予定）
 
 **2024**
 - 「深層学習による生物形態定量解析手法の開発」 ＠日本応用数理学会2024年度 年会 (2024年9月16日)
@@ -66,7 +80,13 @@ layout: "single"
 
 <div class="presentation-list">
 
+**2026**
+- （更新予定）
+
 **2025**
+- 「Development of a markerless multi-individual tracking system for controlling cannibalistic behavior in crickets」＠日本比較生理生化学会 第47回大会 (2025年12月5日)
+- 「深層学習を用いた形態定量化手法: Morpho-VAE」＠第99回形の科学シンポジウム「動きをもたらすかたち」 (2025年11月30日)
+- 「3次元Variational Autoencoderを用いた形態変異の可視化」＠第34回日本バイオイメージング学会学術集会
 - 「DOLO(Drosophila tracking with YOLO)による2重変異体ハエ幼虫の行動解析」＠第一回システム行動学研究会 (2025年5月30日)
 - 「エネルギーランドスケープ解析による緊急事態宣言中/後における心理状態遷移の推定」＠SSTB2025 -Spring School for Theoretical Biology 2025-* (2025年2月20日)
 
@@ -93,6 +113,8 @@ layout: "single"
 
 <div class="misc-list">
 
+- 「機械学習を用いた生物形態の定量化」  
+  応用物理学会 (2020)
 
 </div>
 
