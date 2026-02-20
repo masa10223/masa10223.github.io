@@ -67,7 +67,7 @@ Demonstrates power in integrative analysis, meta-analysis, and database construc
   <div style="text-align: center; color: white;">
     <div style="font-size: 4rem; margin-bottom: 1rem;">🧠</div>
     <div style="font-size: 1.2rem; font-weight: bold;">Mathematical Model of Social Stress</div>
-    <div style="font-size: 0.9rem; opacity: 0.8;"></div>
+    <div style="font-size: 0.9rem; opacity: 0.8;">社会的ストレスの数理モデル</div>
   </div>
 </div>
 
@@ -89,35 +89,27 @@ Aims to contribute to understanding and treatment development of stress-related 
 **Related Links:**
 - [📄 Related Papers](/en/publication/)
 
-
-</div>
-
 ---
-
-## 🪰 Drosophila Tracking with YOLO (DOLO)
+## 🪰 YOLOを用いたショウジョウバエ追跡（DOLO）
 <div id="dolo">
-<div style="width: 100%; height: 300px; background: linear-gradient(135deg,rgb(102, 234, 142)
- 0%,rgb(59, 78, 224) 100%); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 1rem 0;">  
-<div style="text-align: center; color: white;">
+<div style="width: 100%; height: 300px; background: linear-gradient(135deg,rgb(102, 234, 142) 0%,rgb(59, 78, 224) 100%); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 1rem 0;">
+  <div style="text-align: center; color: white;">
     <div style="font-size: 4rem; margin-bottom: 1rem;">🪰</div>
-    <div style="font-size: 1.2rem; font-weight: bold;">DOLO</div>
     
-<div style="font-size: 0.9rem; opacity: 0.8;">Drosophila tracking with YOLO</div>
+<div style="font-size: 1.2rem; font-weight: bold;">DOLO</div>
+    <div style="font-size: 0.9rem; opacity: 0.8;">YOLOを用いたショウジョウバエのトラッキング</div>
   </div>
 </div>
+### 研究目的
+二重変異体のキイロショウジョウバエ幼虫の行動は、その特徴のない個体の形状によって行動を追跡したり、解析することが困難でした。その幼虫特化の行動解析ツールを作成することを目指します。
+### アプローチ手法
+- **YOLO**: ディープラーニングを用いた姿勢推定
+- **転移学習**: 個体に特化した学習方法
+### 研究成果
+私たちの研究グループは深層学習フレームワークYOLOを応用した、キイロショウジョウバエ幼虫行動解析モデル「DOLO」を提案しました。このモデルによってこの変異体とコントロールの比較行動解析が可能になりました。
 
-### Research Objective
-Tracking and analyzing the behavior of double mutant Drosophila larvae was difficult due to their lack of distinctive individual morphology. We aim to create a behavior analysis tool specialized for these larvae.
-
-### Approach
-- **YOLO**: Deep learning-based pose estimation
-- **Transfer learning**: Individual-specific learning method
-
-### Research Results
-Our research group proposed “DOLO,” a Drosophila larval behavior analysis model applying the deep learning framework YOLO. This model enables comparative behavioral analysis between this mutant and controls.
-
-### Future Prospects
-We aim to extend its applicability beyond Drosophila melanogaster.
-**Related Links:**
-- [📄 Related Papers](/en/publication/)
+### 将来展望
+キイロショウジョウバエ以外の動物にも適用できることを目指します。
+**関連リンク:**
+- [📄 関連論文](/ja/publication/)
 </div>

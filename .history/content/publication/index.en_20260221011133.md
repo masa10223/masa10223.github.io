@@ -109,6 +109,7 @@ layout: "single"
 **2023**
 - Unveiling the enigmatic Middle Devonian vertebrate, Palaeospondylus  
   *The 3rd Asia Evo Conference Symposium* (December 16, 2023)  
+  Co-authors: Tatsuya Hirasawa, **Masato Tsutsumi**, Shunsuke Ichii, Shigeru Kuratani
 - Development of a quantitative analysis method for biological morphology using deep learning  
   *Statphys28 Satellite meeting Statistical Physics and Information-Processing in Living Systems* (August 8, 2023)
 

@@ -67,7 +67,7 @@ Demonstrates power in integrative analysis, meta-analysis, and database construc
   <div style="text-align: center; color: white;">
     <div style="font-size: 4rem; margin-bottom: 1rem;">🧠</div>
     <div style="font-size: 1.2rem; font-weight: bold;">Mathematical Model of Social Stress</div>
-    <div style="font-size: 0.9rem; opacity: 0.8;"></div>
+    <div style="font-size: 0.9rem; opacity: 0.8;">社会的ストレスの数理モデル</div>
   </div>
 </div>
 
@@ -119,5 +119,5 @@ Our research group proposed “DOLO,” a Drosophila larval behavior analysis mo
 ### Future Prospects
 We aim to extend its applicability beyond Drosophila melanogaster.
 **Related Links:**
-- [📄 Related Papers](/en/publication/)
+- [📄 Related Papers](/ja/publication/)
 </div>
