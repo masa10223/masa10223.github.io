@@ -10,7 +10,7 @@ Assistant Professor at the Life Science Center for Survival Dynamics, Tsukuba Ad
 My research focuses on deep generative models for morphometrics and mathematical modeling of social stress.
 
 ## Contact
-- **Email**: mtsutsumi[at]tara.tsukuba.ac.jp
+- **Email**: mtsutsumi_@tara.tsukuba.ac.jp
 - **Address**: Life Science Center for Survival Dynamics, Tsukuba Advanced Research Alliance (TARA), University of Tsukuba, Tsukuba, Japan
 
 ## Education
