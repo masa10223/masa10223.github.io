@@ -5,7 +5,7 @@ active: true
 weight: 10
 hero:
   title: "堤 真人"
-  subtitle: "広島大学・ポスドク研究者"
+  subtitle: "筑波大学TARAセンター 助教"
   cta:
     label: "CVを見る"
     url: "/ja/cv/"
@@ -19,7 +19,7 @@ hero:
   <img src="/uploads/profile.png" alt="Masato Tsutsumi" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem; border: 4px solid rgba(255, 255, 255, 0.2); box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);">
   <h1 style="font-size: 2.5rem; font-weight: 700; margin-bottom: 0.5rem; color: inherit;">Masato TSUTSUMI</h1>
   <h2 style="font-size: 1.5rem; font-weight: 600; margin-bottom: 1rem; color: inherit;">堤真人</h2>
-  <p style="font-size: 1.2rem; margin-bottom: 1rem; color: #ccc;">名古屋大学大学院医学系研究科 特任助教</p>
+  <p style="font-size: 1.2rem; margin-bottom: 1rem; color: #ccc;">筑波大学TARAセンター 助教</p>
 </div>
 
 <div class="research-stats" style="display: flex; justify-content: center; gap: 3rem; margin: 2rem 0; flex-wrap: wrap; background:rgb(8, 37, 66); padding: 2rem; border-radius: 15px;">
@@ -48,6 +48,6 @@ hero:
 - データ駆動生物学
 
 **連絡先:**
-- Email: tsutsumi.masato.s1[at]f.mail.nagoya-u.ac.jp
+- Email: mtsutsumi[at]tara.tsukuba.ac.jp
 - GitHub: [@masa10223](https://github.com/masa10223)
 - Twitter: [@masa10223_](https://x.com/masa10223_)

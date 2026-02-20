@@ -8,5 +8,5 @@ active: false
 
 <div id="contact"></div>
 
-- **Email**: tsutsumi.masato.s1[at]f.mail.nagoya-u.ac.jp
-- **Address**: 65 Tsurumai-cho, Showa-ku, Nagoya, Aichi, Japan
+- **Email**: mtsutsumi[at]tara.tsukuba.ac.jp
+- **Address**: Life Science Center for Survival Dynamics, Tsukuba Advanced Research Alliance (TARA), University of Tsukuba, Tsukuba, Japan

@@ -14,7 +14,7 @@ interests:
 education:
   courses:
     - course: Assistant Professor
-      institution: "Center for Survival Dynamics, University of Tsukuba<br>(Mathematical Life Dynamics Project: Assoc. Prof. Minoru Saito)"
+      institution: "Life Science Center for Survival Dynamics, Tsukuba Advanced Research Alliance (TARA), University of Tsukuba<br>(Mathematical Life Dynamics Project: Assoc. Prof. Nen Saito)"
       year: 2025/12 - 
     - course: Visiting Researcher
       institution: "Nagoya University Graduate School of Medicine<br>(Data-Driven Biology Laboratory: Prof. Naoki Honda)"
@@ -54,9 +54,8 @@ social:
 ---
 Hello, I am Masato Tsutsumi.
 
-I am currently working as an Assistant Professor in the Mathematical Life Dynamics Project at the Center for Survival Dynamics, University of Tsukuba.
+I am currently working as an Assistant Professor in the Mathematical Life Dynamics Project at the Life Science Center for Survival Dynamics, Tsukuba Advanced Research Alliance (TARA), University of Tsukuba.
 
 I also hold a concurrent affiliation as a Visiting Researcher at the Data-Driven Biology Laboratory, Graduate School of Medicine, Nagoya University.
 
 My research focuses on **quantification of morphology using deep generative models** and **quantification of social stress using mathematical models**.
-

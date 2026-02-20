@@ -13,11 +13,6 @@ layout: "single"
 
 <div class="publication-list">
 
-**2025**
-- Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome  
-  *Shunta Sakaguchi, **Masato Tsutsumi**, Kentaro Nishi, Honda Naoki*  
-  bioRxiv (April 16, 2025) [PDF](https://www.biorxiv.org/content/biorxiv/early/2025/04/16/2025.04.10.648296.full.pdf)
-
 **2024**
 - Deciphering the origin of developmental stability: The role of intracellular expression variability in evolutionary conservation  
   *Yui Uchida, **Masato Tsutsumi**, Shunsuke Ichii, Naoki Irie, Chikara Furusawa*  
@@ -27,6 +22,19 @@ layout: "single"
 - A deep learning approach for morphological feature extraction based on variational auto-encoder: an application to mandible shape  
   ***Masato Tsutsumi**, Nen Saito, Daisuke Koyabu, Chikara Furusawa*  
   npj Systems Biology and Applications (July 6, 2023) [PDF](https://doi.org/10.1038/s41540-023-00293-6) | [Code](https://github.com/masa10223)
+
+</div>
+
+---
+
+## 📃 Preprints
+
+<div class="preprint-list">
+
+**2025**
+- Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome  
+  *Shunta Sakaguchi, **Masato Tsutsumi**, Kentaro Nishi, Naoki Honda*  
+  bioRxiv (April 16, 2025) [PDF](https://www.biorxiv.org/content/biorxiv/early/2025/04/16/2025.04.10.648296.full.pdf)
 
 **2022**
 - A method for morphological feature extraction based on variational auto-encoder : an application to mandible shape  

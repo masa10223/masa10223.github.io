@@ -37,7 +37,7 @@ social:
     link: https://github.com/masa10223
   - icon: envelope
     icon_pack: fas
-    link: mailto:tsutsumi.masato.s1@f.mail.nagoya-u.ac.jp
+    link: mailto:mtsutsumi@tara.tsukuba.ac.jp
   - icon: twitter
     icon_pack: fab
     link: https://x.com/masa10223_
@@ -46,4 +46,3 @@ social:
 Hello, I am Masato Tsutsumi.
 I am currently working as a research associate at the Data-Driven Biology Laboratory, Department of Cellular Information Integration and Analysis, Center for Molecular Medicine of Neurological and Oncological Diseases, Graduate School of Medicine, Nagoya University.
 My research focuses on **Deep learning of morphology** and **mathematical models of social stress**.
-
