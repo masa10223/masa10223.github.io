@@ -11,12 +11,9 @@ layout: "single"
 
 <div class="publication-list">
 
-**2026**
-- (To be updated)
-
 **2024**
 - Deciphering the origin of developmental stability: The role of intracellular expression variability in evolutionary conservation  
-  *Yui Uchida, Masato Tsutsumi, Shunsuke Ichii, Naoki Irie, Chikara Furusawa*  
+  Yui Uchida, ○*Masato Tsutsumi*, Shunsuke Ichii, Naoki Irie, Chikara Furusawa* 
   Evolution & Development (March 2024) [PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ede.12473) | [Code](https://github.com/masa10223/symmetry_analysis)
 
 **2023**
@@ -32,12 +29,9 @@ layout: "single"
 
 <div class="preprint-list">
 
-**2026**
-- (To be updated)
-
 **2025**
 - Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome  
-  *Shunta Sakaguchi, Masato Tsutsumi, Kentaro Nishi, Naoki Honda*  
+  *Shunta Sakaguchi, **Masato Tsutsumi**, Kentaro Nishi, Naoki Honda*  
   bioRxiv (April 16, 2025) [PDF](https://www.biorxiv.org/content/biorxiv/early/2025/04/16/2025.04.10.648296.full.pdf)
 
 **2022**
@@ -52,9 +46,6 @@ layout: "single"
 ## 🎤 Invited Talks
 
 <div class="talk-list">
-
-**2026**
-- (To be updated)
 
 **2024**
 - Development of quantitative analysis methods for biological morphology using deep learning  
@@ -80,17 +71,7 @@ layout: "single"
 
 <div class="presentation-list">
 
-**2026**
-- Quantitative Analysis of Biological Morphology and Behavior Based on Deep Learning: Development of Morpho-VAE and DOLO  
-  (Feb 20, 2026)
-
 **2025**
-- Development of a markerless multi-individual tracking system for controlling cannibalistic behavior in crickets  
-  *47th Annual Meeting of the Japanese Society for Comparative Physiology and Biochemistry* (December 5, 2025)
-- Morphological quantification using deep learning: Morpho-VAE  
-  *99th Symposium on Science of Form "Shape that brings motion"* (November 30, 2025)
-- Visualization of morphological variation using 3D Variational Autoencoder  
-  *34th Annual Meeting of the Japanese Society for Bioimaging*
 - Behavioral analysis of double mutant Drosophila larvae using DOLO (Drosophila tracking with YOLO)  
   *1st Systems Behavioral Science Workshop* (May 30, 2025)
 - Estimation of psychological state transitions during/after emergency declarations using energy landscape analysis  
@@ -130,7 +111,7 @@ layout: "single"
 <div class="misc-list">
 
 **Reviews & Commentary**
-- Characterization of biological morphology by using machine learning  
+- Quantification of biological morphology using machine learning  
   *Proceedings of the Physical Society of Japan* 75.1 2878-2878 (2020)
 
 **Medical AI Related**

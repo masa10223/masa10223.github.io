@@ -81,8 +81,8 @@ layout: "single"
 <div class="presentation-list">
 
 **2026**
-- Quantitative Analysis of Biological Morphology and Behavior Based on Deep Learning: Development of Morpho-VAE and DOLO  
-  (Feb 20, 2026)
+- Quantitative Analysis of Biological Morphology and Behavior Based on Deep Learning: Development of Morpho-VAE and DOLO 
+  *TARA
 
 **2025**
 - Development of a markerless multi-individual tracking system for controlling cannibalistic behavior in crickets  
