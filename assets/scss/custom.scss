@@ -1469,3 +1469,468 @@ h6::before, h6::after {
 .publication-item .links a:hover {
   text-decoration: underline;
 }
+
+/* Home publications tabs + cards */
+section#publications.home-section {
+  padding-left: 0 !important;
+
+  &::before {
+    display: none !important;
+  }
+
+  .container {
+    max-width: 1400px;
+  }
+
+  .section-heading {
+    flex: 0 0 100%;
+    max-width: 100%;
+    align-items: center !important;
+    text-align: center;
+    margin-bottom: 1.25rem !important;
+
+    h1 {
+      width: 100%;
+      text-align: center;
+    }
+  }
+
+  .col-12.col-lg-8 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
+
+.home-pubs-tabs {
+  margin-top: 1rem;
+
+  input[type="radio"] {
+    position: absolute;
+    opacity: 0;
+    pointer-events: none;
+  }
+}
+
+.home-pubs-tab-labels {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-bottom: 1.2rem;
+
+  label {
+    display: inline-block;
+    padding: 0.45rem 1rem;
+    border-radius: 999px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    background: rgba(255, 255, 255, 0.12);
+    color: #fff;
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+
+    &:hover {
+      background: rgba(255, 255, 255, 0.2);
+    }
+  }
+}
+
+#home-pubs-tab-ja-papers:checked ~ .home-pubs-tab-labels label[for="home-pubs-tab-ja-papers"],
+#home-pubs-tab-ja-preprints:checked ~ .home-pubs-tab-labels label[for="home-pubs-tab-ja-preprints"],
+#home-pubs-tab-ja-talks:checked ~ .home-pubs-tab-labels label[for="home-pubs-tab-ja-talks"],
+#home-pubs-tab-ja-presentations:checked ~ .home-pubs-tab-labels label[for="home-pubs-tab-ja-presentations"],
+#home-pubs-tab-en-papers:checked ~ .home-pubs-tab-labels label[for="home-pubs-tab-en-papers"],
+#home-pubs-tab-en-preprints:checked ~ .home-pubs-tab-labels label[for="home-pubs-tab-en-preprints"],
+#home-pubs-tab-en-talks:checked ~ .home-pubs-tab-labels label[for="home-pubs-tab-en-talks"],
+#home-pubs-tab-en-presentations:checked ~ .home-pubs-tab-labels label[for="home-pubs-tab-en-presentations"] {
+  background: #2d6cdf;
+  border-color: #2d6cdf;
+  color: #fff;
+}
+
+.home-pubs-panel {
+  display: none;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+#home-pubs-tab-ja-papers:checked ~ .home-pubs-panels .panel-papers,
+#home-pubs-tab-ja-preprints:checked ~ .home-pubs-panels .panel-preprints,
+#home-pubs-tab-ja-talks:checked ~ .home-pubs-panels .panel-talks,
+#home-pubs-tab-ja-presentations:checked ~ .home-pubs-panels .panel-presentations,
+#home-pubs-tab-en-papers:checked ~ .home-pubs-panels .panel-papers,
+#home-pubs-tab-en-preprints:checked ~ .home-pubs-panels .panel-preprints,
+#home-pubs-tab-en-talks:checked ~ .home-pubs-panels .panel-talks,
+#home-pubs-tab-en-presentations:checked ~ .home-pubs-panels .panel-presentations {
+  display: grid;
+}
+
+.home-pubs-card {
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 12px;
+  padding: 1.15rem 1.1rem;
+  color: #e2e8f0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+
+  h3 {
+    margin: 0;
+    font-size: 1.05rem;
+    line-height: 1.45;
+    color: #fff;
+  }
+}
+
+.home-pubs-meta {
+  margin: 0;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #90cdf4;
+}
+
+.home-pubs-authors,
+.home-pubs-venue {
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
+
+.home-pubs-links {
+  margin-top: 0.25rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+
+  a {
+    display: inline-block;
+    padding: 0.3rem 0.65rem;
+    border-radius: 6px;
+    border: 1px solid rgba(255, 255, 255, 0.35);
+    color: #e8f1ff;
+    text-decoration: none;
+    font-size: 0.82rem;
+    transition: all 0.2s ease;
+
+    &:hover {
+      background: rgba(255, 255, 255, 0.2);
+      color: #fff;
+    }
+  }
+}
+
+.home-pubs-more {
+  text-align: center;
+  margin-top: 1.4rem;
+
+  a {
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.2);
+    color: #fff;
+    padding: 0.75rem 1.8rem;
+    text-decoration: none;
+    border-radius: 25px;
+    font-weight: 600;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    transition: all 0.2s ease;
+
+    &:hover {
+      background: rgba(255, 255, 255, 0.3);
+      transform: translateY(-1px);
+    }
+  }
+}
+
+@media (max-width: 992px) {
+  .home-pubs-panel {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Publications page cards (JA/EN) */
+.publications-container {
+  max-width: 1320px;
+  margin: 0 auto;
+  padding: 1.6rem 0.4rem 0.8rem;
+
+  h2 {
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+    font-size: 1.85rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.28);
+    padding-bottom: 0.55rem;
+  }
+
+  h3 {
+    margin-top: 0.15rem;
+    margin-bottom: 0.75rem;
+    border-left: none;
+    padding-left: 0;
+    color: #dbeafe;
+    font-size: 1.05rem;
+    font-weight: 600;
+  }
+
+  hr {
+    margin: 2rem 0 1.75rem;
+    border: none;
+    height: 1px;
+    background: rgba(255, 255, 255, 0.25);
+  }
+}
+
+.publications-container .publication-list,
+.publications-container .preprint-list,
+.publications-container .talk-list,
+.publications-container .presentation-list,
+.publications-container .misc-list {
+  > p {
+    margin: 1.2rem 0 0.55rem;
+  }
+
+  > p strong {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.25rem 0.75rem;
+    border-radius: 999px;
+    border: 1px solid rgba(147, 197, 253, 0.42);
+    background: rgba(30, 64, 175, 0.23);
+    color: #bfdbfe;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+  }
+
+  > ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.95rem;
+  }
+
+  > ul li {
+    list-style: none;
+    margin: 0;
+    padding: 0.95rem 1rem;
+    border-radius: 12px;
+    border: 1px solid rgba(147, 197, 253, 0.24);
+    background: rgba(255, 255, 255, 0.09);
+    color: #e2e8f0;
+    line-height: 1.65;
+    font-size: 0.96rem;
+    transition: transform 0.16s ease, box-shadow 0.16s ease, border-color 0.16s ease;
+    box-shadow: 0 10px 25px rgba(2, 6, 23, 0.16);
+
+    &::before {
+      display: none !important;
+      content: none !important;
+    }
+
+    &:hover {
+      transform: translateY(-2px);
+      border-color: rgba(147, 197, 253, 0.45);
+      box-shadow: 0 14px 28px rgba(2, 6, 23, 0.22);
+    }
+  }
+
+  a {
+    display: inline-block;
+    margin-top: 0.35rem;
+    margin-right: 0.45rem;
+    padding: 0.22rem 0.62rem;
+    border-radius: 7px;
+    border: 1px solid rgba(191, 219, 254, 0.5);
+    background: rgba(30, 64, 175, 0.22);
+    color: #dbeafe;
+    text-decoration: none;
+    font-size: 0.8rem;
+    font-weight: 600;
+  }
+
+  a:hover {
+    background: rgba(59, 130, 246, 0.34);
+    color: #fff;
+  }
+
+  em {
+    color: #cbd5e1;
+    font-style: italic;
+  }
+}
+
+@media (max-width: 992px) {
+  .publications-container .publication-list > ul,
+  .publications-container .preprint-list > ul,
+  .publications-container .talk-list > ul,
+  .publications-container .presentation-list > ul,
+  .publications-container .misc-list > ul {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Publications page interactive tabs + search */
+.publications-container .pub-page-legacy {
+  display: none !important;
+}
+
+.pub-page-app {
+  margin: 0.4rem 0 0.9rem;
+}
+
+.pub-page-toolbar {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 170px 170px;
+  gap: 0.8rem;
+  margin-bottom: 0.95rem;
+}
+
+.pub-page-control {
+  display: flex;
+  flex-direction: column;
+  gap: 0.33rem;
+
+  label {
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #bfdbfe;
+  }
+
+  input,
+  select {
+    width: 100%;
+    border-radius: 9px;
+    border: 1px solid rgba(191, 219, 254, 0.32);
+    background: rgba(15, 23, 42, 0.46);
+    color: #eff6ff;
+    padding: 0.58rem 0.72rem;
+    font-size: 0.92rem;
+    outline: none;
+  }
+
+  input::placeholder {
+    color: rgba(219, 234, 254, 0.68);
+  }
+
+  input:focus,
+  select:focus {
+    border-color: rgba(147, 197, 253, 0.78);
+    box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.2);
+  }
+}
+
+.pub-page-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.54rem;
+  margin-bottom: 0.7rem;
+}
+
+.pub-page-tab {
+  border: 1px solid rgba(191, 219, 254, 0.4);
+  background: rgba(255, 255, 255, 0.1);
+  color: #dbeafe;
+  padding: 0.4rem 0.88rem;
+  border-radius: 999px;
+  font-size: 0.86rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.pub-page-tab:hover {
+  background: rgba(96, 165, 250, 0.2);
+  border-color: rgba(191, 219, 254, 0.65);
+}
+
+.pub-page-tab.is-active {
+  background: #2d6cdf;
+  border-color: #2d6cdf;
+  color: #fff;
+}
+
+.pub-page-count {
+  margin: 0 0 0.62rem;
+  color: #bfdbfe;
+  font-size: 0.84rem;
+  font-weight: 600;
+}
+
+.pub-page-results {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.95rem;
+}
+
+.pub-page-card {
+  border-radius: 12px;
+  border: 1px solid rgba(147, 197, 253, 0.24);
+  background: rgba(255, 255, 255, 0.09);
+  box-shadow: 0 10px 25px rgba(2, 6, 23, 0.16);
+  padding: 0.95rem 1rem;
+  color: #e2e8f0;
+}
+
+.pub-page-card-meta {
+  margin: 0 0 0.5rem;
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #93c5fd;
+}
+
+.pub-page-card-body {
+  font-size: 0.95rem;
+  line-height: 1.64;
+  word-break: break-word;
+}
+
+.pub-page-card-body a {
+  display: inline-block;
+  margin-top: 0.36rem;
+  margin-right: 0.45rem;
+  padding: 0.2rem 0.6rem;
+  border-radius: 7px;
+  border: 1px solid rgba(191, 219, 254, 0.5);
+  background: rgba(30, 64, 175, 0.22);
+  color: #dbeafe;
+  text-decoration: none;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.pub-page-card-body a:hover {
+  background: rgba(59, 130, 246, 0.34);
+  color: #fff;
+}
+
+.pub-page-card-body em {
+  color: #cbd5e1;
+}
+
+.pub-page-empty {
+  margin: 0;
+  border-radius: 10px;
+  border: 1px dashed rgba(191, 219, 254, 0.5);
+  background: rgba(255, 255, 255, 0.07);
+  padding: 0.9rem;
+  color: #dbeafe;
+}
+
+@media (max-width: 992px) {
+  .pub-page-toolbar {
+    grid-template-columns: 1fr;
+  }
+
+  .pub-page-results {
+    grid-template-columns: 1fr;
+  }
+}

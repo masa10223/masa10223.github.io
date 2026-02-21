@@ -140,3 +140,5 @@ layout: "single"
 </div>
 
 </div>
+
+<script defer src="/js/publication-filters.js"></script>
