@@ -54,7 +54,9 @@ layout: "single"
 <div class="talk-list">
 
 **2026**
-- (To be updated)
+- Towards quantification of diverse life phenomena: morphology, behavior, and psychology as information  
+  *Masato Tsutsumi*  
+  *SSTB2026 - Spring School for Theoretical Biology 2026-* (March 5, 2026) Invited
 
 **2024**
 - Development of quantitative analysis methods for biological morphology using deep learning  

@@ -19,7 +19,7 @@ build:
     <div class="stat-label">Presentations</div>
   </div>
   <div class="stat-item">
-    <div class="stat-number">5</div>
+    <div class="stat-number">6</div>
     <div class="stat-label">Invited Talks</div>
   </div>
 </div>
@@ -75,6 +75,11 @@ build:
 </article>
 </section>
 <section class="home-pubs-panel panel-talks">
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2026 / 招待講演</p>
+<h3>多様な生命現象の定量化に向けて：情報として読む形態・行動・心理</h3>
+<p class="home-pubs-venue">SSTB2026 - Spring School for Theoretical Biology 2026- (2026年3月5日)</p>
+</article>
 <article class="home-pubs-card">
 <p class="home-pubs-meta">2024 / Invited Talk</p>
 <h3>深層学習による生物形態定量解析手法の開発</h3>
