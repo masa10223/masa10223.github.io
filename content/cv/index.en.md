@@ -7,7 +7,7 @@ toc: false
 
 ## Overview
 Assistant Professor at the Life Science Center for Survival Dynamics, Tsukuba Advanced Research Alliance (TARA), University of Tsukuba.
-My research focuses on deep generative models for morphometrics and mathematical modeling of social stress.
+My research aims to treat life phenomena as a hierarchical system of morphology, psychology, and behavior and to quantify them as information. Specifically, I work on quantification of morphology using deep generative models, quantification of psychological state (e.g., social stress) using mathematical models, and quantitative analysis of behavior based on inter-individual interactions, with the goal of understanding universal principles that describe the state and dynamics of life.
 
 ## Contact
 - **Email**: mtsutsumi[at]tara.tsukuba.ac.jp
