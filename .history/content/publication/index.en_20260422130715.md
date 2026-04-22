@@ -11,14 +11,17 @@ layout: "single"
 
 <div class="publication-list">
 
+**2026**
+- (To be updated)
+
 **2024**
 - Deciphering the origin of developmental stability: The role of intracellular expression variability in evolutionary conservation  
-  *Yui Uchida, ◯Masato Tsutsumi, Shunsuke Ichii, Naoki Irie, Chikara Furusawa* 
+  *Yui Uchida, Masato Tsutsumi, Shunsuke Ichii, Naoki Irie, Chikara Furusawa*  
   Evolution & Development (March 2024) [PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ede.12473) | [Code](https://github.com/masa10223/symmetry_analysis)
 
 **2023**
 - A deep learning approach for morphological feature extraction based on variational auto-encoder: an application to mandible shape  
-  *◯**Masato Tsutsumi, Nen Saito, Daisuke Koyabu, Chikara Furusawa*  
+  *Masato Tsutsumi, Nen Saito, Daisuke Koyabu, Chikara Furusawa*  
   npj Systems Biology and Applications (July 6, 2023) [PDF](https://doi.org/10.1038/s41540-023-00293-6) | [Code](https://github.com/masa10223)
 
 </div>
@@ -29,15 +32,17 @@ layout: "single"
 
 <div class="preprint-list">
 
+**2026**
+- Decoding Anadara shell morphology with deep learning  
+  *Masato Tsutsumi, Nen Saito, Tomohiro Yamaguchi, Takenori Sasaki, Chikara Furusawa*  
+  bioRxiv (April 21, 2026) [PDF](https://www.biorxiv.org/content/10.64898/2026.04.17.719170v1.full.pdf) | [DOI](https://doi.org/10.64898/2026.04.17.719170)
+
 **2025**
 - Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome  
-  *Shunta Sakaguchi, ◯**Masato Tsutsumi**, Kentaro Nishi, Naoki Honda*  
+  *Shunta Sakaguchi, Masato Tsutsumi, Kentaro Nishi, Naoki Honda*  
   bioRxiv (April 16, 2025) [PDF](https://www.biorxiv.org/content/biorxiv/early/2025/04/16/2025.04.10.648296.full.pdf)
 
-**2022**
-- A method for morphological feature extraction based on variational auto-encoder : an application to mandible shape  
-  *◯**Masato Tsutsumi**, Nen Saito, Daisuke Koyabu, Chikara Furusawa*  
-  Preprint (May 19, 2022)
+
 
 </div>
 
@@ -46,6 +51,11 @@ layout: "single"
 ## 🎤 Invited Talks
 
 <div class="talk-list">
+
+**2026**
+- Towards quantification of diverse life phenomena: morphology, behavior, and psychology as information  
+  *Masato Tsutsumi*  
+  *SSTB2026 - Spring School for Theoretical Biology 2026-* (March 5, 2026) Invited
 
 **2024**
 - Development of quantitative analysis methods for biological morphology using deep learning  
@@ -71,7 +81,17 @@ layout: "single"
 
 <div class="presentation-list">
 
+**2026**
+- Quantitative Analysis of Biological Morphology and Behavior Based on Deep Learning: Development of Morpho-VAE and DOLO  
+  (Feb 20, 2026)
+
 **2025**
+- Development of a markerless multi-individual tracking system for controlling cannibalistic behavior in crickets  
+  *47th Annual Meeting of the Japanese Society for Comparative Physiology and Biochemistry* (December 5, 2025)
+- Morphological quantification using deep learning: Morpho-VAE  
+  *99th Symposium on Science of Form "Shape that brings motion"* (November 30, 2025)
+- Visualization of morphological variation using 3D Variational Autoencoder  
+  *34th Annual Meeting of the Japanese Society for Bioimaging*
 - Behavioral analysis of double mutant Drosophila larvae using DOLO (Drosophila tracking with YOLO)  
   *1st Systems Behavioral Science Workshop* (May 30, 2025)
 - Estimation of psychological state transitions during/after emergency declarations using energy landscape analysis  
@@ -90,7 +110,6 @@ layout: "single"
 **2023**
 - Unveiling the enigmatic Middle Devonian vertebrate, Palaeospondylus  
   *The 3rd Asia Evo Conference Symposium* (December 16, 2023)  
-  Co-authors: Tatsuya Hirasawa, **Masato Tsutsumi**, Shunsuke Ichii, Shigeru Kuratani
 - Development of a quantitative analysis method for biological morphology using deep learning  
   *Statphys28 Satellite meeting Statistical Physics and Information-Processing in Living Systems* (August 8, 2023)
 
@@ -111,14 +130,16 @@ layout: "single"
 <div class="misc-list">
 
 **Reviews & Commentary**
-- Quantification of biological morphology using machine learning  
+- Characterization of biological morphology by using machine learning  
   *Proceedings of the Physical Society of Japan* 75.1 2878-2878 (2020)
 
 **Medical AI Related**
 - Verification of classification methods for 2D OCT images using two-stage networks  
   *2nd Japanese Society for Medical AI Academic Conference* (January 31, 2020)  
-  Co-authors: Masahiko Takemura, **Masato Tsutsumi**, Hiroki Kawai, Kazumi Hakamata, Hideyoshi Fuji
+  Masahiko Takemura, ◯Masato Tsutsumi, Hiroki Kawai, Kazumi Hakamata, Hideyoshi Fuji
 
 </div>
 
 </div>
+
+<script defer src="/js/publication-filters.js"></script>

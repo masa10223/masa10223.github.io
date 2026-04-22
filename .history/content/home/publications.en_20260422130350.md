@@ -11,7 +11,7 @@ build:
 
 <div class="research-stats" style="display: flex; justify-content: center; gap: 3rem; margin: 2rem 0; flex-wrap: wrap; background:rgb(8, 37, 66); padding: 2rem; border-radius: 15px;">
   <div class="stat-item">
-    <div class="stat-number">4</div>
+    <div class="stat-number">3</div>
     <div class="stat-label">Papers</div>
   </div>
   <div class="stat-item">

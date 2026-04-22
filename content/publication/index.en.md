@@ -42,10 +42,7 @@ layout: "single"
   *Shunta Sakaguchi, Masato Tsutsumi, Kentaro Nishi, Naoki Honda*  
   bioRxiv (April 16, 2025) [PDF](https://www.biorxiv.org/content/biorxiv/early/2025/04/16/2025.04.10.648296.full.pdf)
 
-**2022**
-- A method for morphological feature extraction based on variational auto-encoder : an application to mandible shape  
-  *Masato Tsutsumi, Nen Saito, Daisuke Koyabu, Chikara Furusawa*  
-  Preprint (May 19, 2022)
+
 
 </div>
 
