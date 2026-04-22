@@ -59,6 +59,16 @@ build:
 </section>
 <section class="home-pubs-panel panel-preprints">
 <article class="home-pubs-card">
+<p class="home-pubs-meta">2026 / Preprint</p>
+<h3>Decoding Anadara shell morphology with deep learning</h3>
+<p class="home-pubs-authors">○Masato TSUTSUMI, Nen Saito, Tomohiro Yamaguchi, Takenori Sasaki, Chikara Furusawa</p>
+<p class="home-pubs-venue">bioRxiv (2026年4月21日)</p>
+<div class="home-pubs-links">
+<a href="https://www.biorxiv.org/content/10.64898/2026.04.17.719170v1.full.pdf">PDF</a>
+<a href="https://doi.org/10.64898/2026.04.17.719170">DOI</a>
+</div>
+</article>
+<article class="home-pubs-card">
 <p class="home-pubs-meta">2025 / Preprint</p>
 <h3>Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome</h3>
 <p class="home-pubs-authors">Shunta Sakaguchi, ○Masato TSUTSUMI, Kentaro Nishi, Naoki Honda</p>

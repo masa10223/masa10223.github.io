@@ -9,7 +9,7 @@ content:
   filters:
     folders:
       - post        # ← postsを情報源にする（後述の「news」に変えることも可）
-    count: 12       # 表示件数
+    count: 5        # 表示件数
   sort_by: "Date"
   sort_ascending: false
   archive:

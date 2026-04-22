@@ -9,7 +9,7 @@ content:
   filters:
     folders:
       - post
-    count: 12
+    count: 5
   sort_by: "Date"
   sort_ascending: false
   archive:

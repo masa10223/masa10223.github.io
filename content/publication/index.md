@@ -37,7 +37,9 @@ layout: "single"
 <div class="preprint-list">
 
 **2026**
-- （更新予定）
+- Decoding Anadara shell morphology with deep learning  
+  ○Masato Tsutsumi, Nen Saito, Tomohiro Yamaguchi, Takenori Sasaki, Chikara Furusawa  
+  bioRxiv (2026年4月21日) [PDF](https://www.biorxiv.org/content/10.64898/2026.04.17.719170v1.full.pdf) | [DOI](https://doi.org/10.64898/2026.04.17.719170)
 
 **2025**
 - Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome  

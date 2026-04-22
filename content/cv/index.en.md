@@ -26,6 +26,8 @@ My research aims to treat life phenomena as a hierarchical system of morphology,
 - **Graduate Student Research Associate**, RIKEN (Apr 2020 - Mar 2023)
 
 ## Publications (Selected)
+- **Decoding Anadara shell morphology with deep learning**  
+  **Masato Tsutsumi**, Nen Saito, Tomohiro Yamaguchi, Takenori Sasaki, Chikara Furusawa. bioRxiv (2026)
 - **Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome**  
   Shunta Sakaguchi, **Masato Tsutsumi**, Kentaro Nishi, Naoki Honda. bioRxiv (2025)
 - **Deciphering the origin of developmental stability: The role of intracellular expression variability in evolutionary conservation**  
