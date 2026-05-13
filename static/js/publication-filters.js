@@ -17,7 +17,7 @@
           papers: "論文",
           preprints: "Preprints",
           talks: "招待講演",
-          presentations: "学会発表",
+          presentations: "口頭発表",
           misc: "その他",
         },
         results: "件",

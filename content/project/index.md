@@ -28,7 +28,7 @@ layout: "single"
 
 **関連リンク:**
 - [📄 論文](https://doi.org/10.1038/s41540-023-00293-6)
-- [💻 コード](https://github.com/masa10223)
+- [💻 コード](https://github.com/masa10223/Morpho-VAE)
 
 </div>
 ---
@@ -55,7 +55,7 @@ layout: "single"
 
 **関連リンク:**
 - [📄 論文](https://www.biorxiv.org/content/biorxiv/early/2025/04/16/2025.04.10.648296.full.pdf)
-- [💻 コード](https://github.com/masa10223)
+- [💻 コード](https://github.com/ShuntaSakaguchi/kanade)
 
 </div>
 ---
@@ -84,8 +84,8 @@ layout: "single"
 ### 将来展望
 精神医学、行動科学、社会科学への応用を通じて、ストレス関連疾患の理解と治療法開発に貢献することを目指しています。
 
-<!-- **関連リンク:**
-- [📄 関連論文](/ja/publication/) -->
+**関連リンク:**
+- 📄 論文: *To be updated*
 
 </div>
 ---
@@ -115,6 +115,6 @@ layout: "single"
 キイロショウジョウバエ以外の動物にも適用できることを目指します。
 
 **関連リンク:**
-- [📄 関連論文](/ja/publication/)
+- 📄 論文: *To be updated*
 
 </div>

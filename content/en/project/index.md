@@ -34,7 +34,7 @@ Wide-ranging applications expected in evolutionary biology, morphology, medical 
 
 **Related Links:**
 - [📄 Paper](https://doi.org/10.1038/s41540-023-00293-6)
-- [💻 Code](https://github.com/masa10223)
+- [💻 Code](https://github.com/masa10223/Morpho-VAE)
 
 ---
 
@@ -60,7 +60,7 @@ Demonstrates power in integrative analysis, meta-analysis, and database construc
 
 **Related Links:**
 - [📄 Paper](https://www.biorxiv.org/content/biorxiv/early/2025/04/16/2025.04.10.648296.full.pdf)
-- [💻 Code](https://github.com/masa10223)
+- [💻 Code](https://github.com/ShuntaSakaguchi/kanade)
 
 ---
 
@@ -91,4 +91,4 @@ Achieves results through multi-layered approaches including psychological state 
 Aims to contribute to understanding and treatment development of stress-related disorders through applications in psychiatry, behavioral science, and social science.
 
 **Related Links:**
-- [📄 Related Papers](/en/publication/)
+- 📄 Paper: *To be updated*

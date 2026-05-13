@@ -12,15 +12,15 @@ build:
 <div class="research-stats" style="display: flex; justify-content: center; gap: 3rem; margin: 2rem 0; flex-wrap: wrap; background:rgb(8, 37, 66); padding: 2rem; border-radius: 15px;">
   <div class="stat-item">
     <div class="stat-number">4</div>
-    <div class="stat-label">Papers</div>
+    <div class="stat-label">論文</div>
   </div>
   <div class="stat-item">
     <div class="stat-number">27</div>
-    <div class="stat-label">Presentations</div>
+    <div class="stat-label">口頭発表</div>
   </div>
   <div class="stat-item">
     <div class="stat-number">6</div>
-    <div class="stat-label">Invited Talks</div>
+    <div class="stat-label">招待講演</div>
   </div>
 </div>
 <div class="home-pubs-tabs home-pubs-tabs-ja">
@@ -85,31 +85,81 @@ build:
 <p class="home-pubs-venue">SSTB2026 - Spring School for Theoretical Biology 2026- (2026年3月5日)</p>
 </article>
 <article class="home-pubs-card">
-<p class="home-pubs-meta">2024 / Invited Talk</p>
+<p class="home-pubs-meta">2024 / 招待講演</p>
 <h3>深層学習による生物形態定量解析手法の開発</h3>
 <p class="home-pubs-venue">日本応用数理学会2024年度 年会 (2024年9月16日)</p>
 </article>
 <article class="home-pubs-card">
-<p class="home-pubs-meta">2024 / Invited Talk</p>
+<p class="home-pubs-meta">2024 / 招待講演</p>
 <h3>深層学習を用いた生物形態の定量解析手法の開発</h3>
 <p class="home-pubs-venue">シリーズオンラインセミナー「AIが切り開く進化生物学の未来」 (2024年3月9日)</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2024 / 招待講演</p>
+<h3>深層学習を用いた生物形態の定量解析手法の開発</h3>
+<p class="home-pubs-venue">第8回理論免疫学ワークショップ (2024年2月14日)</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2022 / 招待講演</p>
+<h3>機械学習を用いた様々な生物形態の定量化</h3>
+<p class="home-pubs-venue">広島大学数理生命科学プログラムセミナー (2022年11月10日)</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2021 / 招待講演</p>
+<h3>機械学習を用いた生物形態の定量化とその応用について 霊長目の下顎骨を対象として</h3>
+<p class="home-pubs-venue">基礎生物学研究所部門セミナー (2021年10月)</p>
 </article>
 </section>
 <section class="home-pubs-panel panel-presentations">
 <article class="home-pubs-card">
-<p class="home-pubs-meta">2026 / Presentation</p>
+<p class="home-pubs-meta">2026 / 口頭発表</p>
 <h3>深層学習に基づく生物形態・行動の定量解析: Morpho-VAE と DOLO の開発</h3>
 <p class="home-pubs-venue">共進化表現型創発研究の最前線 〜研究の展開をそのルーツから迫る〜 (2026年2月20日)</p>
 </article>
 <article class="home-pubs-card">
-<p class="home-pubs-meta">2026 / Presentation</p>
+<p class="home-pubs-meta">2026 / 口頭発表</p>
 <h3>深層学習手法を用いた形態や行動などの解析</h3>
 <p class="home-pubs-venue">進化情報アセンブリによる生命機能の創出原理 (2026年1月13日)</p>
 </article>
 <article class="home-pubs-card">
-<p class="home-pubs-meta">2025 / Presentation</p>
+<p class="home-pubs-meta">2025 / 口頭発表</p>
+<h3>Development of a markerless multi-individual tracking system for controlling cannibalistic behavior in crickets</h3>
+<p class="home-pubs-venue">日本比較生理生化学会 第47回大会 (2025年12月5日)</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2025 / 口頭発表</p>
+<h3>深層学習を用いた形態定量化手法: Morpho-VAE</h3>
+<p class="home-pubs-venue">第99回形の科学シンポジウム「動きをもたらすかたち」 (2025年11月30日)</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2025 / 口頭発表</p>
+<h3>3次元Variational Autoencoderを用いた形態変異の可視化</h3>
+<p class="home-pubs-venue">第34回日本バイオイメージング学会学術集会</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2025 / 口頭発表</p>
 <h3>DOLO (Drosophila tracking with YOLO) による2重変異体ハエ幼虫の行動解析</h3>
 <p class="home-pubs-venue">第一回システム行動学研究会 (2025年5月30日)</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2025 / 口頭発表</p>
+<h3>エネルギーランドスケープ解析による緊急事態宣言中/後における心理状態遷移の推定</h3>
+<p class="home-pubs-venue">SSTB2025 - Spring School for Theoretical Biology 2025- (2025年2月20日)</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2024 / 口頭発表</p>
+<h3>深層学習による形態定量解析手法の提案</h3>
+<p class="home-pubs-venue">2024年度日本数理生物学会年会 (2024年9月12日)</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2024 / 口頭発表</p>
+<h3>数理モデルを用いた社会的敗北ストレス下でのマウス行動の定量化</h3>
+<p class="home-pubs-venue">CPSY TOKYO 2024 (2024年3月28日)</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2024 / 口頭発表</p>
+<h3>ベイズ推論を用いた脳内反芻思考の数理モデル</h3>
+<p class="home-pubs-venue">理論生物学スプリングスクール2024 (2024年2月20日)</p>
 </article>
 </section>
 </div>

@@ -83,7 +83,9 @@ layout: "single"
 
 **2026**
 - Quantitative Analysis of Biological Morphology and Behavior Based on Deep Learning: Development of Morpho-VAE and DOLO  
-  (Feb 20, 2026)
+  *Frontiers of coevolutionary phenotypic emergence research: tracing how research unfolds from its roots* (February 20, 2026)
+- Analysis of morphology and behavior using deep learning methods  
+  *Principles for Creating Life Functions through Evolutionary Information Assembly* (January 13, 2026)
 
 **2025**
 - Development of a markerless multi-individual tracking system for controlling cannibalistic behavior in crickets  

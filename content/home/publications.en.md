@@ -19,7 +19,7 @@ build:
     <div class="stat-label">Presentations</div>
   </div>
   <div class="stat-item">
-    <div class="stat-number">5</div>
+    <div class="stat-number">6</div>
     <div class="stat-label">Invited Talks</div>
   </div>
 </div>
@@ -86,6 +86,11 @@ build:
 </section>
 <section class="home-pubs-panel panel-talks">
 <article class="home-pubs-card">
+<p class="home-pubs-meta">2026 / Invited Talk</p>
+<h3>Towards quantification of diverse life phenomena: morphology, behavior, and psychology as information</h3>
+<p class="home-pubs-venue">SSTB2026 - Spring School for Theoretical Biology 2026- (March 5, 2026)</p>
+</article>
+<article class="home-pubs-card">
 <p class="home-pubs-meta">2024 / Invited Talk</p>
 <h3>Development of quantitative analysis methods for biological morphology using deep learning</h3>
 <p class="home-pubs-venue">Japan Society for Industrial and Applied Mathematics Annual Meeting 2024 (September 16, 2024)</p>
@@ -95,22 +100,72 @@ build:
 <h3>Development of quantitative analysis methods for biological morphology using deep learning</h3>
 <p class="home-pubs-venue">Online Seminar Series "Future of Evolutionary Biology with AI" (March 9, 2024)</p>
 </article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2024 / Invited Talk</p>
+<h3>Development of quantitative analysis methods for biological morphology using deep learning</h3>
+<p class="home-pubs-venue">8th Theoretical Immunology Workshop (February 14, 2024)</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2022 / Invited Talk</p>
+<h3>Quantification of various biological morphologies using machine learning</h3>
+<p class="home-pubs-venue">Hiroshima University Mathematical Life Sciences Program Seminar (November 10, 2022)</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2021 / Invited Talk</p>
+<h3>Quantification and application of biological morphology using machine learning: Focusing on primate mandibles</h3>
+<p class="home-pubs-venue">National Institute for Basic Biology Departmental Seminar (October 2021)</p>
+</article>
 </section>
 <section class="home-pubs-panel panel-presentations">
 <article class="home-pubs-card">
 <p class="home-pubs-meta">2026 / Presentation</p>
 <h3>Quantitative Analysis of Biological Morphology and Behavior Based on Deep Learning: Development of Morpho-VAE and DOLO</h3>
-<p class="home-pubs-venue">Feb 20, 2026</p>
+<p class="home-pubs-venue">Frontiers of coevolutionary phenotypic emergence research: tracing how research unfolds from its roots (February 20, 2026)</p>
 </article>
 <article class="home-pubs-card">
 <p class="home-pubs-meta">2026 / Presentation</p>
 <h3>Analysis of morphology and behavior using deep learning methods</h3>
-<p class="home-pubs-venue">Principles for Creating Life Functions through Evolutionary Information Assembly (Jan 13, 2026)</p>
+<p class="home-pubs-venue">Principles for Creating Life Functions through Evolutionary Information Assembly (January 13, 2026)</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2025 / Presentation</p>
+<h3>Development of a markerless multi-individual tracking system for controlling cannibalistic behavior in crickets</h3>
+<p class="home-pubs-venue">47th Annual Meeting of the Japanese Society for Comparative Physiology and Biochemistry (December 5, 2025)</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2025 / Presentation</p>
+<h3>Morphological quantification using deep learning: Morpho-VAE</h3>
+<p class="home-pubs-venue">99th Symposium on Science of Form "Shape that brings motion" (November 30, 2025)</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2025 / Presentation</p>
+<h3>Visualization of morphological variation using 3D Variational Autoencoder</h3>
+<p class="home-pubs-venue">34th Annual Meeting of the Japanese Society for Bioimaging</p>
 </article>
 <article class="home-pubs-card">
 <p class="home-pubs-meta">2025 / Presentation</p>
 <h3>Behavioral analysis of double mutant Drosophila larvae using DOLO (Drosophila tracking with YOLO)</h3>
 <p class="home-pubs-venue">1st Systems Behavioral Science Workshop (May 30, 2025)</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2025 / Presentation</p>
+<h3>Estimation of psychological state transitions during/after emergency declarations using energy landscape analysis</h3>
+<p class="home-pubs-venue">SSTB2025 - Spring School for Theoretical Biology 2025- (February 20, 2025)</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2024 / Presentation</p>
+<h3>Proposal of morphological quantitative analysis methods using deep learning</h3>
+<p class="home-pubs-venue">Annual Meeting of the Japanese Society for Mathematical Biology 2024 (September 12, 2024)</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2024 / Presentation</p>
+<h3>Quantification of mouse behavior under social defeat stress using mathematical models</h3>
+<p class="home-pubs-venue">CPSY TOKYO 2024 (March 28, 2024)</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2024 / Presentation</p>
+<h3>Mathematical model of rumination in the brain using Bayesian inference</h3>
+<p class="home-pubs-venue">Spring School for Theoretical Biology 2024 (February 20, 2024)</p>
 </article>
 </section>
 </div>
