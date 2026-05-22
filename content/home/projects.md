@@ -49,7 +49,7 @@ build:
   </div>
   <div class="home-project-content">
     <h3>mindGAP</h3>
-    <p>縦断的質問票データから、集団・個人レベルの症状エネルギーランドスケープとそのギャップを推定する階層変分ベイズフレームワーク。</p>
+    <p>集団・個人レベルでの心理状態の違いを定量化するフレームワーク</p>
     <div class="project-tags">
       <span class="tag">エネルギーランドスケープ</span>
       <span class="tag">階層ベイズ</span>
@@ -66,7 +66,7 @@ build:
   </div>
   <div class="home-project-content">
     <h3>DOLO</h3>
-    <p>キイロショウジョウバエ幼虫の行動を YOLO で定量化。関連論文「Chemosensory input suppresses cannibalism…」は投稿済み。</p>
+    <p>キイロショウジョウバエ幼虫の行動を YOLO で定量化。</p>
     <div class="project-tags">
       <span class="tag">深層学習</span>
       <span class="tag">YOLO</span>
