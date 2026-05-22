@@ -43,19 +43,17 @@ build:
   </div>
 </a>
 
-<a class="home-project-item" href='{{< relref "project/_index.md" >}}#stress'>
+<a class="home-project-item" href='{{< relref "project/_index.md" >}}#mindgap'>
   <div class="home-project-image">
-    <div class="placeholder-image">
-      <div class="icon">🧠</div>
-    </div>
+    <img src="/images/projects/mindgap.jpg" alt="mindGAP">
   </div>
   <div class="home-project-content">
-    <h3>社会的ストレス研究</h3>
-    <p>数理モデルによる社会的ストレスの定量化。エネルギーランドスケープ解析やベイズ推論を用いた手法。</p>
+    <h3>mindGAP</h3>
+    <p>縦断的質問票データから、集団・個人レベルの症状エネルギーランドスケープとそのギャップを推定する階層変分ベイズフレームワーク。</p>
     <div class="project-tags">
-      <span class="tag">自由エネルギー原理</span>
       <span class="tag">エネルギーランドスケープ</span>
-      <span class="tag">ベイズ推論</span>
+      <span class="tag">階層ベイズ</span>
+      <span class="tag">精神医学</span>
     </div>
   </div>
 </a>
@@ -68,7 +66,7 @@ build:
   </div>
   <div class="home-project-content">
     <h3>DOLO</h3>
-    <p>キイロショウジョウバエ幼虫の多個体行動解析深層学習プラットフォーム。</p>
+    <p>キイロショウジョウバエ幼虫の行動を YOLO で定量化。関連論文「Chemosensory input suppresses cannibalism…」は投稿済み。</p>
     <div class="project-tags">
       <span class="tag">深層学習</span>
       <span class="tag">YOLO</span>

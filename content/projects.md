@@ -39,19 +39,17 @@ type: widget_page
   </div>
 </a>
 
-<a href="/project/#stress-detail" class="home-project-item">
+<a href="/project/#mindgap" class="home-project-item">
   <div class="home-project-image">
-    <div class="placeholder-image">
-      <div class="icon">🧠</div>
-    </div>
+    <img src="/images/projects/mindgap.jpg" alt="mindGAP">
   </div>
   <div class="home-project-content">
-    <h3>社会的ストレス研究</h3>
-    <p>数理モデルを用いた社会的ストレスの定量化。エネルギー地形解析とベイズ推定を活用した革新的手法。</p>
+    <h3>mindGAP</h3>
+    <p>縦断的質問票データから、集団・個人レベルの症状エネルギーランドスケープとそのギャップを推定する階層変分ベイズフレームワーク。</p>
     <div class="project-tags">
-      <span class="tag">数理モデル</span>
-      <span class="tag">ストレス解析</span>
-      <span class="tag">行動科学</span>
+      <span class="tag">エネルギーランドスケープ</span>
+      <span class="tag">階層ベイズ</span>
+      <span class="tag">精神医学</span>
     </div>
   </div>
 </a>

@@ -14,9 +14,6 @@ layout: "single"
 <div class="publication-list">
 
 
-**2026**
-- （更新予定）
-
 **2024**
 - Deciphering the origin of developmental stability: The role of intracellular expression variability in evolutionary conservation  
   Yui Uchida, ○Masato Tsutsumi, Shunsuke Ichii, Naoki Irie, Chikara Furusawa  
@@ -37,6 +34,12 @@ layout: "single"
 <div class="preprint-list">
 
 **2026**
+- Mind the gap: quantifying population–individual gap in depressive symptom dynamics through energy landscapes  
+  ○Masato Tsutsumi, Taisei Kubo, Takahiro A. Kato, Naoki Honda  
+  投稿済み
+- Chemosensory input suppresses cannibalism by stabilizing social feeding boundaries in Drosophila larvae  
+  Nagisa Matsuda-Watanabe, ○Masato Tsutsumi, Misako Okumura, Takahiro Chihara  
+  投稿済み
 - Decoding Anadara shell morphology with deep learning  
   ○Masato Tsutsumi, Nen Saito, Tomohiro Yamaguchi, Takenori Sasaki, Chikara Furusawa  
   bioRxiv (2026年4月21日) [PDF](https://www.biorxiv.org/content/10.64898/2026.04.17.719170v1.full.pdf) | [DOI](https://doi.org/10.64898/2026.04.17.719170)

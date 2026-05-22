@@ -60,60 +60,56 @@ Demonstrates power in integrative analysis, meta-analysis, and database construc
 
 ---
 
-## 🧠 Mathematical Model of Social Stress
-<div id="stress"></div>
+## 🧠 mindGAP: Quantifying the Population–Individual Gap
+<div id="mindgap"></div>
 
-<div style="width: 100%; height: 300px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 1rem 0;">
-  <div style="text-align: center; color: white;">
-    <div style="font-size: 4rem; margin-bottom: 1rem;">🧠</div>
-    <div style="font-size: 1.2rem; font-weight: bold;">Mathematical Model of Social Stress</div>
-    <div style="font-size: 0.9rem; opacity: 0.8;"></div>
-  </div>
-</div>
+![mindGAP](/images/projects/mindgap.jpg)
 
-### Research Objective
-Aims to quantitatively analyze the effects of social stress on individual behavior and physiology using **mathematical models** and clarify the basic principles of stress response.
+### Overview
+**mindGAP** (Measuring INDividual–population GAPs in psychiatric energy landscapes) is a hierarchical variational Bayesian framework that jointly estimates **population-level** and **individual-level** symptom dynamics from longitudinal questionnaire data and quantifies how they diverge. It formalizes mismatches between collective assessment and personal symptom organization—such as appearing stable while struggling internally, or the reverse—as energy landscapes.
 
-### Approach Methods
-- **Energy landscape analysis**: Physically represents transitions in psychological states
-- **Bayesian inference**: Probabilistic modeling of ruminative thinking in the brain
-- **Free energy principle**: Analysis based on unified theory of cognitive processes
+### Key Features
+- **Hierarchical variational Bayes**: Joint estimation of population parameters and participant-specific deviations
+- **Energy landscape analysis**: Extracts attractor states and transitions from multivariate response patterns (e.g., PHQ-9)
+- **Individual–population landscape divergence**: Quantified via Jensen–Shannon divergence between landscapes
+- **Links to external measures**: Associated not only with depressive severity but also with modern-type depression traits (TACS-22) and interpersonal sensitivity (IPS-22)
 
-### Research Achievements
-Achieves results through multi-layered approaches including psychological state changes during emergency declarations, mouse behavior under social defeat stress, and Drosophila larva behavior analysis.
+### Study (Longitudinal survey during the COVID-19 pandemic)
+We applied mindGAP to longitudinal PHQ-9 data from 248 participants across five time points collected in Japan during the COVID-19 pandemic. The population landscape revealed three major stable states (resilient, intermediate, severe), whereas individualized landscapes often diverged substantially from this shared structure. The same symptom trajectories could show different attractor-transition patterns at the individual versus population level (e.g., steady–unsteady, unsteady–steady).
 
-### Future Prospects
-Aims to contribute to understanding and treatment development of stress-related disorders through applications in psychiatry, behavioral science, and social science.
+### Significance and Outlook
+As a way to capture **structural heterogeneity** in symptoms beyond summary scores, mindGAP may support personalized mental health assessment and precision psychiatry.
 
 **Related Links:**
-- 📄 Paper: *To be updated*
+- 📄 Paper: *In preparation *
 
 ---
 
-## 🪰 Drosophila Tracking with YOLO (DOLO)
+## 🪰 DOLO (Drosophila tracking with YOLO)
 <div id="dolo">
-<div style="width: 100%; height: 300px; background: linear-gradient(135deg,rgb(102, 234, 142)
- 0%,rgb(59, 78, 224) 100%); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 1rem 0;">  
-<div style="text-align: center; color: white;">
+<div style="width: 100%; height: 300px; background: linear-gradient(135deg,rgb(102, 234, 142) 0%,rgb(59, 78, 224) 100%); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 1rem 0;">
+  <div style="text-align: center; color: white;">
     <div style="font-size: 4rem; margin-bottom: 1rem;">🪰</div>
     <div style="font-size: 1.2rem; font-weight: bold;">DOLO</div>
-    
-<div style="font-size: 0.9rem; opacity: 0.8;">Drosophila tracking with YOLO</div>
+    <div style="font-size: 0.9rem; opacity: 0.8;">Drosophila tracking with YOLO</div>
   </div>
 </div>
 
-### Research Objective
-Tracking and analyzing the behavior of double mutant Drosophila larvae was difficult due to their lack of distinctive individual morphology. We aim to create a behavior analysis tool specialized for these larvae.
+### Related manuscript (submitted)
+**Chemosensory input suppresses cannibalism by stabilizing social feeding boundaries in Drosophila larvae**  
+Submitted (no preprint)
+
+### Overview
+We developed **DOLO**, a markerless multi-animal tracking method for *Drosophila* larvae based on YOLO, to quantify social feeding behavior and cannibalism. The platform supports analyses of how chemosensory input stabilizes social feeding boundaries and suppresses cannibalism.
 
 ### Approach
-- **YOLO**: Deep learning-based pose estimation
-- **Transfer learning**: Individual-specific learning method
+- **YOLO**: Deep learning-based markerless multi-animal tracking
+- **Transfer learning**: Training specialized for larval behavior
 
 ### Research Results
-Our research group proposed “DOLO,” a Drosophila larval behavior analysis model applying the deep learning framework YOLO. This model enables comparative behavioral analysis between this mutant and controls.
+DOLO enabled quantitative comparison of multi-larva behavior and evaluation of the relationship between social feeding boundaries and cannibalism.
 
 ### Future Prospects
-We aim to extend its applicability beyond Drosophila melanogaster.
-**Related Links:**
-- 📄 Paper: *To be updated*
+We aim to extend this approach to behavioral analysis in other animals.
+
 </div>

@@ -40,19 +40,17 @@ subtitle: "Research Projects"
   </div>
 </a>
 
-<a class="home-project-item" href='{{< relref "project/_index.md" >}}#stress'>
+<a class="home-project-item" href='{{< relref "project/_index.md" >}}#mindgap'>
   <div class="home-project-image">
-    <div class="placeholder-image">
-      <div class="icon">🧠</div>
-    </div>
+    <img src="/images/projects/mindgap.jpg" alt="mindGAP">
   </div>
   <div class="home-project-content">
-    <h3>Social Stress Modeling</h3>
-    <p>Quantifying social stress with mathematical models such as energy landscapes and Bayesian inference.</p>
+    <h3>mindGAP</h3>
+    <p>A hierarchical variational Bayesian framework that estimates population- and individual-level psychiatric energy landscapes—and the gap between them—from longitudinal questionnaire data.</p>
     <div class="project-tags">
-      <span class="tag">Modeling</span>
-      <span class="tag">Stress</span>
-      <span class="tag">Behavior</span>
+      <span class="tag">Energy Landscape</span>
+      <span class="tag">Hierarchical Bayesian</span>
+      <span class="tag">Psychiatry</span>
     </div>
   </div>
 </a>

@@ -60,6 +60,18 @@ build:
 <section class="home-pubs-panel panel-preprints">
 <article class="home-pubs-card">
 <p class="home-pubs-meta">2026 / Preprint</p>
+<h3>Mind the gap: quantifying population–individual gap in depressive symptom dynamics through energy landscapes</h3>
+<p class="home-pubs-authors">○Masato TSUTSUMI, Taisei Kubo, Takahiro A. Kato, Naoki Honda</p>
+<p class="home-pubs-venue">投稿済み（Nature Human Behaviour 向け）</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2026 / Preprint</p>
+<h3>Chemosensory input suppresses cannibalism by stabilizing social feeding boundaries in Drosophila larvae</h3>
+<p class="home-pubs-authors">Nagisa Matsuda-Watanabe, ○Masato TSUTSUMI, Misako Okumura, Takahiro Chihara</p>
+<p class="home-pubs-venue">投稿済み</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2026 / Preprint</p>
 <h3>Decoding Anadara shell morphology with deep learning</h3>
 <p class="home-pubs-authors">○Masato TSUTSUMI, Nen Saito, Tomohiro Yamaguchi, Takenori Sasaki, Chikara Furusawa</p>
 <p class="home-pubs-venue">bioRxiv (2026年4月21日)</p>

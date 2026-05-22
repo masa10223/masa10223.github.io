@@ -64,31 +64,22 @@ Demonstrates power in integrative analysis, meta-analysis, and database construc
 
 ---
 
-## 🧠 Mathematical Model of Social Stress
-<div id="stress"></div>
+## 🧠 mindGAP: Quantifying the Population–Individual Gap
+<div id="mindgap"></div>
 
-<div style="width: 100%; height: 300px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 1rem 0;">
-  <div style="text-align: center; color: white;">
-    <div style="font-size: 4rem; margin-bottom: 1rem;">🧠</div>
-    <div style="font-size: 1.2rem; font-weight: bold;">Mathematical Model of Social Stress</div>
-    <div style="font-size: 0.9rem; opacity: 0.8;">社会的ストレスの数理モデル</div>
-  </div>
-</div>
+![mindGAP](/images/projects/mindgap.jpg)
 
-### Research Objective
-Aims to quantitatively analyze the effects of social stress on individual behavior and physiology using **mathematical models** and clarify the basic principles of stress response.
+### Overview
+**mindGAP** (Measuring INDividual–population GAPs in psychiatric energy landscapes) is a hierarchical variational Bayesian framework that jointly estimates **population-level** and **individual-level** symptom dynamics from longitudinal questionnaire data and quantifies how they diverge.
 
-### Approach Methods
-- **Energy landscape analysis**: Physically represents transitions in psychological states
-- **Bayesian inference**: Probabilistic modeling of ruminative thinking in the brain
-- **Free energy principle**: Analysis based on unified theory of cognitive processes
-- **DOLO (Drosophila tracking with YOLO)**: Automated behavior tracking using deep learning
+### Key Features
+- **Hierarchical variational Bayes**: Joint estimation of population parameters and participant-specific deviations
+- **Energy landscape analysis**: Extracts attractor states and transitions from multivariate response patterns (e.g., PHQ-9)
+- **Individual–population landscape divergence**: Quantified via Jensen–Shannon divergence between landscapes
+- **Links to external measures**: Associated with depressive severity and with TACS-22 and IPS-22
 
-### Research Achievements
-Achieves results through multi-layered approaches including psychological state changes during emergency declarations, mouse behavior under social defeat stress, and Drosophila larva behavior analysis.
-
-### Future Prospects
-Aims to contribute to understanding and treatment development of stress-related disorders through applications in psychiatry, behavioral science, and social science.
+### Study
+We applied mindGAP to longitudinal PHQ-9 data from 248 participants across five time points collected in Japan during the COVID-19 pandemic. Individualized landscapes often diverged from the population-level structure of three major stable states.
 
 **Related Links:**
-- 📄 Paper: *To be updated*
+- 📄 Paper: *In preparation (targeting Nature Human Behaviour)*

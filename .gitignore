@@ -1,3 +1,6 @@
+# Editor local history
+.history/
+
 # Hugo default output directory
 /public/
 

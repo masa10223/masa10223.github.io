@@ -43,19 +43,17 @@ build:
   </div>
 </a>
 
-<a class="home-project-item" href='/en/project/#stress'>
+<a class="home-project-item" href='/en/project/#mindgap'>
   <div class="home-project-image">
-    <div class="placeholder-image">
-      <div class="icon">🧠</div>
-    </div>
+    <img src="/images/projects/mindgap.jpg" alt="mindGAP">
   </div>
   <div class="home-project-content">
-    <h3>Social Stress Modeling</h3>
-    <p>Quantification of social stress using mathematical models, including energy landscape analysis and Bayesian inference.</p>
+    <h3>mindGAP</h3>
+    <p>A hierarchical variational Bayesian framework that estimates population- and individual-level psychiatric energy landscapes—and the gap between them—from longitudinal questionnaire data.</p>
     <div class="project-tags">
-      <span class="tag">Free Energy Principle</span>
       <span class="tag">Energy Landscape</span>
-      <span class="tag">Bayesian Inference</span>
+      <span class="tag">Hierarchical Bayesian</span>
+      <span class="tag">Psychiatry</span>
     </div>
   </div>
 </a>
@@ -68,7 +66,7 @@ build:
   </div>
   <div class="home-project-content">
     <h3>DOLO</h3>
-    <p>A deep learning platform for multi-animal behavioral analysis of Drosophila larvae.</p>
+    <p>Markerless multi-larva tracking with YOLO. Related manuscript “Chemosensory input suppresses cannibalism…” submitted.</p>
     <div class="project-tags">
       <span class="tag">Deep Learning</span>
       <span class="tag">YOLO</span>

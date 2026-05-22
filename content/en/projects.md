@@ -43,19 +43,17 @@ My research focuses on the integration of deep learning and biology, with the ai
   </div>
 </a>
 
-<a href="/en/project/#stress-detail" class="home-project-item">
+<a href="/en/project/#mindgap" class="home-project-item">
   <div class="home-project-image">
-    <div class="placeholder-image">
-      <div class="icon">🧠</div>
-    </div>
+    <img src="/images/projects/mindgap.jpg" alt="mindGAP">
   </div>
   <div class="home-project-content">
-    <h3>Social Stress Research</h3>
-    <p>Quantification of social stress using mathematical models. Innovative methods using energy landscape analysis and Bayesian inference.</p>
+    <h3>mindGAP</h3>
+    <p>A hierarchical variational Bayesian framework that estimates population- and individual-level psychiatric energy landscapes—and the gap between them—from longitudinal questionnaire data.</p>
     <div class="project-tags">
-      <span class="tag">Mathematical Models</span>
-      <span class="tag">Stress Analysis</span>
-      <span class="tag">Behavioral Science</span>
+      <span class="tag">Energy Landscape</span>
+      <span class="tag">Hierarchical Bayesian</span>
+      <span class="tag">Psychiatry</span>
     </div>
   </div>
 </a>

@@ -60,37 +60,33 @@ layout: "single"
 </div>
 ---
 
-## 🧠 社会的ストレスの数理モデル
-<div id="stress">
-<div style="width: 100%; height: 300px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 1rem 0;">
-  <div style="text-align: center; color: white;">
-    <div style="font-size: 4rem; margin-bottom: 1rem;">🧠</div>
-    <div style="font-size: 1.2rem; font-weight: bold;">社会的ストレス数理モデル</div>
-    <div style="font-size: 0.9rem; opacity: 0.8;">Mathematical Modeling of Social Stress</div>
-  </div>
-</div>
+## 🧠 mindGAP: 集団–個人ギャップの定量化
+<div id="mindgap">
 
-### 研究目的
-社会的ストレスが個体の行動や生理に与える影響を**数理モデル**を用いて定量的に解析し、ストレス応答の基本原理を明らかにすることを目指しています。
+![mindGAP](/images/projects/mindgap.jpg)
 
-### アプローチ手法
-- **エネルギーランドスケープ解析**: 心理状態の遷移を物理学的に表現
-- **ベイズ推論**: 脳内反芻思考の確率的モデリング
-- **自由エネルギー原理**: 認知過程の統一理論に基づく解析
+### 概要
+**mindGAP**（Measuring INDividual–population GAPs in psychiatric energy landscapes）は、縦断的質問票データから**集団レベル**と**個人レベル**の症状ダイナミクスを同時に推定し、その差（ギャップ）を定量化する階層変分ベイズフレームワークです。見かけ上は安定に見えても内的に苦しんでいる人、あるいはその逆のような、集団評価と個人の症状構造の不一致を、エネルギーランドスケープとして形式化します。
 
-### 研究成果
-緊急事態宣言中の心理状態変化、社会的敗北ストレス下でのマウス行動、などを多層的なアプローチで迫っています。
+### 主な特徴
+- **階層変分ベイズ**: 集団パラメータと参加者ごとの個別パラメータを同時推定
+- **エネルギーランドスケープ解析**: PHQ-9 などの多変量回答パターンから安定状態（アトラクター）と遷移を抽出
+- **個人–集団ランドスケープ乖離**: Jensen–Shannon divergence により個人と集団の構造のずれを定量化
+- **外部尺度との関連**: 抑うつ重症度だけでなく、現代型うつ関連特性（TACS-22）や対人感受性（IPS-22）とも関連
 
-### 将来展望
-精神医学、行動科学、社会科学への応用を通じて、ストレス関連疾患の理解と治療法開発に貢献することを目指しています。
+### 研究内容（COVID-19 パンデミック中の縦断調査）
+日本における COVID-19 パンデミック期間に収集した PHQ-9 縦断データ（248名・5時点）に mindGAP を適用しました。集団ランドスケープでは3つの主要な安定状態（レジリエント、中間、重症）が同定されましたが、個人化ランドスケープはしばしばこの共有構造から大きく乖離していました。同一の症状時系列でも、集団レベルと個人レベルでは異なるアトラクター遷移パターン（安定–不安定、不安定–安定など）が観察されます。
+
+### 意義と展望
+従来の合計スコア中心の評価では見えにくい、症状の**構造的な個人差**を捉える手段として、精密精神医学や個別化されたメンタルヘルス評価への応用が期待されます。
 
 **関連リンク:**
-- 📄 論文: *To be updated*
+- 📄 論文: *投稿準備中*
 
 </div>
 ---
 
-## 🪰 Drosophila Tracking with YOLO (DOLO)
+## 🪰 DOLO（Drosophila tracking with YOLO）
 <div id="dolo">
 <div style="width: 100%; height: 300px; background: linear-gradient(135deg,rgb(102, 234, 142) 0%,rgb(59, 78, 224) 100%); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 1rem 0;">
   <div style="text-align: center; color: white;">
@@ -100,21 +96,21 @@ layout: "single"
   </div>
 </div>
 
-### 研究目的
-二重変異体のキイロショウジョウバエ幼虫の行動は、その特徴のない個体の形状によって行動を追跡したり、解析することが困難でした。その幼虫特化の行動解析ツールを作成することを目指します。
+### 関連論文（投稿済み）
+**Chemosensory input suppresses cannibalism by stabilizing social feeding boundaries in Drosophila larvae**  
+投稿済み（プレプリントなし）
+
+### 概要
+キイロショウジョウバエ幼虫の行動を定量化するため、深層学習フレームワーク YOLO を応用した多個体トラッキング手法 **DOLO** を開発しました。その結果、化学感覚入力がカニバリズムを抑制することがわかりました。
 
 ### アプローチ手法
-- **YOLO**: 深層学習を用いた姿勢推定
-- **転移学習**: 個体に特化した学習方法
+- **YOLO**: 深層学習を用いたマーカーレス多個体トラッキング
+- **転移学習**: 幼虫行動に特化した学習
 
 ### 研究成果
-私たちの研究グループは深層学習フレームワークYOLOを応用した、キイロショウジョウバエ幼虫行動解析モデル「DOLO」を提案しました。このモデルによってこの変異体とコントロールの比較行動解析が可能になりました。
-
+DOLOにより、従来困難だった幼虫の多個体行動比較が可能になった。このモデルによって変異体幼虫とコントロール幼虫の比較行動解析が可能になりました。
 
 ### 将来展望
-キイロショウジョウバエ以外の動物にも適用できることを目指します。
-
-**関連リンク:**
-- 📄 論文: *To be updated*
+キイロショウジョウバエ以外の動物行動解析への展開を目指しています。
 
 </div>
