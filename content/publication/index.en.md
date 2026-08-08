@@ -11,6 +11,11 @@ layout: "single"
 
 <div class="publication-list">
 
+**2026**
+- Artificial-Intelligence-Based Cephalometric Landmark Detection in Lateral Cephalograms  
+  *Manami Yamaguchi, Masato Tsutsumi, Yasuhiro Kuroda, Yoshiki Soeda, Tetsutaro Yamaguchi*  
+  Journal of Clinical Medicine (July 30, 2026) [PDF](https://www.mdpi.com/2077-0383/15/15/5943) | [DOI](https://doi.org/10.3390/jcm15155943)
+
 **2024**
 - Deciphering the origin of developmental stability: The role of intracellular expression variability in evolutionary conservation  
   *Yui Uchida, Masato Tsutsumi, Shunsuke Ichii, Naoki Irie, Chikara Furusawa*  
@@ -32,10 +37,10 @@ layout: "single"
 **2026**
 - Mind the gap: quantifying population–individual gap in depressive symptom dynamics through energy landscapes  
   *Masato Tsutsumi, Taisei Kubo, Takahiro A. Kato, Naoki Honda*  
-  Submitted (Nature Human Behaviour)
+  bioRxiv (May 24, 2026; v2) [PDF](https://www.biorxiv.org/content/10.64898/2026.05.20.726729v2.full.pdf) | [DOI](https://doi.org/10.64898/2026.05.20.726729)
 - Chemosensory input suppresses cannibalism by stabilizing social feeding boundaries in Drosophila larvae  
   *Nagisa Matsuda-Watanabe, Masato Tsutsumi, Misako Okumura, Takahiro Chihara*  
-  Submitted
+  In submission
 - Decoding Anadara shell morphology with deep learning  
   *Masato Tsutsumi, Nen Saito, Tomohiro Yamaguchi, Takenori Sasaki, Chikara Furusawa*  
   bioRxiv (April 21, 2026) [PDF](https://www.biorxiv.org/content/10.64898/2026.04.17.719170v1.full.pdf) | [DOI](https://doi.org/10.64898/2026.04.17.719170)
@@ -56,6 +61,18 @@ layout: "single"
 <div class="talk-list">
 
 **2026**
+- AI for measuring morphological differences among living organisms  
+  *Masato Tsutsumi*  
+  *FY2026 University of Tsukuba Open Lecture: Frontiers of Interdisciplinary Life Science Research 2026* (July 30, 2026) Invited
+- Towards quantification of form using information science  
+  *Masato Tsutsumi*  
+  *Workshop on Quantification of Form 2026* (July 27, 2026) Invited
+- Development of methods for quantifying biological morphology with an information-science approach  
+  *Masato Tsutsumi*  
+  *78th Annual Meeting of the Japan Society for Cell Biology* (July 15, 2026) Invited
+- Variational energy landscape analysis reveals population trends and individual heterogeneity during and after COVID-19 emergency declarations  
+  *Masato Tsutsumi*  
+  *40th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI 2026)* (June 9, 2026) Invited
 - Towards quantification of diverse life phenomena: morphology, behavior, and psychology as information  
   *Masato Tsutsumi*  
   *SSTB2026 - Spring School for Theoretical Biology 2026-* (March 5, 2026) Invited
@@ -85,6 +102,10 @@ layout: "single"
 <div class="presentation-list">
 
 **2026**
+- Mind the gap: quantifying population–individual differences in depressive symptom dynamics using energy landscapes  
+  *2nd Systems Behavioral Science Workshop* (July 12, 2026)
+- Morphological character selection using machine learning for phylogenetic analysis: revisiting the phylogenetic position of lepidosaurs  
+  *Annual Meeting of the Palaeontological Society of Japan 2026* (June 27, 2026)
 - Quantitative Analysis of Biological Morphology and Behavior Based on Deep Learning: Development of Morpho-VAE and DOLO  
   *Frontiers of coevolutionary phenotypic emergence research: tracing how research unfolds from its roots* (February 20, 2026)
 - Analysis of morphology and behavior using deep learning methods  

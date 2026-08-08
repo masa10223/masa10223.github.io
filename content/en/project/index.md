@@ -82,4 +82,5 @@ Demonstrates power in integrative analysis, meta-analysis, and database construc
 We applied mindGAP to longitudinal PHQ-9 data from 248 participants across five time points collected in Japan during the COVID-19 pandemic. Individualized landscapes often diverged from the population-level structure of three major stable states.
 
 **Related Links:**
-- 📄 Paper: *In preparation (targeting Nature Human Behaviour)*
+- [📄 Paper (bioRxiv)](https://www.biorxiv.org/content/10.64898/2026.05.20.726729v2.full.pdf)
+- [DOI](https://doi.org/10.64898/2026.05.20.726729)

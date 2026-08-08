@@ -14,6 +14,11 @@ layout: "single"
 <div class="publication-list">
 
 
+**2026**
+- Artificial-Intelligence-Based Cephalometric Landmark Detection in Lateral Cephalograms  
+  Manami Yamaguchi, ○Masato Tsutsumi, Yasuhiro Kuroda, Yoshiki Soeda, Tetsutaro Yamaguchi  
+  Journal of Clinical Medicine (2026年7月30日) [PDF](https://www.mdpi.com/2077-0383/15/15/5943) | [DOI](https://doi.org/10.3390/jcm15155943)
+
 **2024**
 - Deciphering the origin of developmental stability: The role of intracellular expression variability in evolutionary conservation  
   Yui Uchida, ○Masato Tsutsumi, Shunsuke Ichii, Naoki Irie, Chikara Furusawa  
@@ -36,10 +41,10 @@ layout: "single"
 **2026**
 - Mind the gap: quantifying population–individual gap in depressive symptom dynamics through energy landscapes  
   ○Masato Tsutsumi, Taisei Kubo, Takahiro A. Kato, Naoki Honda  
-  投稿済み
+  bioRxiv (2026年5月24日; v2) [PDF](https://www.biorxiv.org/content/10.64898/2026.05.20.726729v2.full.pdf) | [DOI](https://doi.org/10.64898/2026.05.20.726729)
 - Chemosensory input suppresses cannibalism by stabilizing social feeding boundaries in Drosophila larvae  
   Nagisa Matsuda-Watanabe, ○Masato Tsutsumi, Misako Okumura, Takahiro Chihara  
-  投稿済み
+  投稿中
 - Decoding Anadara shell morphology with deep learning  
   ○Masato Tsutsumi, Nen Saito, Tomohiro Yamaguchi, Takenori Sasaki, Chikara Furusawa  
   bioRxiv (2026年4月21日) [PDF](https://www.biorxiv.org/content/10.64898/2026.04.17.719170v1.full.pdf) | [DOI](https://doi.org/10.64898/2026.04.17.719170)
@@ -61,6 +66,10 @@ layout: "single"
 <div class="talk-list">
 
 **2026**
+- 「生き物のかたちの違いを測るAI」 ＠令和８年度筑波大学公開講座 生命学際研究の最前線２０２６ (2026年7月30日) 招待有り
+- 「情報科学を用いたかたちの定量化に向けて」 ＠「かたち」の定量ワークショップ 2026 (2026年7月27日) 招待有り
+- 「情報科学的アプローチによる生物形態の定量化手法の開発」 ＠第78回日本細胞生物学会大会 (2026年7月15日) 招待有り
+- 「変分エネルギーランドスケープ解析が明らかにするCOVID-19緊急事態宣言中およびその後の集団的傾向と個人的異質性」 ＠2026年度 人工知能学会全国大会（第40回） (2026年6月9日) 招待有り
 - 「多様な生命現象の定量化に向けて：情報として読む形態・行動・心理」 ＠SSTB2026 -Spring School for Theoretical Biology 2026- (2026年3月5日) 招待有り
 
 **2024**
@@ -83,6 +92,8 @@ layout: "single"
 <div class="presentation-list">
 
 **2026**
+- 「Mind the gap: エネルギーランドスケープを用いた抑うつ症状動態における集団-個人間の差異の定量化」＠第二回システム行動学研究会 (2026年7月12日)
+- 「系統解析における機械学習を用いた形態形質選抜：鱗竜類の系統位置の再検討」＠日本古生物学会 2026年年会・総会 (2026年6月27日)
 - 「深層学習に基づく生物形態・行動の定量解析: Morpho-VAE と DOLO の開発」＠共進化表現型創発研究の最前線 〜研究の展開をそのルーツから迫る〜 (2026年2月20日)
 - 「深層学習手法を用いた形態や行動などの解析」＠進化情報アセンブリによる生命機能の創出原理 (2026年1月13日)
 

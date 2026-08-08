@@ -66,7 +66,7 @@ build:
   </div>
   <div class="home-project-content">
     <h3>DOLO</h3>
-    <p>Markerless multi-larva tracking with YOLO. Related manuscript “Chemosensory input suppresses cannibalism…” submitted.</p>
+    <p>Markerless multi-larva tracking with YOLO. Related manuscript “Chemosensory input suppresses cannibalism…” in submission.</p>
     <div class="project-tags">
       <span class="tag">Deep Learning</span>
       <span class="tag">YOLO</span>

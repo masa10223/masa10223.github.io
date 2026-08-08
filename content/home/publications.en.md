@@ -11,15 +11,15 @@ build:
 
 <div class="research-stats" style="display: flex; justify-content: center; gap: 3rem; margin: 2rem 0; flex-wrap: wrap; background:rgb(8, 37, 66); padding: 2rem; border-radius: 15px;">
   <div class="stat-item">
-    <div class="stat-number">4</div>
+    <div class="stat-number">7</div>
     <div class="stat-label">Papers</div>
   </div>
   <div class="stat-item">
-    <div class="stat-number">27</div>
+    <div class="stat-number">29</div>
     <div class="stat-label">Presentations</div>
   </div>
   <div class="stat-item">
-    <div class="stat-number">6</div>
+    <div class="stat-number">10</div>
     <div class="stat-label">Invited Talks</div>
   </div>
 </div>
@@ -36,6 +36,16 @@ build:
 </div>
 <div class="home-pubs-panels">
 <section class="home-pubs-panel panel-papers">
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2026 / Peer-reviewed</p>
+<h3>Artificial-Intelligence-Based Cephalometric Landmark Detection in Lateral Cephalograms</h3>
+<p class="home-pubs-authors">Manami Yamaguchi, Masato TSUTSUMI, Yasuhiro Kuroda, Yoshiki Soeda, Tetsutaro Yamaguchi</p>
+<p class="home-pubs-venue">Journal of Clinical Medicine (July 30, 2026)</p>
+<div class="home-pubs-links">
+<a href="https://www.mdpi.com/2077-0383/15/15/5943">PDF</a>
+<a href="https://doi.org/10.3390/jcm15155943">DOI</a>
+</div>
+</article>
 <article class="home-pubs-card">
 <p class="home-pubs-meta">2024 / Peer-reviewed</p>
 <h3>Deciphering the origin of developmental stability: The role of intracellular expression variability in evolutionary conservation</h3>
@@ -62,13 +72,17 @@ build:
 <p class="home-pubs-meta">2026 / Preprint</p>
 <h3>Mind the gap: quantifying population–individual gap in depressive symptom dynamics through energy landscapes</h3>
 <p class="home-pubs-authors">Masato TSUTSUMI, Taisei Kubo, Takahiro A. Kato, Naoki Honda</p>
-<p class="home-pubs-venue">Submitted (Nature Human Behaviour)</p>
+<p class="home-pubs-venue">bioRxiv (May 24, 2026; v2)</p>
+<div class="home-pubs-links">
+<a href="https://www.biorxiv.org/content/10.64898/2026.05.20.726729v2.full.pdf">PDF</a>
+<a href="https://doi.org/10.64898/2026.05.20.726729">DOI</a>
+</div>
 </article>
 <article class="home-pubs-card">
 <p class="home-pubs-meta">2026 / Preprint</p>
 <h3>Chemosensory input suppresses cannibalism by stabilizing social feeding boundaries in Drosophila larvae</h3>
 <p class="home-pubs-authors">Nagisa Matsuda-Watanabe, Masato TSUTSUMI, Misako Okumura, Takahiro Chihara</p>
-<p class="home-pubs-venue">Submitted</p>
+<p class="home-pubs-venue">In submission</p>
 </article>
 <article class="home-pubs-card">
 <p class="home-pubs-meta">2026 / Preprint</p>
@@ -99,6 +113,26 @@ build:
 <section class="home-pubs-panel panel-talks">
 <article class="home-pubs-card">
 <p class="home-pubs-meta">2026 / Invited Talk</p>
+<h3>AI for measuring morphological differences among living organisms</h3>
+<p class="home-pubs-venue">FY2026 University of Tsukuba Open Lecture: Frontiers of Interdisciplinary Life Science Research 2026 (July 30, 2026)</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2026 / Invited Talk</p>
+<h3>Towards quantification of form using information science</h3>
+<p class="home-pubs-venue">Workshop on Quantification of Form 2026 (July 27, 2026)</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2026 / Invited Talk</p>
+<h3>Development of methods for quantifying biological morphology with an information-science approach</h3>
+<p class="home-pubs-venue">78th Annual Meeting of the Japan Society for Cell Biology (July 15, 2026)</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2026 / Invited Talk</p>
+<h3>Variational energy landscape analysis reveals population trends and individual heterogeneity during and after COVID-19 emergency declarations</h3>
+<p class="home-pubs-venue">40th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI 2026) (June 9, 2026)</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2026 / Invited Talk</p>
 <h3>Towards quantification of diverse life phenomena: morphology, behavior, and psychology as information</h3>
 <p class="home-pubs-venue">SSTB2026 - Spring School for Theoretical Biology 2026- (March 5, 2026)</p>
 </article>
@@ -107,28 +141,18 @@ build:
 <h3>Development of quantitative analysis methods for biological morphology using deep learning</h3>
 <p class="home-pubs-venue">Japan Society for Industrial and Applied Mathematics Annual Meeting 2024 (September 16, 2024)</p>
 </article>
-<article class="home-pubs-card">
-<p class="home-pubs-meta">2024 / Invited Talk</p>
-<h3>Development of quantitative analysis methods for biological morphology using deep learning</h3>
-<p class="home-pubs-venue">Online Seminar Series "Future of Evolutionary Biology with AI" (March 9, 2024)</p>
-</article>
-<article class="home-pubs-card">
-<p class="home-pubs-meta">2024 / Invited Talk</p>
-<h3>Development of quantitative analysis methods for biological morphology using deep learning</h3>
-<p class="home-pubs-venue">8th Theoretical Immunology Workshop (February 14, 2024)</p>
-</article>
-<article class="home-pubs-card">
-<p class="home-pubs-meta">2022 / Invited Talk</p>
-<h3>Quantification of various biological morphologies using machine learning</h3>
-<p class="home-pubs-venue">Hiroshima University Mathematical Life Sciences Program Seminar (November 10, 2022)</p>
-</article>
-<article class="home-pubs-card">
-<p class="home-pubs-meta">2021 / Invited Talk</p>
-<h3>Quantification and application of biological morphology using machine learning: Focusing on primate mandibles</h3>
-<p class="home-pubs-venue">National Institute for Basic Biology Departmental Seminar (October 2021)</p>
-</article>
 </section>
 <section class="home-pubs-panel panel-presentations">
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2026 / Presentation</p>
+<h3>Mind the gap: quantifying population–individual differences in depressive symptom dynamics using energy landscapes</h3>
+<p class="home-pubs-venue">2nd Systems Behavioral Science Workshop (July 12, 2026)</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2026 / Presentation</p>
+<h3>Morphological character selection using machine learning for phylogenetic analysis: revisiting the phylogenetic position of lepidosaurs</h3>
+<p class="home-pubs-venue">Annual Meeting of the Palaeontological Society of Japan 2026 (June 27, 2026)</p>
+</article>
 <article class="home-pubs-card">
 <p class="home-pubs-meta">2026 / Presentation</p>
 <h3>Quantitative Analysis of Biological Morphology and Behavior Based on Deep Learning: Development of Morpho-VAE and DOLO</h3>

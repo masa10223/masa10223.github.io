@@ -11,15 +11,15 @@ build:
 
 <div class="research-stats" style="display: flex; justify-content: center; gap: 3rem; margin: 2rem 0; flex-wrap: wrap; background:rgb(8, 37, 66); padding: 2rem; border-radius: 15px;">
   <div class="stat-item">
-    <div class="stat-number">6</div>
+    <div class="stat-number">7</div>
     <div class="stat-label">論文</div>
   </div>
   <div class="stat-item">
-    <div class="stat-number">27</div>
+    <div class="stat-number">29</div>
     <div class="stat-label">口頭発表</div>
   </div>
   <div class="stat-item">
-    <div class="stat-number">6</div>
+    <div class="stat-number">10</div>
     <div class="stat-label">招待講演</div>
   </div>
 </div>
@@ -36,6 +36,16 @@ build:
 </div>
 <div class="home-pubs-panels">
 <section class="home-pubs-panel panel-papers">
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2026 / Peer-reviewed</p>
+<h3>Artificial-Intelligence-Based Cephalometric Landmark Detection in Lateral Cephalograms</h3>
+<p class="home-pubs-authors">Manami Yamaguchi, ○Masato TSUTSUMI, Yasuhiro Kuroda, Yoshiki Soeda, Tetsutaro Yamaguchi</p>
+<p class="home-pubs-venue">Journal of Clinical Medicine (2026年7月30日)</p>
+<div class="home-pubs-links">
+<a href="https://www.mdpi.com/2077-0383/15/15/5943">PDF</a>
+<a href="https://doi.org/10.3390/jcm15155943">DOI</a>
+</div>
+</article>
 <article class="home-pubs-card">
 <p class="home-pubs-meta">2024 / Peer-reviewed</p>
 <h3>Deciphering the origin of developmental stability: The role of intracellular expression variability in evolutionary conservation</h3>
@@ -62,13 +72,17 @@ build:
 <p class="home-pubs-meta">2026 / Preprint</p>
 <h3>Mind the gap: quantifying population–individual gap in depressive symptom dynamics through energy landscapes</h3>
 <p class="home-pubs-authors">○Masato TSUTSUMI, Taisei Kubo, Takahiro A. Kato, Naoki Honda</p>
-<p class="home-pubs-venue">投稿済み（Nature Human Behaviour 向け）</p>
+<p class="home-pubs-venue">bioRxiv (2026年5月24日; v2)</p>
+<div class="home-pubs-links">
+<a href="https://www.biorxiv.org/content/10.64898/2026.05.20.726729v2.full.pdf">PDF</a>
+<a href="https://doi.org/10.64898/2026.05.20.726729">DOI</a>
+</div>
 </article>
 <article class="home-pubs-card">
 <p class="home-pubs-meta">2026 / Preprint</p>
 <h3>Chemosensory input suppresses cannibalism by stabilizing social feeding boundaries in Drosophila larvae</h3>
 <p class="home-pubs-authors">Nagisa Matsuda-Watanabe, ○Masato TSUTSUMI, Misako Okumura, Takahiro Chihara</p>
-<p class="home-pubs-venue">投稿済み</p>
+<p class="home-pubs-venue">投稿中</p>
 </article>
 <article class="home-pubs-card">
 <p class="home-pubs-meta">2026 / Preprint</p>
@@ -93,6 +107,26 @@ build:
 <section class="home-pubs-panel panel-talks">
 <article class="home-pubs-card">
 <p class="home-pubs-meta">2026 / 招待講演</p>
+<h3>生き物のかたちの違いを測るAI</h3>
+<p class="home-pubs-venue">令和８年度筑波大学公開講座 生命学際研究の最前線２０２６ (2026年7月30日)</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2026 / 招待講演</p>
+<h3>情報科学を用いたかたちの定量化に向けて</h3>
+<p class="home-pubs-venue">「かたち」の定量ワークショップ 2026 (2026年7月27日)</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2026 / 招待講演</p>
+<h3>情報科学的アプローチによる生物形態の定量化手法の開発</h3>
+<p class="home-pubs-venue">第78回日本細胞生物学会大会 (2026年7月15日)</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2026 / 招待講演</p>
+<h3>変分エネルギーランドスケープ解析が明らかにするCOVID-19緊急事態宣言中およびその後の集団的傾向と個人的異質性</h3>
+<p class="home-pubs-venue">2026年度 人工知能学会全国大会（第40回） (2026年6月9日)</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2026 / 招待講演</p>
 <h3>多様な生命現象の定量化に向けて：情報として読む形態・行動・心理</h3>
 <p class="home-pubs-venue">SSTB2026 - Spring School for Theoretical Biology 2026- (2026年3月5日)</p>
 </article>
@@ -101,28 +135,18 @@ build:
 <h3>深層学習による生物形態定量解析手法の開発</h3>
 <p class="home-pubs-venue">日本応用数理学会2024年度 年会 (2024年9月16日)</p>
 </article>
-<article class="home-pubs-card">
-<p class="home-pubs-meta">2024 / 招待講演</p>
-<h3>深層学習を用いた生物形態の定量解析手法の開発</h3>
-<p class="home-pubs-venue">シリーズオンラインセミナー「AIが切り開く進化生物学の未来」 (2024年3月9日)</p>
-</article>
-<article class="home-pubs-card">
-<p class="home-pubs-meta">2024 / 招待講演</p>
-<h3>深層学習を用いた生物形態の定量解析手法の開発</h3>
-<p class="home-pubs-venue">第8回理論免疫学ワークショップ (2024年2月14日)</p>
-</article>
-<article class="home-pubs-card">
-<p class="home-pubs-meta">2022 / 招待講演</p>
-<h3>機械学習を用いた様々な生物形態の定量化</h3>
-<p class="home-pubs-venue">広島大学数理生命科学プログラムセミナー (2022年11月10日)</p>
-</article>
-<article class="home-pubs-card">
-<p class="home-pubs-meta">2021 / 招待講演</p>
-<h3>機械学習を用いた生物形態の定量化とその応用について 霊長目の下顎骨を対象として</h3>
-<p class="home-pubs-venue">基礎生物学研究所部門セミナー (2021年10月)</p>
-</article>
 </section>
 <section class="home-pubs-panel panel-presentations">
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2026 / 口頭発表</p>
+<h3>Mind the gap: エネルギーランドスケープを用いた抑うつ症状動態における集団-個人間の差異の定量化</h3>
+<p class="home-pubs-venue">第二回システム行動学研究会 (2026年7月12日)</p>
+</article>
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2026 / 口頭発表</p>
+<h3>系統解析における機械学習を用いた形態形質選抜：鱗竜類の系統位置の再検討</h3>
+<p class="home-pubs-venue">日本古生物学会 2026年年会・総会 (2026年6月27日)</p>
+</article>
 <article class="home-pubs-card">
 <p class="home-pubs-meta">2026 / 口頭発表</p>
 <h3>深層学習に基づく生物形態・行動の定量解析: Morpho-VAE と DOLO の開発</h3>

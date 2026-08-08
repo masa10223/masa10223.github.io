@@ -81,7 +81,8 @@ layout: "single"
 従来の合計スコア中心の評価では見えにくい、症状の**構造的な個人差**を捉える手段として、精密精神医学や個別化されたメンタルヘルス評価への応用が期待されます。
 
 **関連リンク:**
-- 📄 論文: *投稿準備中*
+- [📄 論文 (bioRxiv)](https://www.biorxiv.org/content/10.64898/2026.05.20.726729v2.full.pdf)
+- [DOI](https://doi.org/10.64898/2026.05.20.726729)
 
 </div>
 ---
@@ -96,9 +97,8 @@ layout: "single"
   </div>
 </div>
 
-### 関連論文（投稿済み）
-**Chemosensory input suppresses cannibalism by stabilizing social feeding boundaries in Drosophila larvae**  
-投稿済み（プレプリントなし）
+### 関連論文（投稿中）
+**Chemosensory input suppresses cannibalism by stabilizing social feeding boundaries in Drosophila larvae**
 
 ### 概要
 キイロショウジョウバエ幼虫の行動を定量化するため、深層学習フレームワーク YOLO を応用した多個体トラッキング手法 **DOLO** を開発しました。その結果、化学感覚入力がカニバリズムを抑制することがわかりました。

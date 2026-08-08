@@ -81,7 +81,8 @@ We applied mindGAP to longitudinal PHQ-9 data from 248 participants across five 
 As a way to capture **structural heterogeneity** in symptoms beyond summary scores, mindGAP may support personalized mental health assessment and precision psychiatry.
 
 **Related Links:**
-- 📄 Paper: *In preparation *
+- [📄 Paper (bioRxiv)](https://www.biorxiv.org/content/10.64898/2026.05.20.726729v2.full.pdf)
+- [DOI](https://doi.org/10.64898/2026.05.20.726729)
 
 ---
 
@@ -95,9 +96,8 @@ As a way to capture **structural heterogeneity** in symptoms beyond summary scor
   </div>
 </div>
 
-### Related manuscript (submitted)
-**Chemosensory input suppresses cannibalism by stabilizing social feeding boundaries in Drosophila larvae**  
-Submitted (no preprint)
+### Related manuscript (in submission)
+**Chemosensory input suppresses cannibalism by stabilizing social feeding boundaries in Drosophila larvae**
 
 ### Overview
 We developed **DOLO**, a markerless multi-animal tracking method for *Drosophila* larvae based on YOLO, to quantify social feeding behavior and cannibalism. The platform supports analyses of how chemosensory input stabilizes social feeding boundaries and suppresses cannibalism.
