@@ -7,7 +7,6 @@ toc: false
 
 <p style="margin: 0 0 1.25rem;">
   <a class="btn btn-primary btn-sm" href="/uploads/Masato_Tsutsumi_CV.pdf" target="_blank" rel="noopener">Download CV (PDF)</a>
-  <span style="margin-left:0.6rem;opacity:0.75;font-size:0.9rem;">Draft English CV — edit the TeX source under <code>cv/</code> and re-upload.</span>
 </p>
 
 ## Overview

@@ -6,7 +6,6 @@ layout: "single"
 
 <p style="margin: 0 0 1.25rem;">
   <a class="btn btn-primary btn-sm" href="/uploads/Masato_Tsutsumi_CV.pdf" target="_blank" rel="noopener">CV（英語PDF）をダウンロード</a>
-  <span style="margin-left:0.6rem;opacity:0.75;font-size:0.9rem;">仮版です。編集用ソースは <code>cv/Masato_Tsutsumi_CV.tex</code>。</span>
 </p>
 
 ## 学歴
