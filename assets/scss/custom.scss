@@ -1329,7 +1329,7 @@ section#projects.home-section {
 
 /* Information widget: scrollable past news + content hiding */
 .information-section .col-12.col-lg-8 {
-  max-height: min(28rem, 55vh);
+  max-height: 28rem;
   overflow-y: auto;
   padding-right: 0.4rem;
   scrollbar-width: thin;
