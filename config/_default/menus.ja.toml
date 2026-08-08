@@ -4,6 +4,11 @@ url = "/"
 weight = 1
 
 [[main]]
+name   = "お知らせ"
+url = "/post/"
+weight = 15
+
+[[main]]
 name   = "プロジェクト"
 url = "/project/"
 weight = 20

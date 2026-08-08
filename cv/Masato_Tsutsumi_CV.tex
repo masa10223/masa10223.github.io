@@ -1,0 +1,142 @@
+% Draft English CV — edit locally and recompile with:
+%   xelatex Masato_Tsutsumi_CV.tex
+% Then copy the PDF to ../static/uploads/Masato_Tsutsumi_CV.pdf
+\documentclass[10pt,a4paper]{article}
+
+\usepackage[margin=1.45cm]{geometry}
+\usepackage{fontspec}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{tabularx}
+\usepackage{hyperref}
+\usepackage{microtype}
+\usepackage{parskip}
+
+\setmainfont{Helvetica Neue}[
+  UprightFont = * ,
+  BoldFont = * Bold ,
+  ItalicFont = * Italic ,
+  BoldItalicFont = * Bold Italic
+]
+
+\definecolor{ink}{HTML}{0F172A}
+\definecolor{accent}{HTML}{1E3A5F}
+\definecolor{muted}{HTML}{475569}
+\definecolor{rule}{HTML}{CBD5E1}
+
+\hypersetup{
+  colorlinks=true,
+  urlcolor=accent,
+  pdfauthor={Masato Tsutsumi},
+  pdftitle={Curriculum Vitae — Masato Tsutsumi, Ph.D.}
+}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.25em}
+\setlist[itemize]{leftmargin=1.05em, itemsep=0.12em, topsep=0.15em, parsep=0pt}
+\setlist[enumerate]{leftmargin=1.2em, itemsep=0.18em, topsep=0.2em, parsep=0pt}
+
+\titleformat{\section}
+  {\normalsize\bfseries\color{accent}}
+  {}{0pt}{\MakeUppercase}[\vspace{-0.3em}{\color{rule}\titlerule[0.7pt]}\vspace{0.25em}]
+\titlespacing*{\section}{0pt}{0.7em}{0.25em}
+
+\newcommand{\cvitem}[2]{%
+  \noindent\begin{tabularx}{\textwidth}{@{}>{\raggedright\arraybackslash}p{2.85cm} X@{}}
+    \textcolor{muted}{\footnotesize #1} & \small #2 \\
+  \end{tabularx}\vspace{0.08em}
+}
+
+\begin{document}
+
+\noindent
+\begin{minipage}[t]{0.66\textwidth}
+  {\fontsize{20}{24}\selectfont\bfseries\color{ink} Masato TSUTSUMI, Ph.D.}\\[0.25em]
+  {\large\color{accent} Assistant Professor}\\[0.15em]
+  {\small\color{muted}
+  Life Science Center for Survival Dynamics (TARA)\\
+  University of Tsukuba, Japan}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.32\textwidth}
+  \raggedleft\footnotesize\color{muted}
+  \href{mailto:mtsutsumi@tara.tsukuba.ac.jp}{mtsutsumi@tara.tsukuba.ac.jp}\\
+  \href{https://masa10223.github.io/en/}{masa10223.github.io}\\
+  Scholar $\cdot$ GitHub $\cdot$ researchmap\\
+  Updated: August 2026\\
+  \textit{(Draft for personal editing)}
+\end{minipage}
+
+\vspace{0.45em}
+{\color{accent}\hrule height 1.8pt}
+\vspace{0.4em}
+
+{\small
+I study life phenomena as a hierarchical system of morphology, psychology, and behavior, and quantify them as information. My work combines deep generative models for morphological quantification, mathematical models of psychological states (e.g., social stress), and quantitative analysis of inter-individual behavior, aiming to uncover universal principles that describe biological state and dynamics.
+}
+
+\section{Appointments}
+\cvitem{2025/12 -- present}{\textbf{Assistant Professor}, Life Science Center for Survival Dynamics (TARA), University of Tsukuba\\
+\emph{Mathematical Life Dynamics Project} (Assoc.\ Prof.\ Nen Saito)}
+\cvitem{2025/12 -- present}{\textbf{Visiting Researcher}, Graduate School of Medicine, Nagoya University\\
+\emph{Data-Driven Biology Laboratory} (Prof.\ Naoki Honda)}
+\cvitem{2024/10 -- 2025/11}{\textbf{Designated Assistant Professor}, Graduate School of Medicine, Nagoya University}
+\cvitem{2023/10 -- 2024/09}{\textbf{Designated Researcher}, Graduate School of Integrated Sciences for Life, Hiroshima University}
+\cvitem{2020/04 -- 2023/03}{\textbf{Graduate Student Research Associate}, RIKEN}
+
+\section{Education}
+\cvitem{2020/04 -- 2023/09}{\textbf{Ph.D.\ in Science}, Graduate School of Science, The University of Tokyo (Supervisor: Prof.\ Chikara Furusawa)}
+\cvitem{2018/04 -- 2020/03}{\textbf{M.S.\ in Science}, Graduate School of Science, The University of Tokyo (Supervisor: Prof.\ Chikara Furusawa)}
+\cvitem{2014/04 -- 2018/03}{\textbf{B.S.\ in Science}, Department of Physics, Faculty of Science, The University of Tokyo}
+
+\section{Selected Publications}
+\begin{enumerate}
+  \item Yamaguchi, M., \textbf{Tsutsumi, M.}, Kuroda, Y., Soeda, Y., Yamaguchi, T. \textit{Artificial-Intelligence-Based Cephalometric Landmark Detection in Lateral Cephalograms}. \textit{Journal of Clinical Medicine} (2026). \href{https://doi.org/10.3390/jcm15155943}{doi:10.3390/jcm15155943}
+  \item Uchida, Y., \textbf{Tsutsumi, M.}, Ichii, S., Irie, N., Furusawa, C. \textit{Deciphering the origin of developmental stability: The role of intracellular expression variability in evolutionary conservation}. \textit{Evolution \& Development} (2024).
+  \item \textbf{Tsutsumi, M.}, Saito, N., Koyabu, D., Furusawa, C. \textit{A deep learning approach for morphological feature extraction based on variational auto-encoder: an application to mandible shape}. \textit{npj Systems Biology and Applications} (2023). \href{https://doi.org/10.1038/s41540-023-00293-6}{doi:10.1038/s41540-023-00293-6}
+\end{enumerate}
+
+\section{Preprints}
+\begin{itemize}
+  \item \textbf{Tsutsumi, M.}, Kubo, T., Kato, T.A., Honda, N. Mind the gap: quantifying population--individual gap in depressive symptom dynamics through energy landscapes. \textit{bioRxiv} (2026; v2).
+  \item Matsuda-Watanabe, N., \textbf{Tsutsumi, M.}, Okumura, M., Chihara, T. Chemosensory input suppresses cannibalism by stabilizing social feeding boundaries in Drosophila larvae. In submission (2026).
+  \item \textbf{Tsutsumi, M.}, Saito, N., Yamaguchi, T., Sasaki, T., Furusawa, C. Decoding Anadara shell morphology with deep learning. \textit{bioRxiv} (2026).
+  \item Sakaguchi, S., \textbf{Tsutsumi, M.}, Nishi, K., Honda, N. Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome. \textit{bioRxiv} (2025).
+\end{itemize}
+
+\section{Selected Invited Talks}
+\begin{itemize}
+  \item AI for measuring morphological differences among living organisms. University of Tsukuba Open Lecture (2026).
+  \item Towards quantification of form using information science. Workshop on Quantification of Form (2026).
+  \item Development of methods for quantifying biological morphology with an information-science approach. Japan Society for Cell Biology (2026).
+  \item Variational energy landscape analysis reveals population trends and individual heterogeneity during and after COVID-19 emergency declarations. JSAI 2026 (2026).
+  \item Towards quantification of diverse life phenomena: morphology, behavior, and psychology as information. SSTB2026 (2026).
+  \item Development of quantitative analysis methods for biological morphology using deep learning. JSIAM Annual Meeting (2024).
+\end{itemize}
+
+\section{Selected Conference Presentations}
+\begin{itemize}
+  \item Mind the gap: quantifying population--individual differences in depressive symptom dynamics using energy landscapes. 2nd Systems Behavioral Science Workshop (2026).
+  \item Morphological character selection using machine learning for phylogenetic analysis. Palaeontological Society of Japan (2026).
+  \item Behavioral analysis of double mutant Drosophila larvae using DOLO. 1st Systems Behavioral Science Workshop (2025).
+  \item Estimation of psychological state transitions during/after emergency declarations using energy landscape analysis. SSTB2025 (2025).
+  \item Quantification of mouse behavior under social defeat stress using mathematical models. CPSY TOKYO (2024).
+\end{itemize}
+
+\section{Grants, Teaching \& Projects}
+\begin{itemize}
+  \item \textbf{Grant:} Takeda Science Foundation Medical Research Grant (Basic Research) (2025).
+  \item \textbf{Teaching:} Medical Data Science I (Nagoya Univ., 2025); Basic Medical Seminar (Nagoya Univ., 2024--2025); Computational Experiments I, TA (Univ.\ of Tokyo, 2019).
+  \item \textbf{Projects:} Morpho-VAE (landmark-free morphometrics); mindGAP (energy landscapes of depressive symptoms); KANADE (scRNA-seq batch disentanglement); DOLO (YOLO-based larva tracking).
+\end{itemize}
+
+\vspace{0.5em}
+{\footnotesize\color{muted}
+Full lists: \href{https://masa10223.github.io/en/publication/}{Publications} $\cdot$
+\href{https://researchmap.jp/masato_tsutsumi?lang=en}{researchmap} $\cdot$
+\href{https://scholar.google.co.jp/citations?user=sLCyYs8AAAAJ}{Google Scholar}
+}
+
+\end{document}

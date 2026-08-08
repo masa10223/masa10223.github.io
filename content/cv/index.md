@@ -3,6 +3,12 @@ title: "経歴"
 type: "page"
 layout: "single"
 ---
+
+<p style="margin: 0 0 1.25rem;">
+  <a class="btn btn-primary btn-sm" href="/uploads/Masato_Tsutsumi_CV.pdf" target="_blank" rel="noopener">CV（英語PDF）をダウンロード</a>
+  <span style="margin-left:0.6rem;opacity:0.75;font-size:0.9rem;">仮版です。編集用ソースは <code>cv/Masato_Tsutsumi_CV.tex</code>。</span>
+</p>
+
 ## 学歴
 - 2020年4月 - 2023年9月  東京大学大学院理学系研究科大学院博士課程 
 - 2018年4月 - 2020年3月  東京大学大学院理学系研究科大学院修士課程

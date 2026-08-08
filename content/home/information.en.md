@@ -9,11 +9,12 @@ content:
   filters:
     folders:
       - post
-    count: 5
+    count: 0
   sort_by: "Date"
   sort_ascending: false
   archive:
-    enable: false
+    enable: true
+    text: "See all past news"
   excerpt:
     enable: false
 design:

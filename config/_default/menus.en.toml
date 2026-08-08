@@ -4,6 +4,11 @@
   weight = 1
 
 [[main]]
+  name   = "News"
+  url = "/en/post/"
+  weight = 15
+
+[[main]]
   name   = "Projects"
   url = "/en/project/"
   weight = 20

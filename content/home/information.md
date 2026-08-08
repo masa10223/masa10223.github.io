@@ -8,18 +8,19 @@ css_class: information-section
 content:
   filters:
     folders:
-      - post        # ← postsを情報源にする（後述の「news」に変えることも可）
-    count: 5        # 表示件数
+      - post
+    count: 0
   sort_by: "Date"
   sort_ascending: false
   archive:
-    enable: false   # アーカイブモードを無効化
+    enable: true
+    text: "過去のお知らせをすべて見る"
   excerpt:
-    enable: false   # 抜粋表示を無効化
+    enable: false
 design:
-  view: list        # リスト表示でより制御可能
+  view: list
   columns: "1"
-  show_excerpt: false  # 抜粋を明示的に無効化
-  show_date: true      # 日付は表示
-  show_author: false   # 著者は非表示
+  show_excerpt: false
+  show_date: true
+  show_author: false
 ---
