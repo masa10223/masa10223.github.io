@@ -38,7 +38,7 @@ My research aims to treat life phenomena as a hierarchical system of morphology,
 - Takeda Science Foundation Medical Research Grant (Basic Research) (2025)
 
 ## Publications
-- Yamaguchi, **Tsutsumi** et al. Artificial-Intelligence-Based Cephalometric Landmark Detection in Lateral Cephalograms. *Journal of Clinical Medicine* (2026)
+- Sakaguchi, S.\#, **Tsutsumi, M.**\#(co-first), Nishi, K., Honda, N. Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome. *Patterns* (2026)
 - Uchida, **Tsutsumi** et al. Deciphering the origin of developmental stability: The role of intracellular expression variability in evolutionary conservation. *Evolution & Development* (2024)
 - **Tsutsumi**, Saito, Koyabu, Furusawa. A deep learning approach for morphological feature extraction based on variational auto-encoder: an application to mandible shape. *npj Systems Biology and Applications* (2023)
 
