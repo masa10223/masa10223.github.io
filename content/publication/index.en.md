@@ -12,6 +12,9 @@ layout: "single"
 <div class="publication-list">
 
 **2026**
+- Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome  
+  *Shunta Sakaguchi\#, Masato Tsutsumi\# (co-first), Kentaro Nishi, Naoki Honda*  
+  *Patterns* (in press; expected October 2026) [DOI](https://doi.org/10.1016/j.patter.2026.101638)
 - Artificial-Intelligence-Based Cephalometric Landmark Detection in Lateral Cephalograms  
   *Manami Yamaguchi, Masato Tsutsumi, Yasuhiro Kuroda, Yoshiki Soeda, Tetsutaro Yamaguchi*  
   Journal of Clinical Medicine (July 30, 2026) [PDF](https://www.mdpi.com/2077-0383/15/15/5943) | [DOI](https://doi.org/10.3390/jcm15155943)
@@ -44,11 +47,6 @@ layout: "single"
 - Decoding Anadara shell morphology with deep learning  
   *Masato Tsutsumi, Nen Saito, Tomohiro Yamaguchi, Takenori Sasaki, Chikara Furusawa*  
   bioRxiv (April 21, 2026) [PDF](https://www.biorxiv.org/content/10.64898/2026.04.17.719170v1.full.pdf) | [DOI](https://doi.org/10.64898/2026.04.17.719170)
-
-**2025**
-- Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome  
-  *Shunta Sakaguchi, Masato Tsutsumi, Kentaro Nishi, Naoki Honda*  
-  bioRxiv (April 16, 2025) [PDF](https://www.biorxiv.org/content/biorxiv/early/2025/04/16/2025.04.10.648296.full.pdf)
 
 
 

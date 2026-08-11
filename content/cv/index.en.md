@@ -38,7 +38,8 @@ My research aims to treat life phenomena as a hierarchical system of morphology,
 - Takeda Science Foundation Medical Research Grant (Basic Research) (2025)
 
 ## Publications
-- Sakaguchi, S.\#, **Tsutsumi, M.**\#(co-first), Nishi, K., Honda, N. Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome. *Patterns* (2026)
+- Sakaguchi, S.\#, **Tsutsumi, M.**\# (co-first), Nishi, K., Honda, N. Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome. *Patterns* (in press; expected October 2026) [DOI](https://doi.org/10.1016/j.patter.2026.101638)
+- Yamaguchi, **Tsutsumi** et al. Artificial-Intelligence-Based Cephalometric Landmark Detection in Lateral Cephalograms. *Journal of Clinical Medicine* (2026)
 - Uchida, **Tsutsumi** et al. Deciphering the origin of developmental stability: The role of intracellular expression variability in evolutionary conservation. *Evolution & Development* (2024)
 - **Tsutsumi**, Saito, Koyabu, Furusawa. A deep learning approach for morphological feature extraction based on variational auto-encoder: an application to mandible shape. *npj Systems Biology and Applications* (2023)
 
@@ -46,7 +47,6 @@ My research aims to treat life phenomena as a hierarchical system of morphology,
 - **Tsutsumi** et al. Mind the gap: quantifying population–individual gap in depressive symptom dynamics through energy landscapes. bioRxiv (2026)
 - Matsuda-Watanabe, **Tsutsumi** et al. Chemosensory input suppresses cannibalism by stabilizing social feeding boundaries in Drosophila larvae. In submission (2026)
 - **Tsutsumi** et al. Decoding Anadara shell morphology with deep learning. bioRxiv (2026)
-- Sakaguchi, **Tsutsumi** et al. Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome. bioRxiv (2025)
 
 ## Invited Talks
 - 2026/07/30 — AI for measuring morphological differences among living organisms. FY2026 University of Tsukuba Open Lecture

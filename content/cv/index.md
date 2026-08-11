@@ -21,9 +21,10 @@ layout: "single"
 - 2020年4月 - 2023年3月 理化学研究所 大学院生リサーチ・アソシエイト 
 
 ## 主要業績
-- Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome. *Patterns* (2026)
-- A deep learning approach for morphological feature extraction based on variational auto-encoder: an application to mandible shape *npj Systems Biology and Applications* (2023)
-- Deciphering the origin of developmental stability: The role of intracellular expression variability in evolutionary conservation  *Evolution & Development* (2024)
+- Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome. *Patterns* (in press; 2026年10月掲載予定)
+- Artificial-Intelligence-Based Cephalometric Landmark Detection in Lateral Cephalograms. *Journal of Clinical Medicine* (2026)
+- A deep learning approach for morphological feature extraction based on variational auto-encoder: an application to mandible shape. *npj Systems Biology and Applications* (2023)
+- Deciphering the origin of developmental stability: The role of intracellular expression variability in evolutionary conservation. *Evolution & Development* (2024)
 
 ## 研究費・受賞
 - 武田科学振興財団　医学系研究助成 （基礎）

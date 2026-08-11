@@ -11,7 +11,7 @@ build:
 
 <div class="research-stats" style="display: flex; justify-content: center; gap: 3rem; margin: 2rem 0; flex-wrap: wrap; background:rgb(8, 37, 66); padding: 2rem; border-radius: 15px;">
   <div class="stat-item">
-    <div class="stat-number">7</div>
+    <div class="stat-number">4</div>
     <div class="stat-label">Papers</div>
   </div>
   <div class="stat-item">
@@ -36,6 +36,15 @@ build:
 </div>
 <div class="home-pubs-panels">
 <section class="home-pubs-panel panel-papers">
+<article class="home-pubs-card">
+<p class="home-pubs-meta">2026 / Peer-reviewed</p>
+<h3>Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome</h3>
+<p class="home-pubs-authors">Shunta Sakaguchi#, Masato TSUTSUMI# (co-first), Kentaro Nishi, Naoki Honda</p>
+<p class="home-pubs-venue">Patterns (in press; expected October 2026)</p>
+<div class="home-pubs-links">
+<a href="https://doi.org/10.1016/j.patter.2026.101638">DOI</a>
+</div>
+</article>
 <article class="home-pubs-card">
 <p class="home-pubs-meta">2026 / Peer-reviewed</p>
 <h3>Artificial-Intelligence-Based Cephalometric Landmark Detection in Lateral Cephalograms</h3>
@@ -92,15 +101,6 @@ build:
 <div class="home-pubs-links">
 <a href="https://www.biorxiv.org/content/10.64898/2026.04.17.719170v1.full.pdf">PDF</a>
 <a href="https://doi.org/10.64898/2026.04.17.719170">DOI</a>
-</div>
-</article>
-<article class="home-pubs-card">
-<p class="home-pubs-meta">2025 / Preprint</p>
-<h3>Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome</h3>
-<p class="home-pubs-authors">Shunta Sakaguchi, Masato TSUTSUMI, Kentaro Nishi, Naoki Honda</p>
-<p class="home-pubs-venue">bioRxiv (April 16, 2025)</p>
-<div class="home-pubs-links">
-<a href="https://www.biorxiv.org/content/biorxiv/early/2025/04/16/2025.04.10.648296.full.pdf">PDF</a>
 </div>
 </article>
 <article class="home-pubs-card">

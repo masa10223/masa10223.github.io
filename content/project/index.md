@@ -54,7 +54,7 @@ layout: "single"
 複数の実験バッチからなるデータの統合解析、メタ解析、データベース構築に威力を発揮します。
 
 **関連リンク:**
-- [📄 論文](https://www.biorxiv.org/content/biorxiv/early/2025/04/16/2025.04.10.648296.full.pdf)
+- [📄 論文](https://doi.org/10.1016/j.patter.2026.101638)
 - [💻 コード](https://github.com/ShuntaSakaguchi/kanade)
 
 </div>

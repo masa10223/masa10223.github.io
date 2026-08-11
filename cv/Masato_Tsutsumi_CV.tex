@@ -35,24 +35,38 @@
 \pagestyle{empty}
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{0.18em}
-\setlist[itemize]{leftmargin=1.05em, itemsep=0.08em, topsep=0.12em, parsep=0pt}
-\setlist[enumerate]{leftmargin=1.2em, itemsep=0.12em, topsep=0.15em, parsep=0pt}
+\setlist[enumerate]{
+  leftmargin=1.5em,
+  labelsep=0.4em,
+  itemsep=0.28em,
+  topsep=0.14em,
+  parsep=0pt,
+  label={\arabic*.}
+}
 
 \titleformat{\section}
   {\normalsize\bfseries\color{accent}}
   {}{0pt}{\MakeUppercase}[\vspace{-0.28em}{\color{rule}\titlerule[0.7pt]}\vspace{0.2em}]
 \titlespacing*{\section}{0pt}{0.55em}{0.18em}
 
+% Appointments / Education / Teaching (no numbering): date left, content right
+% Use \newline (not \\) inside #2 for multi-line entries.
 \newcommand{\cvitem}[2]{%
-  \noindent\begin{tabularx}{\textwidth}{@{}>{\raggedright\arraybackslash}p{2.7cm} X@{}}
-    \textcolor{muted}{\footnotesize #1} & \small #2 \\
-  \end{tabularx}\vspace{0.04em}
+  \par\noindent
+  \makebox[3.2cm][l]{\small\color{muted}#1}%
+  \parbox[t]{\dimexpr\textwidth-3.2cm\relax}{\raggedright\small #2\strut}%
+  \par\addvspace{0.12em}%
 }
 
-\newcommand{\talk}[2]{%
-  \noindent\begin{tabularx}{\textwidth}{@{}>{\raggedright\arraybackslash}p{2.35cm} X@{}}
-    \textcolor{muted}{\footnotesize #1} & \footnotesize #2 \\
-  \end{tabularx}\vspace{0.02em}
+% Talk / presentation (numbered):
+%   Title
+%   Venue                                         date
+\newcommand{\talk}[3]{%
+  \item
+  {\small\color{ink}#2}\\[-0.08em]
+  \begin{tabularx}{\linewidth}{@{}X >{\raggedleft\arraybackslash}p{2.4cm}@{}}
+    {\footnotesize\color{muted}\emph{#3}} & {\footnotesize\bfseries\color{accent}#1} \\
+  \end{tabularx}%
 }
 
 \begin{document}
@@ -85,15 +99,15 @@ I study life phenomena as a hierarchical system of morphology, psychology, and b
 }
 
 \section{Appointments}
-\cvitem{2025/12 -- present}{\textbf{Assistant Professor}, Life Science Center for Survival Dynamics (TARA), University of Tsukuba\\
+\cvitem{2025/12 -- present}{\textbf{Assistant Professor}, Life Science Center for Survival Dynamics (TARA), University of Tsukuba\newline
 \emph{Mathematical Life Dynamics Project} (Assoc.\ Prof.\ Nen Saito)}
-\cvitem{2025/12 -- present}{\textbf{Visiting Researcher}, Graduate School of Medicine, Nagoya University\\
+\cvitem{2025/12 -- present}{\textbf{Visiting Researcher}, Graduate School of Medicine, Nagoya University\newline
 \emph{Data-Driven Biology Laboratory} (Prof.\ Naoki Honda)}
 \cvitem{2024/10 -- 2025/11}{\textbf{Designated Assistant Professor}, Graduate School of Medicine, Nagoya University}
 \cvitem{2023/10 -- 2024/09}{\textbf{Designated Researcher}, Graduate School of Integrated Sciences for Life, Hiroshima University}
 \cvitem{2020/04 -- 2023/03}{\textbf{Graduate Student Research Associate}, RIKEN}
 
-ω\section{Education}
+\section{Education}
 \cvitem{2020/04 -- 2023/09}{\textbf{Ph.D.\ in Science}, Graduate School of Science, The University of Tokyo (Supervisor: Prof.\ Chikara Furusawa)}
 \cvitem{2018/04 -- 2020/03}{\textbf{M.S.\ in Science}, Graduate School of Science, The University of Tokyo (Supervisor: Prof.\ Chikara Furusawa)}
 \cvitem{2014/04 -- 2018/03}{\textbf{B.S.\ in Science}, Department of Physics, Faculty of Science, The University of Tokyo}
@@ -108,59 +122,73 @@ I study life phenomena as a hierarchical system of morphology, psychology, and b
 
 \section{Publications}
 \begin{enumerate}
-  \item Sakaguchi, S.\#, \textbf{Tsutsumi, M.}\#(co-first), Nishi, K., Honda, N. Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome. \textbf{\textit{Patterns}} (in press). \href{https://doi.org/10.1016/j.patter.2026.101638}{doi:10.1016/j.patter.2026.101638}
+  \item Sakaguchi, S.\#, \textbf{Tsutsumi, M.}\#(co-first), Nishi, K., Honda, N. Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome. \textbf{\textit{Patterns}} (in press; expected October 2026). \href{https://doi.org/10.1016/j.patter.2026.101638}{doi:10.1016/j.patter.2026.101638}
   \item Yamaguchi, M., \textbf{Tsutsumi, M.}, Kuroda, Y., Soeda, Y., Yamaguchi, T. \textit{Artificial-Intelligence-Based Cephalometric Landmark Detection in Lateral Cephalograms}. \textbf{\textit{Journal of Clinical Medicine}} (2026). \href{https://doi.org/10.3390/jcm15155943}{doi:10.3390/jcm15155943}
   \item Uchida, Y., \textbf{Tsutsumi, M.}, Ichii, S., Irie, N., Furusawa, C. \textit{Deciphering the origin of developmental stability: The role of intracellular expression variability in evolutionary conservation}. \textbf{\textit{Evolution \& Development}} (2024). \href{https://doi.org/10.1111/ede.12473}{doi:10.1111/ede.12473}
   \item \textbf{Tsutsumi, M.}, Saito, N., Koyabu, D., Furusawa, C. \textit{A deep learning approach for morphological feature extraction based on variational auto-encoder: an application to mandible shape}. \textbf{\textit{npj Systems Biology and Applications}} (2023). \href{https://doi.org/10.1038/s41540-023-00293-6}{doi:10.1038/s41540-023-00293-6}
 \end{enumerate}
 
 \section{Preprints}
-\begin{itemize}
+\begin{enumerate}
   \item \textbf{Tsutsumi, M.}, Kubo, T., Kato, T.A., Honda, N. Mind the gap: quantifying population--individual gap in depressive symptom dynamics through energy landscapes. \textit{bioRxiv} (2026; v2).
   \item Matsuda-Watanabe, N., \textbf{Tsutsumi, M.}, Okumura, M., Chihara, T. Chemosensory input suppresses cannibalism by stabilizing social feeding boundaries in Drosophila larvae. In submission (2026).
   \item \textbf{Tsutsumi, M.}, Saito, N., Yamaguchi, T., Sasaki, T., Furusawa, C. Decoding Anadara shell morphology with deep learning. \textit{bioRxiv} (2026).
-\end{itemize}
+\end{enumerate}
 
 \section{Invited Talks}
-\talk{2026/07/30}{AI for measuring morphological differences among living organisms. \emph{FY2026 University of Tsukuba Open Lecture: Frontiers of Interdisciplinary Life Science Research 2026}.}
-\talk{2026/07/27}{Towards quantification of form using information science. \emph{Workshop on Quantification of Form 2026}.}
-\talk{2026/07/15}{Development of methods for quantifying biological morphology with an information-science approach. \emph{78th Annual Meeting of the Japan Society for Cell Biology}.}
-\talk{2026/06/09}{Variational energy landscape analysis reveals population trends and individual heterogeneity during and after COVID-19 emergency declarations. \emph{40th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI 2026)}.}
-\talk{2026/03/05}{Towards quantification of diverse life phenomena: morphology, behavior, and psychology as information. \emph{SSTB2026 - Spring School for Theoretical Biology 2026}.}
-\talk{2024/09/16}{Development of quantitative analysis methods for biological morphology using deep learning. \emph{Japan Society for Industrial and Applied Mathematics Annual Meeting 2024}.}
-\talk{2024/03/09}{Development of quantitative analysis methods for biological morphology using deep learning. \emph{Online Seminar Series ``Future of Evolutionary Biology with AI''}.}
-\talk{2024/02/14}{Development of quantitative analysis methods for biological morphology using deep learning. \emph{8th Theoretical Immunology Workshop}.}
-\talk{2022/11/10}{Quantification of various biological morphologies using machine learning. \emph{Hiroshima University Mathematical Life Sciences Program Seminar}.}
-\talk{2021/10}{Quantification and application of biological morphology using machine learning: Focusing on primate mandibles. \emph{National Institute for Basic Biology Departmental Seminar}.}
+\begin{enumerate}
+\talk{2026/07/30}{AI for measuring morphological differences among living organisms}{FY2026 University of Tsukuba Open Lecture: Frontiers of Interdisciplinary Life Science Research 2026}
+\talk{2026/07/27}{Towards quantification of form using information science}{Workshop on Quantification of Form 2026}
+\talk{2026/07/15}{Development of methods for quantifying biological morphology with an information-science approach}{78th Annual Meeting of the Japan Society for Cell Biology}
+\talk{2026/06/09}{Variational energy landscape analysis reveals population trends and individual heterogeneity during and after COVID-19 emergency declarations}{40th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI 2026)}
+\talk{2026/03/05}{Towards quantification of diverse life phenomena: morphology, behavior, and psychology as information}{SSTB2026 - Spring School for Theoretical Biology 2026}
+\talk{2024/09/16}{Development of quantitative analysis methods for biological morphology using deep learning}{Japan Society for Industrial and Applied Mathematics Annual Meeting 2024}
+\talk{2024/03/09}{Development of quantitative analysis methods for biological morphology using deep learning}{Online Seminar Series ``Future of Evolutionary Biology with AI''}
+\talk{2024/02/14}{Development of quantitative analysis methods for biological morphology using deep learning}{8th Theoretical Immunology Workshop}
+\talk{2022/11/10}{Quantification of various biological morphologies using machine learning}{Hiroshima University Mathematical Life Sciences Program Seminar}
+\talk{2021/10/20}{Quantification and application of biological morphology using machine learning: Focusing on primate mandibles}{National Institute for Basic Biology Departmental Seminar}
+\end{enumerate}
 
 \section{Conference Presentations}
-\talk{2026/07/12}{Mind the gap: quantifying population--individual differences in depressive symptom dynamics using energy landscapes. \emph{2nd Systems Behavioral Science Workshop}.}
-\talk{2026/06/27}{Morphological character selection using machine learning for phylogenetic analysis: revisiting the phylogenetic position of lepidosaurs. \emph{Annual Meeting of the Palaeontological Society of Japan 2026}.}
-\talk{2026/02/20}{Quantitative Analysis of Biological Morphology and Behavior Based on Deep Learning: Development of Morpho-VAE and DOLO. \emph{Frontiers of coevolutionary phenotypic emergence research: tracing how research unfolds from its roots}.}
-\talk{2026/01/13}{Analysis of morphology and behavior using deep learning methods. \emph{Principles for Creating Life Functions through Evolutionary Information Assembly}.}
-\talk{2025/12/05}{Development of a markerless multi-individual tracking system for controlling cannibalistic behavior in crickets. \emph{47th Annual Meeting of the Japanese Society for Comparative Physiology and Biochemistry}.}
-\talk{2025/11/30}{Morphological quantification using deep learning: Morpho-VAE. \emph{99th Symposium on Science of Form ``Shape that brings motion''}.}
-\talk{2025}{Visualization of morphological variation using 3D Variational Autoencoder. \emph{34th Annual Meeting of the Japanese Society for Bioimaging}.}
-\talk{2025/05/30}{Behavioral analysis of double mutant Drosophila larvae using DOLO (Drosophila tracking with YOLO). \emph{1st Systems Behavioral Science Workshop}.}
-\talk{2025/02/20}{Estimation of psychological state transitions during/after emergency declarations using energy landscape analysis. \emph{SSTB2025 - Spring School for Theoretical Biology 2025}.}
-\talk{2024/09/12}{Proposal of morphological quantitative analysis methods using deep learning. \emph{Annual Meeting of the Japanese Society for Mathematical Biology 2024}.}
-\talk{2024/03/28}{Quantification of mouse behavior under social defeat stress using mathematical models. \emph{CPSY TOKYO 2024}.}
-\talk{2024/02/20}{Mathematical model of rumination in the brain using Bayesian inference. \emph{Spring School for Theoretical Biology 2024}.}
-\talk{2024/01/06}{Mathematical model of rumination in the brain using free energy principle. \emph{11th Annual Meeting of the Quantitative Biology Society}.}
-\talk{2023/12/16}{Unveiling the enigmatic Middle Devonian vertebrate, Palaeospondylus. \emph{The 3rd Asia Evo Conference Symposium}.}
-\talk{2023/08/08}{Development of a quantitative analysis method for biological morphology using deep learning. \emph{Statphys28 Satellite meeting: Statistical Physics and Information-Processing in Living Systems}.}
-\talk{2022/12/15}{Morphological feature extraction of primate mandibles using variational autoencoders. \emph{10th Annual Meeting of the Quantitative Biology Society}.}
-\talk{2022/09/30}{A method for morphological feature extraction based on variational auto-encoder. \emph{60th Annual Meeting of the Biophysical Society of Japan}.}
-\talk{2022/06/01}{A deep learning approach for the shape analysis of the primates mandible. \emph{Euro Evo Devo 2022}.}
-\talk{2020/01/31}{Verification of classification methods for 2D OCT images using two-stage networks. \emph{2nd Japanese Society for Medical AI Academic Conference}.}
+\begin{enumerate}
+\talk{2026/07/12}{Mind the gap: quantifying population--individual differences in depressive symptom dynamics using energy landscapes}{2nd Systems Behavioral Science Workshop}
+\talk{2026/06/27}{Morphological character selection using machine learning for phylogenetic analysis: revisiting the phylogenetic position of lepidosaurs}{Annual Meeting of the Palaeontological Society of Japan 2026}
+\talk{2026/02/20}{Quantitative Analysis of Biological Morphology and Behavior Based on Deep Learning: Development of Morpho-VAE and DOLO}{Frontiers of coevolutionary phenotypic emergence research: tracing how research unfolds from its roots}
+\talk{2026/01/13}{Analysis of morphology and behavior using deep learning methods}{Principles for Creating Life Functions through Evolutionary Information Assembly}
+\talk{2025/12/05}{Development of a markerless multi-individual tracking system for controlling cannibalistic behavior in crickets}{47th Annual Meeting of the Japanese Society for Comparative Physiology and Biochemistry}
+\talk{2025/11/30}{Morphological quantification using deep learning: Morpho-VAE}{99th Symposium on Science of Form ``Shape that brings motion''}
+\talk{2025/09/26}{Visualization of morphological variation using 3D Variational Autoencoder}{34th Annual Meeting of the Japanese Society for Bioimaging}
+\talk{2025/05/30}{Behavioral analysis of double mutant Drosophila larvae using DOLO (Drosophila tracking with YOLO)}{1st Systems Behavioral Science Workshop}
+\talk{2025/02/20}{Estimation of psychological state transitions during/after emergency declarations using energy landscape analysis}{SSTB2025 - Spring School for Theoretical Biology 2025}
+\talk{2024/09/12}{Proposal of morphological quantitative analysis methods using deep learning}{Annual Meeting of the Japanese Society for Mathematical Biology 2024}
+\talk{2024/03/28}{Quantification of mouse behavior under social defeat stress using mathematical models}{CPSY TOKYO 2024}
+\talk{2024/02/20}{Mathematical model of rumination in the brain using Bayesian inference}{Spring School for Theoretical Biology 2024}
+\talk{2024/01/06}{Mathematical model of rumination in the brain using free energy principle}{11th Annual Meeting of the Quantitative Biology Society}
+\talk{2023/12/16}{Unveiling the enigmatic Middle Devonian vertebrate, Palaeospondylus}{The 3rd Asia Evo Conference Symposium}
+\talk{2023/08/08}{Development of a quantitative analysis method for biological morphology using deep learning}{Statphys28 Satellite meeting: Statistical Physics and Information-Processing in Living Systems}
+\talk{2022/12/15}{Morphological feature extraction of primate mandibles using variational autoencoders}{10th Annual Meeting of the Quantitative Biology Society}
+\talk{2022/09/30}{A method for morphological feature extraction based on variational auto-encoder}{60th Annual Meeting of the Biophysical Society of Japan}
+\talk{2022/06/01}{A deep learning approach for the shape analysis of the primates mandible}{Euro Evo Devo 2022}
+\talk{2021/09/07}{Quantifying mandibular morphology using machine learning}{61st Summer School of the Young Biophysicists' Association}
+\talk{2020/10}{Quantification and application of biological morphology using machine learning}{20th Life Science Symposium}
+\talk{2020/09}{Quantification and application of biological morphology using machine learning}{58th Annual Meeting of the Biophysical Society of Japan}
+\talk{2020}{Quantification and application of biological morphology using machine learning}{3rd ExCELLS Symposium}
+\talk{2020/01/31}{Verification of classification methods for 2D OCT images using two-stage networks}{2nd Japanese Society for Medical AI Academic Conference}
+\talk{2019/09/05}{Quantification of biological morphology using machine learning}{Workshop on theoretical analysis and experimental verification for understanding stability and plasticity of biological systems}
+\talk{2019/09}{Quantitation of cell shape by machine learning}{57th Annual Meeting of the Biophysical Society of Japan}
+\talk{2019/08}{Machine learning of animal morphology using bones}{59th Life Science Summer School}
+\talk{2019/01}{Analysis of single-cell deformation dynamics}{9th Annual Meeting of the Quantitative Biology Society}
+\talk{2017/09}{Analysis of kinesin motility under temperature and pH conditions}{57th Summer School of the Young Biophysicists' Association}
+\talk{2014/09}{Motion analysis of Brownian particles}{Kyoto University ELCAS Research Presentation Meeting}
+\end{enumerate}
 
 \section{Research Projects}
-\begin{itemize}
+\begin{enumerate}
   \item \textbf{Morpho-VAE}: Landmark-free morphological feature extraction with variational autoencoders.
   \item \textbf{mindGAP}: Population--individual gap in depressive symptom dynamics via energy landscape analysis.
   \item \textbf{KANADE}: Disentanglement of batch effects and biological signals in scRNA-seq.
   \item \textbf{DOLO}: Multi-individual Drosophila larva tracking with YOLO.
-\end{itemize}
+\end{enumerate}
 
 \vspace{0.35em}
 {\footnotesize\color{muted}

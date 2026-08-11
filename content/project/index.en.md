@@ -55,7 +55,7 @@ In single-cell transcriptomics, **batch effects** due to differences in experime
 Demonstrates power in integrative analysis, meta-analysis, and database construction from multiple experimental batches.
 
 **Related Links:**
-- [📄 Paper](https://www.biorxiv.org/content/biorxiv/early/2025/04/16/2025.04.10.648296.full.pdf)
+- [📄 Paper](https://doi.org/10.1016/j.patter.2026.101638)
 - [💻 Code](https://github.com/ShuntaSakaguchi/kanade)
 
 ---
