@@ -40,8 +40,9 @@ build:
 <p class="home-pubs-meta">2026 / Peer-reviewed</p>
 <h3>Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome</h3>
 <p class="home-pubs-authors">Shunta Sakaguchi#, ○Masato TSUTSUMI#（共同筆頭）, Kentaro Nishi, Naoki Honda</p>
-<p class="home-pubs-venue">Patterns (in press; 2026年10月掲載予定)</p>
+<p class="home-pubs-venue">Patterns (2026年10月9日; Cover article)</p>
 <div class="home-pubs-links">
+<a href="https://www.cell.com/patterns/fulltext/S2666-3899(26)00147-9">Paper</a>
 <a href="https://doi.org/10.1016/j.patter.2026.101638">DOI</a>
 </div>
 </article>

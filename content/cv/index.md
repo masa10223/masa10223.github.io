@@ -21,7 +21,7 @@ layout: "single"
 - 2020年4月 - 2023年3月 理化学研究所 大学院生リサーチ・アソシエイト 
 
 ## 主要業績
-- Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome. *Patterns* (in press; 2026年10月掲載予定)
+- Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome. *Patterns* (2026年10月9日; Cover article)
 - Artificial-Intelligence-Based Cephalometric Landmark Detection in Lateral Cephalograms. *Journal of Clinical Medicine* (2026)
 - A deep learning approach for morphological feature extraction based on variational auto-encoder: an application to mandible shape. *npj Systems Biology and Applications* (2023)
 - Deciphering the origin of developmental stability: The role of intracellular expression variability in evolutionary conservation. *Evolution & Development* (2024)

@@ -17,7 +17,7 @@ layout: "single"
 **2026**
 - Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome  
   Shunta Sakaguchi\#, ○Masato Tsutsumi\#（共第一著者）, Kentaro Nishi, Naoki Honda  
-  *Patterns* (in press; 2026年10月掲載予定) [DOI](https://doi.org/10.1016/j.patter.2026.101638)
+  *Patterns* (2026年10月9日; Cover article) [Paper](https://www.cell.com/patterns/fulltext/S2666-3899(26)00147-9) | [DOI](https://doi.org/10.1016/j.patter.2026.101638)
 - Artificial-Intelligence-Based Cephalometric Landmark Detection in Lateral Cephalograms  
   Manami Yamaguchi, ○Masato Tsutsumi, Yasuhiro Kuroda, Yoshiki Soeda, Tetsutaro Yamaguchi  
   Journal of Clinical Medicine (2026年7月30日) [PDF](https://www.mdpi.com/2077-0383/15/15/5943) | [DOI](https://doi.org/10.3390/jcm15155943)
