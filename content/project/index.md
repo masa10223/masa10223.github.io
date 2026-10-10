@@ -36,7 +36,7 @@ layout: "single"
 ## 🔬 KANADE: バッチ効果除去技術
 <div id="kanade">
 
-![KANADE](/images/projects/kanade.png)
+![Patterns cover](/images/publications/patterns-2026-cover.png)
 
 ### 背景
 単一細胞トランスクリプトミクスでは、実験条件の違いによる**バッチ効果**が解析の大きな障害となっています。従来手法では生物学的信号も同時に除去してしまう問題がありました。

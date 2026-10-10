@@ -1696,6 +1696,17 @@ section#publications.home-section {
   }
 }
 
+/* Cover / figure thumbnails inside publication lists */
+.publications-container img {
+  display: block;
+  max-width: 180px;
+  width: 100%;
+  height: auto;
+  margin: 0.45rem 0 0.55rem;
+  border-radius: 8px;
+  border: 1px solid rgba(191, 219, 254, 0.28);
+}
+
 /* Publications page cards (JA/EN) */
 .publications-container {
   max-width: 1320px;
@@ -1936,6 +1947,16 @@ section#publications.home-section {
   font-size: 0.95rem;
   line-height: 1.64;
   word-break: break-word;
+
+  img {
+    display: block;
+    max-width: 160px;
+    width: 100%;
+    height: auto;
+    margin: 0.4rem 0 0.55rem;
+    border-radius: 8px;
+    border: 1px solid rgba(191, 219, 254, 0.28);
+  }
 }
 
 .pub-page-card-body a {

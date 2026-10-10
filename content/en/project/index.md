@@ -41,7 +41,7 @@ Wide-ranging applications expected in evolutionary biology, morphology, medical 
 ## 🔬 KANADE: Batch Effect Removal Technology
 <div id="kanade"></div>
 
-![KANADE](/images/projects/kanade.png)
+![Patterns cover](/images/publications/patterns-2026-cover.png)
 
 ### Background
 In single-cell transcriptomics, **batch effects** due to differences in experimental conditions are a major obstacle to analysis. Conventional methods have the problem of simultaneously removing biological signals.

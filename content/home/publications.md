@@ -37,10 +37,11 @@ build:
 <div class="home-pubs-panels">
 <section class="home-pubs-panel panel-papers">
 <article class="home-pubs-card">
-<p class="home-pubs-meta">2026 / Peer-reviewed</p>
-<h3>Disentanglement of batch effects and biological signals across conditions in the single-cell transcriptome</h3>
-<p class="home-pubs-authors">Shunta Sakaguchi#, ○Masato TSUTSUMI#（共同筆頭）, Kentaro Nishi, Naoki Honda</p>
-<p class="home-pubs-venue">Patterns (2026年10月9日; Cover article)</p>
+<p class="home-pubs-meta">2026 / Peer-reviewed / Cover</p>
+<img src="/images/publications/patterns-2026-cover.png" alt="Patterns cover" style="width:100%;max-width:220px;border-radius:8px;margin:0.2rem 0 0.4rem;">
+<h3>Disentangling batch effects and biological signals across conditions in single-cell transcriptome</h3>
+<p class="home-pubs-authors">Sakaguchi S#, ○Tsutsumi M#（共第一著者）, Nishi K, Honda N</p>
+<p class="home-pubs-venue">Patterns, 2026; 7</p>
 <div class="home-pubs-links">
 <a href="https://www.cell.com/patterns/fulltext/S2666-3899(26)00147-9">Paper</a>
 <a href="https://doi.org/10.1016/j.patter.2026.101638">DOI</a>
