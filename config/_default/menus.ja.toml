@@ -18,6 +18,11 @@ name   = "研究業績"
 url = "/publication/"
 weight = 30
 
+# [[main]]
+# name   = "研究ノート"
+# url = "/notes/"
+# weight = 35
+
 [[main]]
 name   = "CV"
 url = "/cv/"

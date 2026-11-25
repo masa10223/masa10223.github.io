@@ -40,6 +40,9 @@ layout: "single"
 <div class="preprint-list">
 
 **2026**
+- Computational model for Rumination as Self-Supervised Learning in a World Model  
+  *Kengo Inutsuka, Masato Tsutsumi, Iori Higashino, Yasushi Okochi, Takatoshi Hikida, Takahiro A. Kato, Honda Naoki*  
+  bioRxiv (November 23, 2026) [PDF](https://www.biorxiv.org/content/10.64898/2026.11.22.768285v1.full.pdf) | [DOI](https://doi.org/10.64898/2026.11.22.768285)
 - Mind the gap: quantifying population–individual gap in depressive symptom dynamics through energy landscapes  
   *Masato Tsutsumi, Taisei Kubo, Takahiro A. Kato, Naoki Honda*  
   bioRxiv (May 24, 2026; v2) [PDF](https://www.biorxiv.org/content/10.64898/2026.05.20.726729v2.full.pdf) | [DOI](https://doi.org/10.64898/2026.05.20.726729)

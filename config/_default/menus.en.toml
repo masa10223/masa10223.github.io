@@ -18,6 +18,11 @@
   url = "/en/publication/"
   weight = 30
 
+# [[main]]
+#   name   = "Notes"
+#   url = "/en/notes/"
+#   weight = 35
+
 [[main]]
   name   = "CV"
   url = "/en/cv/"

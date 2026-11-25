@@ -44,6 +44,7 @@ My research aims to treat life phenomena as a hierarchical system of morphology,
 - **Tsutsumi**, Saito, Koyabu, Furusawa. A deep learning approach for morphological feature extraction based on variational auto-encoder: an application to mandible shape. *npj Systems Biology and Applications* (2023)
 
 ## Preprints
+- Inutsuka, **Tsutsumi** et al. Computational model for Rumination as Self-Supervised Learning in a World Model. bioRxiv (2026)
 - **Tsutsumi** et al. Mind the gap: quantifying population–individual gap in depressive symptom dynamics through energy landscapes. bioRxiv (2026)
 - Matsuda-Watanabe, **Tsutsumi** et al. Chemosensory input suppresses cannibalism by stabilizing social feeding boundaries in Drosophila larvae. In submission (2026)
 - **Tsutsumi** et al. Decoding Anadara shell morphology with deep learning. bioRxiv (2026)
