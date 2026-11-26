@@ -3,4 +3,6 @@ title: "2026/4/21: プレプリントを公開しました"
 date: 2026-04-21T00:00:00+09:00
 draft: false
 ---
-[bioRxiv](https://www.biorxiv.org/content/10.64898/2026.04.17.719170v1) にプレプリント *Decoding Anadara shell morphology with deep learning* を掲載しました（投稿日: 2026年4月21日、doi: [10.64898/2026.04.17.719170](https://doi.org/10.64898/2026.04.17.719170)）。
+[bioRxiv](https://www.biorxiv.org/content/10.64898/2026.04.17.719170v1) にプレプリント *Decoding Anadara shell morphology with deep learning* を掲載しました（doi: [10.64898/2026.04.17.719170](https://doi.org/10.64898/2026.04.17.719170)）。
+
+二枚貝 *Anadara* 属5種の殻形態を、Morpho-VAE（変分オートエンコーダと識別器を組み合わせた深層生成モデル）で解析しました。従来のランドマーク解析や楕円フーリエ記述子と比較すると、低次元空間上で種ごとの形態クラスタが明確に分かれました。さらに patch masking により、蝶番線が種横断的な形態マーカーであること、殻頂付近や前腹縁付近に種特異的な領域があることなども示し、画像から種を特徴づける形態パターンを自動抽出できることを議論しています。
