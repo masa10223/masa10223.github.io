@@ -1,5 +1,5 @@
 ---
-title: "Aug 8, 2026: Preprint released"
+title: "Aug 8, 2026: Preprint on mindGAP (population–individual gaps in depressive symptoms)"
 date: 2026-08-08T00:00:00+09:00
 draft: false
 ---

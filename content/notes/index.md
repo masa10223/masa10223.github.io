@@ -17,7 +17,7 @@ draft: true
 
 Sakaguchi S\#, ○Tsutsumi M\#, Nishi K, Honda N. *Patterns*, 2026; 7 (Cover article).
 
-Morpho-VAE の考え方を scRNA-seq のバッチ効果除去に応用した研究。坂口さんとの雑談から始まり、共第一著者としてまとめた。
+Morpho-VAE の考え方を scRNA-seq のバッチ効果除去に応用した研究。坂口さんとの雑談から始まり、共同筆頭著者としてまとめた。
 
 
 ---

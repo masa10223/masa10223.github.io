@@ -1,5 +1,5 @@
 ---
-title: "Apr 21, 2026: New preprint on bioRxiv"
+title: "Apr 21, 2026: Preprint on decoding Anadara shell morphology with deep learning"
 date: 2026-04-21T00:00:00+09:00
 draft: false
 ---

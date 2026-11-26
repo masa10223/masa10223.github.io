@@ -1,5 +1,5 @@
 ---
-title: "Oct 10, 2026: Patterns paper published and featured on the cover"
+title: "Oct 10, 2026: Our deep-learning batch-effect removal paper featured on this month's Patterns cover"
 date: 2026-10-10T00:00:00+09:00
 draft: false
 image:

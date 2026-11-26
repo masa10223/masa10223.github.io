@@ -16,7 +16,7 @@ layout: "single"
 
 **2026**
 - Disentangling batch effects and biological signals across conditions in single-cell transcriptome  
-  Sakaguchi S\#, ○Tsutsumi M\#（共第一著者）, Nishi K, Honda N  
+  Sakaguchi S\#, ○Tsutsumi M\#（共同筆頭著者 / co-first）, Nishi K, Honda N  
   *Patterns*, 2026; 7 (Cover article)  
   ![Patterns cover](/images/publications/patterns-2026-cover.png)  
   [Paper](https://www.cell.com/patterns/fulltext/S2666-3899(26)00147-9) | [DOI](https://doi.org/10.1016/j.patter.2026.101638)
